@@ -1,0 +1,6823 @@
+[
+    {
+        "qrgTx": 29.65,
+        "qrgRx": 29.55,
+        "call": "HB9HD",
+        "qthName": "Fronalpstock\/SZ",
+        "qthLocator": "JN46HX",
+        "altitude": 1904,
+        "remarks": "NFM RX>HochYbrig",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9682706,
+        "longitude": 8.6373811,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 29.68,
+        "qrgRx": 29.58,
+        "call": "HB9EE",
+        "qthName": "Eglisau",
+        "qthLocator": "JN47GN",
+        "altitude": 554,
+        "remarks": "project 2020",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.5733207,
+        "longitude": 8.5239827,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 51.85,
+        "qrgRx": 51.25,
+        "call": "HB9F",
+        "qthName": "Schilthorn",
+        "qthLocator": "JN36WN",
+        "altitude": 2970,
+        "remarks": "FM T186.2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5573271,
+        "longitude": 7.8352093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T186.2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 51.89,
+        "qrgRx": 51.29,
+        "call": "HB9EE",
+        "qthName": "Eglisau",
+        "qthLocator": "JN47GN",
+        "altitude": 554,
+        "remarks": "project 2020",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.5733207,
+        "longitude": 8.5239827,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 51.93,
+        "qrgRx": 51.33,
+        "call": "HB9AM",
+        "qthName": "N\u00fctziweid",
+        "qthLocator": "JN47BG",
+        "altitude": 701,
+        "remarks": "FM (qrv 2nd 2019)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.2635972,
+        "longitude": 8.0900529,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 51.97,
+        "qrgRx": 51.37,
+        "call": "HB9NF",
+        "qthName": "Warten",
+        "qthLocator": "JN47LH",
+        "altitude": 1201,
+        "remarks": "C4FM* FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.575,
+        "qrgRx": 432.675,
+        "call": "HB9ID",
+        "qthName": "Hesebool",
+        "qthLocator": "JN47LN",
+        "altitude": 668,
+        "remarks": "FM T71.9 2m>70cm",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5625,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.825,
+        "qrgRx": 144.825,
+        "call": "HB9AC",
+        "qthName": "Pfeffingen",
+        "qthLocator": "JN37TL",
+        "altitude": 390,
+        "remarks": "EL#235967",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 7.625,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#235967"
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.825,
+        "qrgRx": 144.825,
+        "call": "HB9AW",
+        "qthName": "Willisau",
+        "qthLocator": "JN37XC",
+        "altitude": 605,
+        "remarks": "D-STAR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1215184,
+        "longitude": 7.99659,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.825,
+        "qrgRx": 144.825,
+        "call": "HB9VSD",
+        "qthName": "Verbier",
+        "qthLocator": "JN36OC",
+        "altitude": 1513,
+        "remarks": "D-STAR* CCS#84683",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.0967949,
+        "longitude": 7.2285478,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#84683"
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.825,
+        "qrgRx": 144.825,
+        "call": "HB9Z",
+        "qthName": "Forch",
+        "qthLocator": "JN47HH",
+        "altitude": 638,
+        "remarks": "C4FM #31931",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 47.3255509,
+        "longitude": 8.6468061,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#31931"
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.825,
+        "qrgRx": 144.825,
+        "call": "HB9MH",
+        "qthName": "Pregassona",
+        "qthLocator": "JN46LA",
+        "altitude": 404,
+        "remarks": "C4FM-Gateway",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.01905,
+        "longitude": 8.9744329,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.8625,
+        "qrgRx": 144.8625,
+        "call": "HB9OK",
+        "qthName": "Poschiavo",
+        "qthLocator": "JN56AH",
+        "altitude": 1015,
+        "remarks": "C4FM\/D-STAR\/DMR (09\/2019)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 46.3264671,
+        "longitude": 10.0581552,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.8625,
+        "qrgRx": 144.8625,
+        "call": "HB9UCQ",
+        "qthName": "T\u00eate-de-Ran",
+        "qthLocator": "JN37KB",
+        "altitude": 1353,
+        "remarks": "MM D-STAR\/DMR\/C4FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0542846,
+        "longitude": 6.8537003,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.8875,
+        "qrgRx": 144.8875,
+        "call": "HB9T",
+        "qthName": "Ch\u00e2teau-d'Oex",
+        "qthLocator": "JN47MN",
+        "altitude": 980,
+        "remarks": "C4FM #31157 (ID HB9HFV)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5625,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#31157"
+            }
+        ]
+    },
+    {
+        "qrgTx": 144.925,
+        "qrgRx": 144.925,
+        "call": "HB9UCQ",
+        "qthName": "La Berra",
+        "qthLocator": "JN36OQ",
+        "altitude": 1632,
+        "remarks": "MM D-STAR\/DMR\/C4FM (2020)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 46.6760352,
+        "longitude": 7.1839627,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.225,
+        "qrgRx": 145.225,
+        "call": "HB9LC",
+        "qthName": "Le Maillard",
+        "qthLocator": "JN37JC",
+        "altitude": 1241,
+        "remarks": "FM 1750 Echo 30s",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1041667,
+        "longitude": 6.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.2375,
+        "qrgRx": 145.2375,
+        "call": "HB9UCQ",
+        "qthName": "Le P\u00e2quier-M.",
+        "qthLocator": "JN36MO",
+        "altitude": 734,
+        "remarks": "D-STAR HB9UCQ_C",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5950644,
+        "longitude": 7.0527454,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.2875,
+        "qrgRx": 145.2875,
+        "call": "HB9BS",
+        "qthName": "Gempenfluh",
+        "qthLocator": "JN37TL",
+        "altitude": 759,
+        "remarks": "NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 7.625,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.2875,
+        "qrgRx": 145.2875,
+        "call": "HB9BC",
+        "qthName": "Wolfwil",
+        "qthLocator": "JN37WQ",
+        "altitude": 426,
+        "remarks": "EL#929173 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.6875,
+        "longitude": 7.875,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#929173"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.3375,
+        "qrgRx": 145.3375,
+        "call": "HB9FA",
+        "qthName": "Balsthal",
+        "qthLocator": "JN37UH",
+        "altitude": 489,
+        "remarks": "EL#4710 NFM DCS023",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3140365,
+        "longitude": 7.6947764,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "EL",
+                "addr": "#4710"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.3375,
+        "qrgRx": 145.3375,
+        "call": "HB9PE",
+        "qthName": "Rougement",
+        "qthLocator": "JN36OL",
+        "altitude": 993,
+        "remarks": "D-STAR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.4791667,
+        "longitude": 7.2083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.3375,
+        "qrgRx": 145.3375,
+        "call": "HB9AK",
+        "qthName": "Zernez",
+        "qthLocator": "JN56BQ",
+        "altitude": 1475,
+        "remarks": "EL#983475 NFM T123.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6979839,
+        "longitude": 10.0943311,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T123.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#983475"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.575,
+        "qrgRx": 144.975,
+        "call": "HB9ZRH",
+        "qthName": "\u00dcetliberg",
+        "qthLocator": "JN47FI",
+        "altitude": 862,
+        "remarks": "D-STAR CCS#80003",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3496439,
+        "longitude": 8.4911346,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#80003"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.575,
+        "qrgRx": 144.975,
+        "call": "HB9PE",
+        "qthName": "Mol\u00e9son",
+        "qthLocator": "JN36MN",
+        "altitude": 1973,
+        "remarks": "NFM\/NXDN (project 2016)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 46.5489446,
+        "longitude": 7.0171352,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.575,
+        "qrgRx": 144.975,
+        "call": "HB9DD",
+        "qthName": "Val Scura TI",
+        "qthLocator": "JN46MI",
+        "altitude": 1031,
+        "remarks": "NFM T103.6 <>Tamaro",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3541667,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.6"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.5875,
+        "qrgRx": 144.9875,
+        "call": "HB9HD",
+        "qthName": "Oberheid TG",
+        "qthLocator": "JN47ML",
+        "altitude": 773,
+        "remarks": "D-STAR CCS#95023",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#95023"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.5875,
+        "qrgRx": 145.5875,
+        "call": "HB9LC",
+        "qthName": "Le Locle",
+        "qthLocator": "JN37JB",
+        "altitude": 986,
+        "remarks": "SIMPLEX NOT IARU CONFORM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0625,
+        "longitude": 6.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 145.5875,
+        "qrgRx": 144.9875,
+        "call": "HB9RD",
+        "qthName": "Ch\u00e2tonnaye",
+        "qthLocator": "JN36LS",
+        "altitude": 687,
+        "remarks": "DMR-M #228108 C1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.752828,
+        "longitude": 6.938321,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-M #228108"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.5875,
+        "qrgRx": 144.9875,
+        "call": "HB9OH",
+        "qthName": "Axalp",
+        "qthLocator": "JN46AR",
+        "altitude": 1916,
+        "remarks": "C4FM* (prov. QTH)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7198508,
+        "longitude": 8.0366206,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6,
+        "qrgRx": 145,
+        "call": "HB9DD",
+        "qthName": "Monte Tamaro",
+        "qthLocator": "JN46KC",
+        "altitude": 1870,
+        "remarks": "EL#644556 T103.5 <>Scura",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1038934,
+        "longitude": 8.8660317,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#644556"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6,
+        "qrgRx": 145,
+        "call": "HB9LU",
+        "qthName": "Luzern",
+        "qthLocator": "JN47EB",
+        "altitude": 624,
+        "remarks": "EL#908271 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0625,
+        "longitude": 8.375,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#908271"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6,
+        "qrgRx": 145,
+        "call": "HB9BS",
+        "qthName": "Sch\u00f6nenbuch",
+        "qthLocator": "JN37SM",
+        "altitude": 396,
+        "remarks": "NFM T71.9 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5372962,
+        "longitude": 7.5019867,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6,
+        "qrgRx": 145,
+        "call": "HB9MM",
+        "qthName": "Les Pl\u00e9iades",
+        "qthLocator": "JN36KL",
+        "altitude": 1343,
+        "remarks": "NFM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4820859,
+        "longitude": 6.9092392,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6,
+        "qrgRx": 145,
+        "call": "HB9RW",
+        "qthName": "Parpaner Rothorn",
+        "qthLocator": "JN46TR",
+        "altitude": 2850,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.742392,
+        "longitude": 9.5975502,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6125,
+        "qrgRx": 145.0125,
+        "call": "HB9BO",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "D-STAR CCS#43453",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#43453"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6125,
+        "qrgRx": 145.0612,
+        "call": "HB9EE",
+        "qthName": "Eglisau",
+        "qthLocator": "JN47GN",
+        "altitude": 554,
+        "remarks": "C4FM NFM T69.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5733207,
+        "longitude": 8.5239827,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T69.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.625,
+        "qrgRx": 145.025,
+        "call": "HB9Y",
+        "qthName": "Moosalpe",
+        "qthLocator": "JN36WG",
+        "altitude": 2123,
+        "remarks": "NFM T103.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2708333,
+        "longitude": 7.875,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.625,
+        "qrgRx": 145.025,
+        "call": "HB9GE",
+        "qthName": "Gen\u00e8ve",
+        "qthLocator": "JN36BF",
+        "altitude": 449,
+        "remarks": "EL#4167 NFM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2256509,
+        "longitude": 6.1439209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T67.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#4167"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.625,
+        "qrgRx": 145.025,
+        "call": "HB9OK",
+        "qthName": "Poschiavo",
+        "qthLocator": "JN56AH",
+        "altitude": 1087,
+        "remarks": "C4FM #17731 NFM T103.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3264671,
+        "longitude": 10.0581552,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.5"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17731"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.625,
+        "qrgRx": 145.025,
+        "call": "HB9OK",
+        "qthName": "San Salvatore",
+        "qthLocator": "JN45LX",
+        "altitude": 864,
+        "remarks": "C4FM #18814",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 45.9791667,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#18814"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.625,
+        "qrgRx": 145.025,
+        "call": "HB9ND",
+        "qthName": "Melchnau",
+        "qthLocator": "JN37WE",
+        "altitude": 572,
+        "remarks": "NFM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1824376,
+        "longitude": 7.8518093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6375,
+        "qrgRx": 145.0375,
+        "call": "HB9CF",
+        "qthName": "Rigi Scheidegg",
+        "qthLocator": "JN47GA",
+        "altitude": 1648,
+        "remarks": "NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0274441,
+        "longitude": 8.5195668,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6375,
+        "qrgRx": 145.0375,
+        "call": "HB9VSD",
+        "qthName": "Verbier",
+        "qthLocator": "JN36OC",
+        "altitude": 1513,
+        "remarks": "MM: NFM DMR NXDN DPMR",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0967949,
+        "longitude": 7.2285478,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.65,
+        "qrgRx": 145.05,
+        "call": "HB9F",
+        "qthName": "Magglingen",
+        "qthLocator": "JN37OD",
+        "altitude": 876,
+        "remarks": "NFM T94.8 DMR* CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.14025,
+        "longitude": 7.215883,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR* CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6625,
+        "qrgRx": 145.0625,
+        "call": "HB9HAI",
+        "qthName": "Weissfluhgipfel",
+        "qthLocator": "JN46VT",
+        "altitude": 2806,
+        "remarks": "C4FM #28878 NFM T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8125,
+        "longitude": 9.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T141.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#28878"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6625,
+        "qrgRx": 145.0625,
+        "call": "HB9DS",
+        "qthName": "Zofingen",
+        "qthLocator": "JN37XH",
+        "altitude": 644,
+        "remarks": "D-STAR CCS#48003",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 7.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#48003"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6875,
+        "qrgRx": 145.0875,
+        "call": "HB9F",
+        "qthName": "Bern-Wankdorf",
+        "qthLocator": "JN36RX",
+        "altitude": 561,
+        "remarks": "DMR-B #228311 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9599837,
+        "longitude": 7.472708,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228311 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6875,
+        "qrgRx": 145.0875,
+        "call": "HB9EBS",
+        "qthName": "Laufen",
+        "qthLocator": "JN37SK",
+        "altitude": 384,
+        "remarks": "D-STAR CCS#47303",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4224096,
+        "longitude": 7.5020019,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#47303"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6875,
+        "qrgRx": 145.0875,
+        "call": "HB9BO",
+        "qthName": "Interlaken",
+        "qthLocator": "JN36WQ",
+        "altitude": 661,
+        "remarks": "DMR* #228392 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6855231,
+        "longitude": 7.8585139,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR* #228392 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.6875,
+        "qrgRx": 145.0875,
+        "call": "HB9DC",
+        "qthName": "Etzel",
+        "qthLocator": "JN47JE",
+        "altitude": 1092,
+        "remarks": "C4FM #17598 NFM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1776748,
+        "longitude": 8.7679387,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T77.0"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17598"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7,
+        "qrgRx": 145.1,
+        "call": "HB9F",
+        "qthName": "Schilthorn",
+        "qthLocator": "JN36WN",
+        "altitude": 2970,
+        "remarks": "NFM T94.8 APCO-P25",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5573271,
+        "longitude": 7.8352093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.725,
+        "qrgRx": 145.125,
+        "call": "HB9G",
+        "qthName": "Poele Chaud",
+        "qthLocator": "JN36BK",
+        "altitude": 1628,
+        "remarks": "NFM \"G\"",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 6.125,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.725,
+        "qrgRx": 145.125,
+        "call": "HB9Z",
+        "qthName": "Wildberg",
+        "qthLocator": "JN47JK",
+        "altitude": 618,
+        "remarks": "C4FM #17780 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4269269,
+        "longitude": 8.8166167,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17780"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.725,
+        "qrgRx": 145.15,
+        "call": "HB9T",
+        "qthName": "Roth\u00f6chi",
+        "qthLocator": "JN37TA",
+        "altitude": 686,
+        "remarks": "NFM\/C4FM (10\/2020)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0396027,
+        "longitude": 7.6156314,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7375,
+        "qrgRx": 145.1375,
+        "call": "HB9FS",
+        "qthName": "Bad Ramsach",
+        "qthLocator": "JN37WJ",
+        "altitude": 750,
+        "remarks": "NFM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4061826,
+        "longitude": 7.8720113,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7375,
+        "qrgRx": 145.1375,
+        "call": "HB9SP",
+        "qthName": "Z\u00fcrich",
+        "qthLocator": "JN47GJ",
+        "altitude": 513,
+        "remarks": "NFM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 8.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T77.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7375,
+        "qrgRx": 145.1375,
+        "call": "HB9RAR",
+        "qthName": "Morlon",
+        "qthLocator": "JN36MO",
+        "altitude": 785,
+        "remarks": "D-STAR* CCS#20603",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6041667,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#20603"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.75,
+        "qrgRx": 145.15,
+        "call": "HB9Y",
+        "qthName": "Sex Carro",
+        "qthLocator": "JN36MD",
+        "altitude": 2091,
+        "remarks": "NFM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1472508,
+        "longitude": 7.0785927,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.75,
+        "qrgRx": 145.15,
+        "call": "HB9BC",
+        "qthName": "L\u00e4ufelfingen",
+        "qthLocator": "JN37WJ",
+        "altitude": 846,
+        "remarks": "EL#208314 T82.5 D-STAR",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958161,
+        "longitude": 7.8546951,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#208314"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7625,
+        "qrgRx": 145.1625,
+        "call": "HB9H",
+        "qthName": "Monte Tamaro",
+        "qthLocator": "JN46KC",
+        "altitude": 1883,
+        "remarks": "NFM T103.5 & Carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1038934,
+        "longitude": 8.8660317,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7625,
+        "qrgRx": 145.1625,
+        "call": "HB9ZF",
+        "qthName": "Bachtel",
+        "qthLocator": "JN47KH",
+        "altitude": 946,
+        "remarks": "NFM T71.9 <>Rigi",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2941899,
+        "longitude": 8.885733,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7625,
+        "qrgRx": 145.1625,
+        "call": "HB9IAC",
+        "qthName": "La Barillette",
+        "qthLocator": "JN36BK",
+        "altitude": 1514,
+        "remarks": "D-STAR DCS115A",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4304853,
+        "longitude": 6.123073,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7625,
+        "qrgRx": 145.1625,
+        "call": "HB9GOMS",
+        "qthName": "Reckingen VS",
+        "qthLocator": "JN46CL",
+        "altitude": 1321,
+        "remarks": "NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4695629,
+        "longitude": 8.2431589,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7625,
+        "qrgRx": 145.1625,
+        "call": "HB9Y",
+        "qthName": "Zermatt",
+        "qthLocator": "JN36VA",
+        "altitude": 1615,
+        "remarks": "NFM carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0208333,
+        "longitude": 7.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.775,
+        "qrgRx": 145.175,
+        "call": "HB9AG",
+        "qthName": "L\u00e4gern",
+        "qthLocator": "JN47EL",
+        "altitude": 880,
+        "remarks": "NFM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4816084,
+        "longitude": 8.3820732,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T77.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7875,
+        "qrgRx": 145.1875,
+        "call": "HB9AW",
+        "qthName": "Twerenegg",
+        "qthLocator": "JN47AB",
+        "altitude": 903,
+        "remarks": "D-STAR CCS#61303",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0658415,
+        "longitude": 8.0120157,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#61303"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7875,
+        "qrgRx": 145.1875,
+        "call": "HB9PE",
+        "qthName": "Ch\u00e2teau-d'Oeux",
+        "qthLocator": "JN36MK",
+        "altitude": 1662,
+        "remarks": "DMR-B #228126 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228126 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 145.7875,
+        "qrgRx": 145.1875,
+        "call": "HB9GR",
+        "qthName": "Weisshorn",
+        "qthLocator": "JN46TS",
+        "altitude": 2635,
+        "remarks": "C4FM* #17586 NFM T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.7895889,
+        "longitude": 9.6387758,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T141.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 432.675,
+        "qrgRx": 144.575,
+        "call": "HB9ID",
+        "qthName": "Hesebool",
+        "qthLocator": "JN47LN",
+        "altitude": 668,
+        "remarks": "FM T71.9 70cm>2m",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5625,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 432.7375,
+        "qrgRx": 432.7375,
+        "call": "HB9RAR",
+        "qthName": "Morlon",
+        "qthLocator": "JN36MO",
+        "altitude": 785,
+        "remarks": "D-STAR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6041667,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 432.75,
+        "qrgRx": 432.75,
+        "call": "HB9AW",
+        "qthName": "Sursee",
+        "qthLocator": "JN47BE",
+        "altitude": 502,
+        "remarks": "D-STAR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1740371,
+        "longitude": 8.1089654,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 432.775,
+        "qrgRx": 432.775,
+        "call": "HB9AW",
+        "qthName": "Willisau",
+        "qthLocator": "JN37XC",
+        "altitude": 605,
+        "remarks": "D-STAR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1215184,
+        "longitude": 7.99659,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 432.825,
+        "qrgRx": 432.825,
+        "call": "HB9F",
+        "qthName": "Brienz",
+        "qthLocator": "JN46AR",
+        "altitude": 693,
+        "remarks": "EL#258487 FM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.7425595,
+        "longitude": 8.0630417,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T94.8"
+            },
+            {
+                "type": "EL",
+                "addr": "#258487"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.0375,
+        "qrgRx": 430.4375,
+        "call": "HB9BO",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "APCO-25",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 438.1,
+        "qrgRx": 438.1,
+        "call": "HB9GL",
+        "qthName": "Eschenbach",
+        "qthLocator": "JN47LF",
+        "altitude": 480,
+        "remarks": "C4FM #17263",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2291667,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17263"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.15,
+        "qrgRx": 438.15,
+        "call": "HB9GL",
+        "qthName": "Riedern GL",
+        "qthLocator": "JN47MB",
+        "altitude": 493,
+        "remarks": "C4FM #17093",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0499479,
+        "longitude": 9.0515165,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17093"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.15,
+        "qrgRx": 438.15,
+        "call": "HB9EE",
+        "qthName": "H\u00fcntwangen",
+        "qthLocator": "JN47FO",
+        "altitude": 396,
+        "remarks": "project 2020",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.5954244,
+        "longitude": 8.4925331,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 438.175,
+        "qrgRx": 438.175,
+        "call": "HB9GL",
+        "qthName": "Nuolen",
+        "qthLocator": "JN47KE",
+        "altitude": 410,
+        "remarks": "C4FM #17315",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2036583,
+        "longitude": 8.8876137,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17315"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2,
+        "qrgRx": 430.6,
+        "call": "HB9DR",
+        "qthName": "Wohlen",
+        "qthLocator": "JN47DI",
+        "altitude": 419,
+        "remarks": "DMR-I #228501 CC1 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3504945,
+        "longitude": 8.2786906,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228501 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2,
+        "qrgRx": 430.6,
+        "call": "HB9FG",
+        "qthName": "Coffrane",
+        "qthLocator": "JN37KA",
+        "altitude": 950,
+        "remarks": "C4FM* (project 2018)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.00904045,
+        "longitude": 6.867723972220008,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2125,
+        "qrgRx": 430.6125,
+        "call": "HB9F",
+        "qthName": "Schilthorn",
+        "qthLocator": "JN36WN",
+        "altitude": 2963,
+        "remarks": "DMR-B #228302 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5573271,
+        "longitude": 7.8352093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228302 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2125,
+        "qrgRx": 430.6125,
+        "call": "HB9DC",
+        "qthName": "M\u00e4nnedorf",
+        "qthLocator": "JN47IG",
+        "altitude": 420,
+        "remarks": "DMR-B #228802 CC5 testing",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 47.253174,
+        "longitude": 8.6918153,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228802 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2125,
+        "qrgRx": 430.6125,
+        "call": "HB9DR",
+        "qthName": "St. Gallen",
+        "qthLocator": "JN47QK",
+        "altitude": 654,
+        "remarks": "MM DMR-B\/I #228903 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4250593,
+        "longitude": 9.3765878,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.225,
+        "qrgRx": 430.625,
+        "call": "HB9BA",
+        "qthName": "Weissenstein",
+        "qthLocator": "JN37SG",
+        "altitude": 1280,
+        "remarks": "DMR-B #228402 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2531649,
+        "longitude": 7.5080204,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228402 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.225,
+        "qrgRx": 430.625,
+        "call": "HB9DR",
+        "qthName": "St. Gallen",
+        "qthLocator": "JN47QJ",
+        "altitude": 767,
+        "remarks": "DMR-I #228901 CC2 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 9.375,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228901 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.225,
+        "qrgRx": 430.625,
+        "call": "HB9CF",
+        "qthName": "Andermatt",
+        "qthLocator": "JN46GP",
+        "altitude": 1857,
+        "remarks": "DMR-B #228612 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.629718249999996,
+        "longitude": 8.576460663684966,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228612 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2375,
+        "qrgRx": 430.6375,
+        "call": "HB9BG",
+        "qthName": "Belp",
+        "qthLocator": "JN36SV",
+        "altitude": 510,
+        "remarks": "DMR* #228306",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.89058675,
+        "longitude": 7.50967570171648,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR* #228306"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2375,
+        "qrgRx": 430.6375,
+        "call": "HB9NF",
+        "qthName": "Sternenberg",
+        "qthLocator": "JN47KJ",
+        "altitude": 885,
+        "remarks": "C4FM* NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 47.3870845,
+        "longitude": 8.9113948,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2375,
+        "qrgRx": 430.6375,
+        "call": "HB9NF",
+        "qthName": "Warten",
+        "qthLocator": "JN47LH",
+        "altitude": 1201,
+        "remarks": "C4FM* NFM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T67.0"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.25,
+        "qrgRx": 430.65,
+        "call": "HB9ID",
+        "qthName": "St. Iddaburg",
+        "qthLocator": "JN47LJ",
+        "altitude": 966,
+        "remarks": "C4FM* NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3881814,
+        "longitude": 8.9792522,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.25,
+        "qrgRx": 430.65,
+        "call": "HB9IAP",
+        "qthName": "La Barillette",
+        "qthLocator": "JN36BK",
+        "altitude": 1514,
+        "remarks": "DMR-B #228110 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4304853,
+        "longitude": 6.123073,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228110 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.25,
+        "qrgRx": 430.65,
+        "call": "HB9IPA",
+        "qthName": "Steinhof",
+        "qthLocator": "JN37UD",
+        "altitude": 554,
+        "remarks": "C4FM #17765",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.161244,
+        "longitude": 7.68624,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17765"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2625,
+        "qrgRx": 430.6625,
+        "call": "HB9OH",
+        "qthName": "Brienzwiler",
+        "qthLocator": "JN46BS",
+        "altitude": 1329,
+        "remarks": "C4FM #17779 NFM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7501194,
+        "longitude": 8.1021125,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T77.0"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17779"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2625,
+        "qrgRx": 430.6625,
+        "call": "HB9DR",
+        "qthName": "Chur",
+        "qthLocator": "JN46SU",
+        "altitude": 589,
+        "remarks": "DMR-I #228703 CC1 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.855515,
+        "longitude": 9.5254066,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228703 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2625,
+        "qrgRx": 430.6625,
+        "call": "HB9ZF",
+        "qthName": "Uetliberg",
+        "qthLocator": "JN47FI",
+        "altitude": 824,
+        "remarks": "DMR-B #228811 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3496439,
+        "longitude": 8.4911346,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228811 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2625,
+        "qrgRx": 430.6625,
+        "call": "HB9DM",
+        "qthName": "Liestal",
+        "qthLocator": "JN37UL",
+        "altitude": 603,
+        "remarks": "NXDN-Relais",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4839723,
+        "longitude": 7.7347783,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 438.2625,
+        "qrgRx": 430.6625,
+        "call": "HB9JEZ",
+        "qthName": "St. Gallen",
+        "qthLocator": "JN47QK",
+        "altitude": 657,
+        "remarks": "DMR-B #228902 CC1 (inoff)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 47.4250593,
+        "longitude": 9.3765878,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228902 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.275,
+        "qrgRx": 430.675,
+        "call": "HB9CR",
+        "qthName": "Grindel",
+        "qthLocator": "JN37SJ",
+        "altitude": 593,
+        "remarks": "C4FM #18712",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3817049,
+        "longitude": 7.5026184,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#18712"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2875,
+        "qrgRx": 430.6875,
+        "call": "HB9GF",
+        "qthName": "Leidenberg",
+        "qthLocator": "JN47AD",
+        "altitude": 685,
+        "remarks": "DMR* NFM T71.9 <>Menzberg",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1549231,
+        "longitude": 8.0762229,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR*"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2875,
+        "qrgRx": 430.6875,
+        "call": "HB9GF",
+        "qthName": "Menzberg LU",
+        "qthLocator": "JN37XA",
+        "altitude": 1027,
+        "remarks": "DMR\/NFM <>Leidenberg",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0402758,
+        "longitude": 7.9977498,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.2875,
+        "qrgRx": 430.6875,
+        "call": "HB9EE",
+        "qthName": "Etzgen",
+        "qthLocator": "JN47BN",
+        "altitude": 384,
+        "remarks": "C4FM #31504",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5720309,
+        "longitude": 8.1108566,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#31504"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3,
+        "qrgRx": 430.7,
+        "call": "HB9AR",
+        "qthName": "Gen\u00e8ve",
+        "qthLocator": "JN36BE",
+        "altitude": 421,
+        "remarks": "D-STAR CCS#41812",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2017559,
+        "longitude": 6.1466014,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#41812"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3,
+        "qrgRx": 430.7,
+        "call": "HB9GR",
+        "qthName": "Chur",
+        "qthLocator": "JN46SU",
+        "altitude": 580,
+        "remarks": "C4FM #17586 NFM T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.855515,
+        "longitude": 9.5254066,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T141.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17586"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3125,
+        "qrgRx": 430.7125,
+        "call": "HB9DC",
+        "qthName": "Etzel",
+        "qthLocator": "JN47JE",
+        "altitude": 1092,
+        "remarks": "DMR-B #228808 C5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1776748,
+        "longitude": 8.7679387,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228808"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3125,
+        "qrgRx": 430.7125,
+        "call": "HB9CSR",
+        "qthName": "Laufen",
+        "qthLocator": "JN37SK",
+        "altitude": 384,
+        "remarks": "DMR-B #228410 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4224096,
+        "longitude": 7.5020019,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228410 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3125,
+        "qrgRx": 430.7125,
+        "call": "HB9VD",
+        "qthName": "Middes",
+        "qthLocator": "JN36LS",
+        "altitude": 673,
+        "remarks": "D-STAR* HB9VD__A",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7680947,
+        "longitude": 6.9491864,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.325,
+        "qrgRx": 430.725,
+        "call": "HB9BG",
+        "qthName": "Falkenfluh",
+        "qthLocator": "JN36UT",
+        "altitude": 1035,
+        "remarks": "DMR* #228307",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8125,
+        "longitude": 7.7083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR* #228307"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.325,
+        "qrgRx": 430.725,
+        "call": "HB9F",
+        "qthName": "Ringgenberg",
+        "qthLocator": "JN36WQ",
+        "altitude": 590,
+        "remarks": "MM D-STAR\/APCO\/DMR\/NFM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7044135,
+        "longitude": 7.8960911,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.325,
+        "qrgRx": 430.725,
+        "call": "HB9DM",
+        "qthName": "L\u00e4ufelfingen",
+        "qthLocator": "JN37WJ",
+        "altitude": 845,
+        "remarks": "DMR-B #228414 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958161,
+        "longitude": 7.8546951,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228414 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3375,
+        "qrgRx": 430.7375,
+        "call": "HB9DC",
+        "qthName": "Etzel",
+        "qthLocator": "JN47JE",
+        "altitude": 1092,
+        "remarks": "MM DMR P25$293 NFM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1776748,
+        "longitude": 8.7679387,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T77.0"
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3375,
+        "qrgRx": 430.7375,
+        "call": "HB9VD",
+        "qthName": "Le Chasseron",
+        "qthLocator": "JN36GU",
+        "altitude": 1570,
+        "remarks": "DMR-B #228125 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8518295,
+        "longitude": 6.5379796,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228125 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.35,
+        "qrgRx": 430.75,
+        "call": "HB9EAS",
+        "qthName": "Nenzlingen",
+        "qthLocator": "JN37SK",
+        "altitude": 652,
+        "remarks": "DMR-B #228406 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4477386,
+        "longitude": 7.5621906,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228406 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3625,
+        "qrgRx": 430.7625,
+        "call": "HB9SG",
+        "qthName": "Hoher Kasten",
+        "qthLocator": "JN47RG",
+        "altitude": 1773,
+        "remarks": "DMR-B #229904 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2834897,
+        "longitude": 9.4851111,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #229904 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3625,
+        "qrgRx": 430.7625,
+        "call": "HB9AK",
+        "qthName": "Kloten",
+        "qthLocator": "JN47GK",
+        "altitude": 438,
+        "remarks": "DMR-B #228819 CC8 local",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4481167,
+        "longitude": 8.5830945,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228819 CC8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3625,
+        "qrgRx": 430.7625,
+        "call": "HB9KK",
+        "qthName": "M\u00fcnsingen",
+        "qthLocator": "JN36SU",
+        "altitude": 596,
+        "remarks": "C4FM #17381 (inoff)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.8739775,
+        "longitude": 7.5631943,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17381"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.375,
+        "qrgRx": 431.1375,
+        "call": "HB9DR",
+        "qthName": "Rheineck",
+        "qthLocator": "JN47TL",
+        "altitude": 450,
+        "remarks": "C4FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4706336,
+        "longitude": 9.584108,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.375,
+        "qrgRx": 430.775,
+        "call": "HB9UCQ",
+        "qthName": "Le P\u00e2quier-M.",
+        "qthLocator": "JN36MO",
+        "altitude": 734,
+        "remarks": "D-STAR\/DMR-B #228131\/C4FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5950644,
+        "longitude": 7.0527454,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228131"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.375,
+        "qrgRx": 430.775,
+        "call": "HB9NFB",
+        "qthName": "Gempen",
+        "qthLocator": "JN37TL",
+        "altitude": 755,
+        "remarks": "DMR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4744704,
+        "longitude": 7.660411082807633,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR*"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3875,
+        "qrgRx": 430.7875,
+        "call": "HB9ZG",
+        "qthName": "Rigi-Scheidegg",
+        "qthLocator": "JN47GA",
+        "altitude": 1654,
+        "remarks": "C4FM #18754 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0274441,
+        "longitude": 8.5195668,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#18754"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3875,
+        "qrgRx": 430.7875,
+        "call": "HB9DM",
+        "qthName": "Langenbruck",
+        "qthLocator": "JN37VI",
+        "altitude": 704,
+        "remarks": "DMR-B #228409 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3498274,
+        "longitude": 7.7681007,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228409 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.3875,
+        "qrgRx": 430.7875,
+        "call": "HB9DM",
+        "qthName": "L\u00e4ufelfingen",
+        "qthLocator": "JN37WJ",
+        "altitude": 845,
+        "remarks": "DMR-B #228412 CC2 dummy",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 47.3958161,
+        "longitude": 7.8546951,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228412 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4,
+        "qrgRx": 430.8,
+        "call": "HB9LU",
+        "qthName": "Luzern",
+        "qthLocator": "JN47CA",
+        "altitude": 939,
+        "remarks": "C4FM #17119 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0208333,
+        "longitude": 8.2083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17119"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4,
+        "qrgRx": 430.8,
+        "call": "HB9AK",
+        "qthName": "Schleitheim SH",
+        "qthLocator": "JN47FR",
+        "altitude": 559,
+        "remarks": "EL#326020 NFM T88.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.7488818,
+        "longitude": 8.4845902,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T88.5"
+            },
+            {
+                "type": "EL",
+                "addr": "#326020"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4125,
+        "qrgRx": 430.8125,
+        "call": "HB9W",
+        "qthName": "Br\u00fctten",
+        "qthLocator": "JN47IL",
+        "altitude": 610,
+        "remarks": "C4FM #34126 NFM T88.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4731491,
+        "longitude": 8.6753241,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T88.5"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#34126"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4125,
+        "qrgRx": 430.8125,
+        "call": "HB9EAS",
+        "qthName": "Rheinfelden",
+        "qthLocator": "JN37VN",
+        "altitude": 278,
+        "remarks": "DMR-B #228411 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5543859,
+        "longitude": 7.7922905,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228411 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.425,
+        "qrgRx": 430.825,
+        "call": "HB9DA",
+        "qthName": "Schmiedrued\/AG",
+        "qthLocator": "JN47BG",
+        "altitude": 701,
+        "remarks": "C4FM #17097 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.270044,
+        "longitude": 8.103455,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17097"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.425,
+        "qrgRx": 430.825,
+        "call": "HB9AS",
+        "qthName": "La Berneuse",
+        "qthLocator": "JN36MI",
+        "altitude": 2030,
+        "remarks": "DMR-B #228128 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3597739,
+        "longitude": 7.0017835,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228128 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4375,
+        "qrgRx": 430.8375,
+        "call": "HB9DD",
+        "qthName": "Castel S. Pietro",
+        "qthLocator": "JN45MV",
+        "altitude": 967,
+        "remarks": "DMR-B #228605 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 45.8958333,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228605 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4375,
+        "qrgRx": 430.8375,
+        "call": "HB9DM",
+        "qthName": "Liestal",
+        "qthLocator": "JN37UL",
+        "altitude": 602,
+        "remarks": "DMR-B #228404 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4839723,
+        "longitude": 7.7347783,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228404 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4375,
+        "qrgRx": 430.8375,
+        "call": "HB9DD",
+        "qthName": "Val Scura",
+        "qthLocator": "JN46LI",
+        "altitude": 1031,
+        "remarks": "DMR-B #228604 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3353943,
+        "longitude": 8.990886,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228604 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4375,
+        "qrgRx": 430.8375,
+        "call": "HB9FB",
+        "qthName": "Scheidegg",
+        "qthLocator": "JN47LH",
+        "altitude": 1187,
+        "remarks": "C4FM* NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3034079,
+        "longitude": 8.9438787,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4375,
+        "qrgRx": 430.8375,
+        "call": "HB9DD",
+        "qthName": "Costa Piana",
+        "qthLocator": "JN46HH",
+        "altitude": 1872,
+        "remarks": "DMR-B #228619 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3125,
+        "longitude": 8.625,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228619 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.45,
+        "qrgRx": 430.85,
+        "call": "HB0FL",
+        "qthName": "Gaflei",
+        "qthLocator": "JN47SD",
+        "altitude": 1483,
+        "remarks": "C4FM #17827",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1422814,
+        "longitude": 9.5447613,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17827"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.45,
+        "qrgRx": 430.85,
+        "call": "HB9FG",
+        "qthName": "Coffrane",
+        "qthLocator": "JN37KA",
+        "altitude": 950,
+        "remarks": "DMR-B #228201 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.00904045,
+        "longitude": 6.867723972220008,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228201 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.45,
+        "qrgRx": 430.85,
+        "call": "HB9FX",
+        "qthName": "Zofingen",
+        "qthLocator": "JN37XH",
+        "altitude": 644,
+        "remarks": "DMR-B #228403 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 7.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228403 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.45,
+        "qrgRx": 430.85,
+        "call": "HB9OK",
+        "qthName": "Poschiavo",
+        "qthLocator": "JN56AH",
+        "altitude": 1087,
+        "remarks": "DMR-I #228707 CC1 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3264671,
+        "longitude": 10.0581552,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228707 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9DD",
+        "qthName": "Monte Tamaro",
+        "qthLocator": "JN46KC",
+        "altitude": 1870,
+        "remarks": "DMR-B #228602 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1038934,
+        "longitude": 8.8660317,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228602 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Schilthorn",
+        "qthLocator": "JN36WN",
+        "altitude": 2963,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5573271,
+        "longitude": 7.8352093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Seftigen",
+        "qthLocator": "JN36SS",
+        "altitude": 567,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7887815,
+        "longitude": 7.5396362,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Bern (City)",
+        "qthLocator": "JN36RW",
+        "altitude": 568,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9472071,
+        "longitude": 7.4398352,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Ringgenberg",
+        "qthLocator": "JN36WQ",
+        "altitude": 590,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7044135,
+        "longitude": 7.8960911,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "M\u00fcnchenbuchsee",
+        "qthLocator": "JN37RA",
+        "altitude": 583,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0213315,
+        "longitude": 7.4519196,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4625,
+        "qrgRx": 430.8625,
+        "call": "HB9F",
+        "qthName": "Brienz",
+        "qthLocator": "JN46AR",
+        "altitude": 693,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7425595,
+        "longitude": 8.0630417,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.475,
+        "qrgRx": 430.875,
+        "call": "HB4FV",
+        "qthName": "Premier VD",
+        "qthLocator": "JN36FQ",
+        "altitude": 888,
+        "remarks": "C4FM #17062",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7047978,
+        "longitude": 6.444282,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17062"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.475,
+        "qrgRx": 430.875,
+        "call": "HB9SP",
+        "qthName": "Siblinger Randen",
+        "qthLocator": "JN47GR",
+        "altitude": 840,
+        "remarks": "DMR-I #228812 CC5 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.726848000000004,
+        "longitude": 8.536442741961391,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228812 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4875,
+        "qrgRx": 430.8875,
+        "call": "HB9DD",
+        "qthName": "Monte Generoso",
+        "qthLocator": "JN45MV",
+        "altitude": 1213,
+        "remarks": "DMR-B #228601 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 45.9075648,
+        "longitude": 9.0026209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228601 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4875,
+        "qrgRx": 430.8875,
+        "call": "HB9DD",
+        "qthName": "Poschiavo",
+        "qthLocator": "JN56AH",
+        "altitude": 1011,
+        "remarks": "DMR-B #228701 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3264671,
+        "longitude": 10.0581552,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228701 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4875,
+        "qrgRx": 430.8875,
+        "call": "HB9NA",
+        "qthName": "Mellingen",
+        "qthLocator": "JN47DJ",
+        "altitude": 356,
+        "remarks": "C4FM #31707 NFM T74.4",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 8.2916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T74.4"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#31707"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4875,
+        "qrgRx": 430.8875,
+        "call": "HB9DR",
+        "qthName": "St. Gallen",
+        "qthLocator": "JN47QK",
+        "altitude": 654,
+        "remarks": "C4FM #18835",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4250593,
+        "longitude": 9.3765878,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#18835"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.4875,
+        "qrgRx": 430.8875,
+        "call": "HB9DD",
+        "qthName": "Airolo",
+        "qthLocator": "JN46HM",
+        "altitude": 2044,
+        "remarks": "DMR-B #228603 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5290309,
+        "longitude": 8.6086045,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228603 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5,
+        "qrgRx": 430.9,
+        "call": "HB9DR",
+        "qthName": "W\u00e4denswil",
+        "qthLocator": "JN47HF",
+        "altitude": 501,
+        "remarks": "DMR-I #228891 CC2 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2303608,
+        "longitude": 8.6336119,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228891 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5,
+        "qrgRx": 430.9,
+        "call": "HB9ND",
+        "qthName": "Melchnau",
+        "qthLocator": "JN37WE",
+        "altitude": 572,
+        "remarks": "NFM T94.8 <>HB9BA",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1824376,
+        "longitude": 7.8518093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5125,
+        "qrgRx": 430.9125,
+        "call": "HB9DD",
+        "qthName": "San Bernardino",
+        "qthLocator": "JN46OK",
+        "altitude": 1613,
+        "remarks": "DMR-B #228607 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 9.2083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228607 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5125,
+        "qrgRx": 430.9125,
+        "call": "HB9NFB",
+        "qthName": "Reinach",
+        "qthLocator": "JN37TL",
+        "altitude": 303,
+        "remarks": "DMR*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4935369,
+        "longitude": 7.5910891,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR*"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.525,
+        "qrgRx": 430.925,
+        "call": "HB9LC",
+        "qthName": "LaChaux-de-Fonds",
+        "qthLocator": "JN37JB",
+        "altitude": 1098,
+        "remarks": "DMR-B #228202 CC1 MM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0625,
+        "longitude": 6.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228202 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.55,
+        "qrgRx": 430.95,
+        "call": "HB9GE",
+        "qthName": "Meyrin",
+        "qthLocator": "JN36AF",
+        "altitude": 430,
+        "remarks": "DMR-B #228102 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2283226,
+        "longitude": 6.0712016,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228102 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.55,
+        "qrgRx": 430.95,
+        "call": "HB9CSR",
+        "qthName": "Basel",
+        "qthLocator": "JN37TN",
+        "altitude": 281,
+        "remarks": "DMR#228405-CC1\/C4FM#34156",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5581077,
+        "longitude": 7.5878261,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5625,
+        "qrgRx": 430.9625,
+        "call": "HB9RD",
+        "qthName": "Ch\u00e2tonnaye",
+        "qthLocator": "JN36LS",
+        "altitude": 687,
+        "remarks": "DMR-I #228104 CC1 FRANCE",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.752828,
+        "longitude": 6.938321,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228104 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5625,
+        "qrgRx": 430.9625,
+        "call": "HB9VSD",
+        "qthName": "Verbier",
+        "qthLocator": "JN36OC",
+        "altitude": 1513,
+        "remarks": "Multimode NFM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0967949,
+        "longitude": 7.2285478,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.575,
+        "qrgRx": 430.975,
+        "call": "HB9EAS",
+        "qthName": "Basel",
+        "qthLocator": "JN37TM",
+        "altitude": 352,
+        "remarks": "DMR-B #228401 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5208333,
+        "longitude": 7.625,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228401 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.575,
+        "qrgRx": 430.975,
+        "call": "HB9DC",
+        "qthName": "M\u00e4nnedorf",
+        "qthLocator": "JN47IG",
+        "altitude": 420,
+        "remarks": "DMR-I #228803 CC5 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.253174,
+        "longitude": 8.6918153,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228803 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.575,
+        "qrgRx": 430.975,
+        "call": "HB9DC",
+        "qthName": "M\u00e4nnedorf",
+        "qthLocator": "JN47IG",
+        "altitude": 0,
+        "remarks": "DMR-B #228815 CC5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.253174,
+        "longitude": 8.6918153,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228815 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.5875,
+        "qrgRx": 430.9875,
+        "call": "HB9F",
+        "qthName": "Bern (City)",
+        "qthLocator": "JN36RW",
+        "altitude": 568,
+        "remarks": "DMR-B #228305 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9472071,
+        "longitude": 7.4398352,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228305 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.6,
+        "qrgRx": 431,
+        "call": "HB9AK",
+        "qthName": "H\u00f6rnli",
+        "qthLocator": "JN47LI",
+        "altitude": 1126,
+        "remarks": "DMR-B #228809 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3709154,
+        "longitude": 8.9417721,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228809 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.6125,
+        "qrgRx": 431.0125,
+        "call": "HB9BG",
+        "qthName": "Falkenfluh",
+        "qthLocator": "JN36UT",
+        "altitude": 1035,
+        "remarks": "C4FM #17549 DCS023",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8125,
+        "longitude": 7.7083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#17549"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.625,
+        "qrgRx": 431.025,
+        "call": "HB9BSL",
+        "qthName": "Liestal",
+        "qthLocator": "JN37UL",
+        "altitude": 452,
+        "remarks": "C4FM #31448 NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4839723,
+        "longitude": 7.7347783,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#31448"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.625,
+        "qrgRx": 431.025,
+        "call": "HB9LU",
+        "qthName": "Luzern",
+        "qthLocator": "JN47DB",
+        "altitude": 683,
+        "remarks": "DMR-B #228613 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0505452,
+        "longitude": 8.3054682,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228613 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.65,
+        "qrgRx": 431.05,
+        "call": "HB9UF",
+        "qthName": "Uetliberg",
+        "qthLocator": "JN47FI",
+        "altitude": 870,
+        "remarks": "C4FM #17098 FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3496439,
+        "longitude": 8.4911346,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17098"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.65,
+        "qrgRx": 431.05,
+        "call": "HB9Y",
+        "qthName": "Roc Blanc",
+        "qthLocator": "JN36MC",
+        "altitude": 1701,
+        "remarks": "EL#66814 +C4FM*",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1041667,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "EL",
+                "addr": "#66814"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.6625,
+        "qrgRx": 431.0625,
+        "call": "HB9RD",
+        "qthName": "Ch\u00e2tonnaye",
+        "qthLocator": "JN36LS",
+        "altitude": 687,
+        "remarks": "DMR-B #228112 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.752828,
+        "longitude": 6.938321,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228112 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9ZG",
+        "qthName": "H\u00fcnenberg ZG",
+        "qthLocator": "JN47FE",
+        "altitude": 471,
+        "remarks": "EL#81765 T71.9 <>Affolt.",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1751834,
+        "longitude": 8.4259648,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#81765"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9UHF",
+        "qthName": "Muttenz",
+        "qthLocator": "JN37TM",
+        "altitude": 285,
+        "remarks": "EL#438675 FM T71.9 \"M\"",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.525113,
+        "longitude": 7.6477401,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#438675"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9EI",
+        "qthName": "Monte Bar TI",
+        "qthLocator": "JN46MC",
+        "altitude": 1816,
+        "remarks": "EL#415650 FM T103.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1077522,
+        "longitude": 9.0118115,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T103.5"
+            },
+            {
+                "type": "EL",
+                "addr": "#415650"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9Y",
+        "qthName": "Moosalpe",
+        "qthLocator": "JN36WG",
+        "altitude": 2123,
+        "remarks": "EL#68050 FM T103.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2708333,
+        "longitude": 7.875,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T103.5"
+            },
+            {
+                "type": "EL",
+                "addr": "#68050"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9GE",
+        "qthName": "Gen\u00e8ve",
+        "qthLocator": "JN36BF",
+        "altitude": 449,
+        "remarks": "DMR-B #228101 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2256509,
+        "longitude": 6.1439209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228101 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9DR",
+        "qthName": "St. Gallen",
+        "qthLocator": "JN47QJ",
+        "altitude": 767,
+        "remarks": "D-STAR* CCS#90062",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 9.375,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#90062"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.675,
+        "qrgRx": 431.075,
+        "call": "HB9DR",
+        "qthName": "Rheineck",
+        "qthLocator": "JN47IL",
+        "altitude": 450,
+        "remarks": "DMR-I #228905 CC1 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 8.7083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228905 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.7,
+        "qrgRx": 431.1,
+        "call": "HB9BA",
+        "qthName": "Weissenstein",
+        "qthLocator": "JN37SG",
+        "altitude": 1280,
+        "remarks": "FM T123.0 1750Hz <>HB9ND",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2531649,
+        "longitude": 7.5080204,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T123.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.725,
+        "qrgRx": 431.125,
+        "call": "HB9XC",
+        "qthName": "Chasseral",
+        "qthLocator": "JN37MD",
+        "altitude": 1595,
+        "remarks": "FM T67.0 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.132993,
+        "longitude": 7.0592994,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.725,
+        "qrgRx": 431.125,
+        "call": "HB9EE",
+        "qthName": "Eglisau",
+        "qthLocator": "JN47GN",
+        "altitude": 554,
+        "remarks": "FM T69.3 C4FM* local",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5733207,
+        "longitude": 8.5239827,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T69.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.7375,
+        "qrgRx": 431.1375,
+        "call": "HB9RAR",
+        "qthName": "Morlon",
+        "qthLocator": "JN36MO",
+        "altitude": 785,
+        "remarks": "DMR-I #228105 CC1 FRANCE",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6041667,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228105 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.75,
+        "qrgRx": 431.15,
+        "call": "HB9UF",
+        "qthName": "S\u00e4ntis",
+        "qthLocator": "JN47QF",
+        "altitude": 2502,
+        "remarks": "C4FM* FM T71.9 \"S\"",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2491613,
+        "longitude": 9.3432219,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.775,
+        "qrgRx": 431.175,
+        "call": "HB9FS",
+        "qthName": "Sissacherflue",
+        "qthLocator": "JN37VL",
+        "altitude": 701,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 7.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.775,
+        "qrgRx": 431.175,
+        "call": "HB9RL",
+        "qthName": "Cimetta",
+        "qthLocator": "JN46JE",
+        "altitude": 1633,
+        "remarks": "C4FM #17313 FM T103.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2008368,
+        "longitude": 8.7910222,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T103.5"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17313"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.775,
+        "qrgRx": 431.175,
+        "call": "HB9CF",
+        "qthName": "Seelisberg UR",
+        "qthLocator": "JN46GW",
+        "altitude": 1288,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9416506,
+        "longitude": 8.5568652,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.8,
+        "qrgRx": 431.2,
+        "call": "HB9UF",
+        "qthName": "Pilatus",
+        "qthLocator": "JN46DX",
+        "altitude": 2120,
+        "remarks": "EL#40107 FM T71.9 \"P\"",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9791667,
+        "longitude": 8.2916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#40107"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.825,
+        "qrgRx": 431.225,
+        "call": "HB9CF",
+        "qthName": "Rigi Scheidegg",
+        "qthLocator": "JN47GA",
+        "altitude": 1648,
+        "remarks": "EL#37913 T71.9 <>Bachtel",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0274441,
+        "longitude": 8.5195668,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#37913"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.85,
+        "qrgRx": 431.25,
+        "call": "HB9MM",
+        "qthName": "La Praz",
+        "qthLocator": "JN36FQ",
+        "altitude": 887,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6675257,
+        "longitude": 6.4272029,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.875,
+        "qrgRx": 431.275,
+        "call": "HB9LU",
+        "qthName": "Luzern",
+        "qthLocator": "JN47EB",
+        "altitude": 624,
+        "remarks": "FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0625,
+        "longitude": 8.375,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.925,
+        "qrgRx": 431.325,
+        "call": "HB9F",
+        "qthName": "Bern-Wankdorf",
+        "qthLocator": "JN36RX",
+        "altitude": 561,
+        "remarks": "C4FM #17882 FM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9599837,
+        "longitude": 7.472708,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T94.8"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#17882"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.925,
+        "qrgRx": 431.325,
+        "call": "HB9HD",
+        "qthName": "Oberheid",
+        "qthLocator": "JN47ML",
+        "altitude": 771,
+        "remarks": "FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.95,
+        "qrgRx": 431.35,
+        "call": "HB9AG",
+        "qthName": "Strihen",
+        "qthLocator": "JN47AK",
+        "altitude": 850,
+        "remarks": "EL#48950 FM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4494168,
+        "longitude": 8.0368209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T77.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#48950"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.975,
+        "qrgRx": 431.375,
+        "call": "HB9F",
+        "qthName": "Interlaken",
+        "qthLocator": "JN36WQ",
+        "altitude": 661,
+        "remarks": "NFM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6855231,
+        "longitude": 7.8585139,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 438.975,
+        "qrgRx": 431.375,
+        "call": "HB9GL",
+        "qthName": "Mollis Fronalp",
+        "qthLocator": "JN47NB",
+        "altitude": 1382,
+        "remarks": "EL#41140 T71.9 <>Z\u00fcrich",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0741426,
+        "longitude": 9.0945366,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#41140"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439,
+        "qrgRx": 431.4,
+        "call": "HB9FG",
+        "qthName": "Le Gibloux",
+        "qthLocator": "JN36MQ",
+        "altitude": 1201,
+        "remarks": "FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6841642,
+        "longitude": 7.0402724,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439,
+        "qrgRx": 431.4,
+        "call": "HB9SP",
+        "qthName": "Z\u00fcrich",
+        "qthLocator": "JN47GJ",
+        "altitude": 513,
+        "remarks": "DMR-I #228804 CC5 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 8.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228804 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9FS",
+        "qthName": "Basel",
+        "qthLocator": "JN37TN",
+        "altitude": 250,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5581077,
+        "longitude": 7.5878261,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9BB",
+        "qthName": "Buchserberg",
+        "qthLocator": "JN47RD",
+        "altitude": 1411,
+        "remarks": "EL#263037 FM T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1531328,
+        "longitude": 9.4433907,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T141.3"
+            },
+            {
+                "type": "EL",
+                "addr": "#263037"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9SH",
+        "qthName": "Schaffhausen",
+        "qthLocator": "JN47IR",
+        "altitude": 515,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.7291667,
+        "longitude": 8.7083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9AS",
+        "qthName": "La Berneuse",
+        "qthLocator": "JN36MI",
+        "altitude": 2032,
+        "remarks": "EL#423775 FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3597739,
+        "longitude": 7.0017835,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#423775"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9PFI",
+        "qthName": "Grindelwald",
+        "qthLocator": "JN46AO",
+        "altitude": 1391,
+        "remarks": "FM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6242733,
+        "longitude": 8.0367462,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.025,
+        "qrgRx": 431.425,
+        "call": "HB9T",
+        "qthName": "Thun",
+        "qthLocator": "JN36SS",
+        "altitude": 656,
+        "remarks": "C4FM #31830 FM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7708333,
+        "longitude": 7.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T94.8"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#31830"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.05,
+        "qrgRx": 431.45,
+        "call": "HB9F",
+        "qthName": "Niesen",
+        "qthLocator": "JN36TP",
+        "altitude": 2364,
+        "remarks": "NFM T94.8",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6461936,
+        "longitude": 7.6523674,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T94.8"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.05,
+        "qrgRx": 431.45,
+        "call": "HB9CF",
+        "qthName": "Andermatt",
+        "qthLocator": "JN46GP",
+        "altitude": 1850,
+        "remarks": "EL#37913 T71.9 <>Bachtel",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.629718249999996,
+        "longitude": 8.576460663684966,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#37913"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.05,
+        "qrgRx": 431.45,
+        "call": "HB9OK",
+        "qthName": "Monti di Malmera",
+        "qthLocator": "JN46ME",
+        "altitude": 744,
+        "remarks": "C4FM #18814 T1750",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1875,
+        "longitude": 9.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#18814"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.05,
+        "qrgRx": 431.45,
+        "call": "HB9OK",
+        "qthName": "Poschiavo",
+        "qthLocator": "JN56AH",
+        "altitude": 1015,
+        "remarks": "DMR #228709 CC1 C4FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.3264671,
+        "longitude": 10.0581552,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR #228709 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.075,
+        "qrgRx": 431.475,
+        "call": "HB9HB",
+        "qthName": "Unt.Grenchenberg",
+        "qthLocator": "JN37QF",
+        "altitude": 1375,
+        "remarks": "FM T88.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2291667,
+        "longitude": 7.375,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T88.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.075,
+        "qrgRx": 431.475,
+        "call": "HB9DC",
+        "qthName": "Etzel",
+        "qthLocator": "JN47JE",
+        "altitude": 1092,
+        "remarks": "DMR-I #228801 CC5 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1776748,
+        "longitude": 8.7679387,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228801 CC5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.1,
+        "qrgRx": 431.5,
+        "call": "HB9G",
+        "qthName": "Petit Lancy",
+        "qthLocator": "JN36BE",
+        "altitude": 450,
+        "remarks": "NFM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1909747,
+        "longitude": 6.1200687,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.1,
+        "qrgRx": 431.5,
+        "call": "HB9ZF",
+        "qthName": "Bachtel",
+        "qthLocator": "JN47KH",
+        "altitude": 946,
+        "remarks": "DMR-B #228807 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2941899,
+        "longitude": 8.885733,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228807 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.125,
+        "qrgRx": 431.525,
+        "call": "HB9FM",
+        "qthName": "Basel",
+        "qthLocator": "JN37SM",
+        "altitude": 352,
+        "remarks": "FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5208333,
+        "longitude": 7.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.125,
+        "qrgRx": 431.525,
+        "call": "HB9AW",
+        "qthName": "Twerenegg",
+        "qthLocator": "JN47AB",
+        "altitude": 903,
+        "remarks": "D-STAR CCS#61302",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0658415,
+        "longitude": 8.0120157,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#61302"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.15,
+        "qrgRx": 431.55,
+        "call": "HB9UF",
+        "qthName": "Winterthur",
+        "qthLocator": "JN47IL",
+        "altitude": 502,
+        "remarks": "FM T88.5 \"W\"",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4991723,
+        "longitude": 8.7291498,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T88.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.15,
+        "qrgRx": 431.55,
+        "call": "HB9UHF",
+        "qthName": "Vairano",
+        "qthLocator": "JN46JD",
+        "altitude": 673,
+        "remarks": "EL#439150 FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.1318865,
+        "longitude": 8.8120079,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#439150"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.15,
+        "qrgRx": 431.55,
+        "call": "HB9UF",
+        "qthName": "Zofingen",
+        "qthLocator": "JN37XH",
+        "altitude": 644,
+        "remarks": "EL#612317 FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 7.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#612317"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.15,
+        "qrgRx": 431.55,
+        "call": "HB9F",
+        "qthName": "Ringgenberg",
+        "qthLocator": "JN36WQ",
+        "altitude": 590,
+        "remarks": "MM FM\/D-STAR\/APCO\/DMR",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7044135,
+        "longitude": 7.8960911,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            },
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            },
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.2,
+        "qrgRx": 431.6,
+        "call": "HB9AE",
+        "qthName": "Lutry",
+        "qthLocator": "JN36IM",
+        "altitude": 750,
+        "remarks": "DMR-B #228103 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5032766,
+        "longitude": 6.6867879,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228103 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.2,
+        "qrgRx": 431.6,
+        "call": "HB9T",
+        "qthName": "Trubschachen",
+        "qthLocator": "JN36VV",
+        "altitude": 1026,
+        "remarks": "C4FM #31927 FM T100.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8958333,
+        "longitude": 7.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T100.0"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#31927"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.2,
+        "qrgRx": 431.6,
+        "call": "HB9HORU",
+        "qthName": "Zermatt VS",
+        "qthLocator": "JN36UA",
+        "altitude": 1627,
+        "remarks": "C4FM #34205 T94.8 <>HB9T",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0222273,
+        "longitude": 7.7494002,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": "#34205"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.225,
+        "qrgRx": 431.625,
+        "call": "HB9ZO",
+        "qthName": "Gossau",
+        "qthLocator": "JN47JH",
+        "altitude": 500,
+        "remarks": "FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2929081,
+        "longitude": 8.7771094,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.225,
+        "qrgRx": 431.625,
+        "call": "HB9VD",
+        "qthName": "Le Chasseron",
+        "qthLocator": "JN36GU",
+        "altitude": 1570,
+        "remarks": "EL#7336 FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8518295,
+        "longitude": 6.5379796,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#7336"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.25,
+        "qrgRx": 431.65,
+        "call": "HB9FS",
+        "qthName": "Bad Ramsach",
+        "qthLocator": "JN37WJ",
+        "altitude": 750,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4061826,
+        "longitude": 7.8720113,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.25,
+        "qrgRx": 431.65,
+        "call": "HB9AW",
+        "qthName": "Willisau",
+        "qthLocator": "JN37XB",
+        "altitude": 799,
+        "remarks": "EL#6879 FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0625,
+        "longitude": 7.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#6879"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.25,
+        "qrgRx": 431.65,
+        "call": "HB4FL",
+        "qthName": "L'Aiguille",
+        "qthLocator": "JN36MF",
+        "altitude": 1436,
+        "remarks": "DMR-B #228118 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2291667,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228118 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.275,
+        "qrgRx": 431.675,
+        "call": "HB9HD",
+        "qthName": "Fronalpstock\/SZ",
+        "qthLocator": "JN46HX",
+        "altitude": 1904,
+        "remarks": "FM T71.9 <>10m",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9682706,
+        "longitude": 8.6373811,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.275,
+        "qrgRx": 431.675,
+        "call": "HB9GE",
+        "qthName": "Gen\u00e8ve",
+        "qthLocator": "JN36BF",
+        "altitude": 449,
+        "remarks": "DMR-B #228117 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.2256509,
+        "longitude": 6.1439209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228117 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.275,
+        "qrgRx": 431.675,
+        "call": "HB9TF",
+        "qthName": "Muottas Muragl",
+        "qthLocator": "JN46WM",
+        "altitude": 2424,
+        "remarks": "C4FM #37857 NFM T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5219617,
+        "longitude": 9.9028587,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T141.3"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#37857"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.3,
+        "qrgRx": 431.7,
+        "call": "HB9T",
+        "qthName": "Niederhorn",
+        "qthLocator": "JN36VR",
+        "altitude": 1960,
+        "remarks": "EL#496706 T94.8 C4#34119",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7117062,
+        "longitude": 7.7770938,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#496706"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.3,
+        "qrgRx": 431.7,
+        "call": "HB9SP",
+        "qthName": "Z\u00fcrich",
+        "qthLocator": "JN47GJ",
+        "altitude": 513,
+        "remarks": "APCO-P25 NAC$293 FM T77.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 8.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T77.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.325,
+        "qrgRx": 431.725,
+        "call": "HB9BS",
+        "qthName": "Gempenfluh",
+        "qthLocator": "JN37TL",
+        "altitude": 759,
+        "remarks": "FM T71.9 1750Hz I *70\/71",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4791667,
+        "longitude": 7.625,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.3375,
+        "qrgRx": 439.3375,
+        "call": "HB9PE",
+        "qthName": "Ch\u00e2teau-d'Oex",
+        "qthLocator": "JN36MK",
+        "altitude": 1662,
+        "remarks": "SIMPLEX NOT IARU CONFORM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 439.35,
+        "qrgRx": 431.75,
+        "call": "HB9HAI",
+        "qthName": "Weissfluhgipfel",
+        "qthLocator": "JN46VT",
+        "altitude": 2806,
+        "remarks": "EL#83400 NF T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8125,
+        "longitude": 9.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#83400"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.35,
+        "qrgRx": 431.75,
+        "call": "HB9ZG",
+        "qthName": "Affoltern a.A.",
+        "qthLocator": "JN47FG",
+        "altitude": 554,
+        "remarks": "NFM T103.5 <>H\u00fcnenberg",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2782467,
+        "longitude": 8.4521518,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.375,
+        "qrgRx": 431.775,
+        "call": "HB9XC",
+        "qthName": "Loveresse",
+        "qthLocator": "JN37OG",
+        "altitude": 1221,
+        "remarks": "FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2501674,
+        "longitude": 7.2319324,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.375,
+        "qrgRx": 431.775,
+        "call": "HB9GL",
+        "qthName": "Z\u00fcrich",
+        "qthLocator": "JN47FI",
+        "altitude": 823,
+        "remarks": "EL#41140 T71.9 <>Mollis",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3541667,
+        "longitude": 8.4583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#41140"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4,
+        "qrgRx": 431.8,
+        "call": "HB9ZF",
+        "qthName": "Bachtel",
+        "qthLocator": "JN47KH",
+        "altitude": 946,
+        "remarks": "EL#37913 T71.9 <>HB9CF",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2941899,
+        "longitude": 8.885733,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "EL",
+                "addr": "#37913"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4,
+        "qrgRx": 431.8,
+        "call": "HB9GOMS",
+        "qthName": "Reckingen VS",
+        "qthLocator": "JN46CL",
+        "altitude": 1321,
+        "remarks": "EL#507099 FM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4695629,
+        "longitude": 8.2431589,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "EL",
+                "addr": "#507099"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4,
+        "qrgRx": 431.8,
+        "call": "HB9BR",
+        "qthName": "Lutry",
+        "qthLocator": "JN36IM",
+        "altitude": 750,
+        "remarks": "FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5032766,
+        "longitude": 6.6867879,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4125,
+        "qrgRx": 431.8125,
+        "call": "HB9BO",
+        "qthName": "Niesen",
+        "qthLocator": "JN36TP",
+        "altitude": 2364,
+        "remarks": "DMR-B #228312 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6461936,
+        "longitude": 7.6523674,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228312 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.425,
+        "qrgRx": 431.825,
+        "call": "HB9GE",
+        "qthName": "Gen\u00e8ve",
+        "qthLocator": "JN36BF",
+        "altitude": 449,
+        "remarks": "EL#4167 FM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2256509,
+        "longitude": 6.1439209,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "T67.0"
+            },
+            {
+                "type": "EL",
+                "addr": "#4167"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.425,
+        "qrgRx": 431.825,
+        "call": "HB9GR",
+        "qthName": "Valens",
+        "qthLocator": "JN46RX",
+        "altitude": 917,
+        "remarks": "MM DMR #228705 CC4 T141.3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.969373,
+        "longitude": 9.4817696,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR #228705 CC4"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4375,
+        "qrgRx": 431.8375,
+        "call": "HB9PE",
+        "qthName": "Mol\u00e9son",
+        "qthLocator": "JN36MN",
+        "altitude": 1973,
+        "remarks": "DMR-B #228129 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5489446,
+        "longitude": 7.0171352,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228129 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4375,
+        "qrgRx": 431.8375,
+        "call": "HB9TG",
+        "qthName": "Wetzikon TG",
+        "qthLocator": "JN47MM",
+        "altitude": 607,
+        "remarks": "DMR-B #228814 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5383616,
+        "longitude": 9.0014473,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228814 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.45,
+        "qrgRx": 431.85,
+        "call": "HB9BG",
+        "qthName": "Belp",
+        "qthLocator": "JN36SV",
+        "altitude": 510,
+        "remarks": "EL#276406 NFM T88.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.89058675,
+        "longitude": 7.50967570171648,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T88.5"
+            },
+            {
+                "type": "EL",
+                "addr": "#276406"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.45,
+        "qrgRx": 431.85,
+        "call": "HB9RL",
+        "qthName": "Locarno",
+        "qthLocator": "JN46JE",
+        "altitude": 1671,
+        "remarks": "D-STAR CCS#47572",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.1695112,
+        "longitude": 8.7954217,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#47572"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.45,
+        "qrgRx": 431.85,
+        "call": "HB9W",
+        "qthName": "Winterthur",
+        "qthLocator": "JN47IL",
+        "altitude": 502,
+        "remarks": "D-STAR CCS#84002",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4991723,
+        "longitude": 8.7291498,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#84002"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.45,
+        "qrgRx": 431.85,
+        "call": "HB9OK",
+        "qthName": "Viano",
+        "qthLocator": "JN56BG",
+        "altitude": 1266,
+        "remarks": "DMR-B #228708 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2535313,
+        "longitude": 10.1387863,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228708 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.45,
+        "qrgRx": 431.85,
+        "call": "HB9Y",
+        "qthName": "Voll\u00e8ges VS",
+        "qthLocator": "JN36OC",
+        "altitude": 814,
+        "remarks": "DMR-B #228314 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0880053,
+        "longitude": 7.1697258,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228314 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4625,
+        "qrgRx": 431.8625,
+        "call": "HB9ZG",
+        "qthName": "Rigi Scheidegg",
+        "qthLocator": "JN47GA",
+        "altitude": 1654,
+        "remarks": "D-STAR CCS#63002 B",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0274441,
+        "longitude": 8.5195668,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#63002"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9HAI",
+        "qthName": "Weissfluhgipfel",
+        "qthLocator": "JN46VU",
+        "altitude": 2806,
+        "remarks": "DMR-I #228702 CC7 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.83463,
+        "longitude": 9.7947572,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228702 CC7"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Schilthorn",
+        "qthLocator": "JN36WN",
+        "altitude": 2963,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5573271,
+        "longitude": 7.8352093,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Bern (City)",
+        "qthLocator": "JN36RW",
+        "altitude": 568,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.9472071,
+        "longitude": 7.4398352,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Ringgenberg",
+        "qthLocator": "JN36WQ",
+        "altitude": 590,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7044135,
+        "longitude": 7.8960911,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "M\u00fcnchenbuchsee",
+        "qthLocator": "JN37RA",
+        "altitude": 583,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0213315,
+        "longitude": 7.4519196,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Brienz",
+        "qthLocator": "JN46AR",
+        "altitude": 693,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7425595,
+        "longitude": 8.0630417,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.475,
+        "qrgRx": 431.875,
+        "call": "HB9F",
+        "qthName": "Seftigen",
+        "qthLocator": "JN36SS",
+        "altitude": 567,
+        "remarks": "DMR GWFN",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7887815,
+        "longitude": 7.5396362,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4875,
+        "qrgRx": 431.8875,
+        "call": "HB9Y",
+        "qthName": "Oberwald VS",
+        "qthLocator": "JN46EM",
+        "altitude": 1770,
+        "remarks": "DMR-B #228316 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5328571,
+        "longitude": 8.3520502,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228316 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.4875,
+        "qrgRx": 431.9875,
+        "call": "HB9DD",
+        "qthName": "Monte Generoso",
+        "qthLocator": "JN45MW",
+        "altitude": 1603,
+        "remarks": "NFM T103.5 !special Shift",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 45.9312707,
+        "longitude": 9.0199058,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T103.5"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5,
+        "qrgRx": 431.9,
+        "call": "HB9F",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "DMR-B #228301 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228301 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5,
+        "qrgRx": 431.9,
+        "call": "HB9Y",
+        "qthName": "Zermatt",
+        "qthLocator": "JN36VA",
+        "altitude": 1618,
+        "remarks": "DMR-B #228315 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0208333,
+        "longitude": 7.7916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228315 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5125,
+        "qrgRx": 431.9125,
+        "call": "HB9VD",
+        "qthName": "Le Chasseron",
+        "qthLocator": "JN36GU",
+        "altitude": 1570,
+        "remarks": "D-STAR CCS#26342",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.8518295,
+        "longitude": 6.5379796,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#26342"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5125,
+        "qrgRx": 431.9125,
+        "call": "HB9DS",
+        "qthName": "Grosswangen",
+        "qthLocator": "JN47AD",
+        "altitude": 544,
+        "remarks": "DMR-B\/I #228693 CC1 SWISS",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.1322635,
+        "longitude": 8.0491183,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.525,
+        "qrgRx": 431.925,
+        "call": "HB9BO",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "D-STAR CCS#43452",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#43452"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.525,
+        "qrgRx": 431.925,
+        "call": "HB9Y",
+        "qthName": "Sion",
+        "qthLocator": "JN36QF",
+        "altitude": 485,
+        "remarks": "DMR-B #228127 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.23021515,
+        "longitude": 7.363705184783203,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228127 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5375,
+        "qrgRx": 431.9375,
+        "call": "HB9EAS",
+        "qthName": "Pfeffingen",
+        "qthLocator": "JN37TK",
+        "altitude": 426,
+        "remarks": "DMR-B #228413 CC2 MM test",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4579858,
+        "longitude": 7.589006,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228413 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5375,
+        "qrgRx": 431.9375,
+        "call": "HB9ZG",
+        "qthName": "Rigi Scheidegg",
+        "qthLocator": "JN47GA",
+        "altitude": 1654,
+        "remarks": "DMR-B #228620 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0274441,
+        "longitude": 8.5195668,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228620 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5375,
+        "qrgRx": 431.9375,
+        "call": "HB9VSD",
+        "qthName": "Verbier",
+        "qthLocator": "JN36OC",
+        "altitude": 1513,
+        "remarks": "DMR-B #228111 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.0967949,
+        "longitude": 7.2285478,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228111 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5375,
+        "qrgRx": 431.9375,
+        "call": "HB9EAS",
+        "qthName": "Binningen BL",
+        "qthLocator": "JN37SM",
+        "altitude": 362,
+        "remarks": "Multimode ->2018",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.53656,
+        "longitude": 7.570077,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 439.5375,
+        "qrgRx": 431.9375,
+        "call": "HB9H",
+        "qthName": "San Bernardino",
+        "qthLocator": "JN46OK",
+        "altitude": 1883,
+        "remarks": "D-STAR HB9H_B",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 9.2083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.9625,
+        "call": "HB9BO",
+        "qthName": "Interlaken",
+        "qthLocator": "JN36WQ",
+        "altitude": 733,
+        "remarks": "DMR-I #228300 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.6855231,
+        "longitude": 7.8585139,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-I #228300 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.9625,
+        "call": "HB9OK",
+        "qthName": "Piz Nair",
+        "qthLocator": "JN46VM",
+        "altitude": 3024,
+        "remarks": "DMR-B #228704 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5063091,
+        "longitude": 9.7873706,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228704 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.9625,
+        "call": "HB9DR",
+        "qthName": "Hinterrhein",
+        "qthLocator": "JN46PM",
+        "altitude": 1714,
+        "remarks": "DMR-B #228706 CC2",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrx",
+        "type": "voice",
+        "latitude": 46.5208333,
+        "longitude": 9.2916667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228706 CC2"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.5625,
+        "call": "HB9MM",
+        "qthName": "Les Pl\u00e9iades",
+        "qthLocator": "JN36KL",
+        "altitude": 1343,
+        "remarks": "DMR-B #228122 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4820859,
+        "longitude": 6.9092392,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228122 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.5625,
+        "call": "HB9MM",
+        "qthName": "Les Pl\u00e9iades",
+        "qthLocator": "JN36KL",
+        "altitude": 1343,
+        "remarks": "NFM T67.0",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4820859,
+        "longitude": 6.9092392,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T67.0"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5625,
+        "qrgRx": 431.9625,
+        "call": "HB9TF",
+        "qthName": "Z\u00fcrich",
+        "qthLocator": "JN47GJ",
+        "altitude": 569,
+        "remarks": "C4FM #34083 NFM T91.5",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3958333,
+        "longitude": 8.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T91.5"
+            },
+            {
+                "type": "C4FM",
+                "addr": "#34083"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.575,
+        "qrgRx": 431.975,
+        "call": "HB9LU",
+        "qthName": "Luzern",
+        "qthLocator": "JN47DB",
+        "altitude": 683,
+        "remarks": "D-STAR CCS#60002",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.0505452,
+        "longitude": 8.3054682,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#60002"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.575,
+        "qrgRx": 431.975,
+        "call": "HB9TG",
+        "qthName": "Sulgen",
+        "qthLocator": "JN47OM",
+        "altitude": 456,
+        "remarks": "DMR-B #228816 CC1",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5388525,
+        "longitude": 9.1836253,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228816 CC1"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.575,
+        "qrgRx": 431.975,
+        "call": "HB9Y",
+        "qthName": "Moosalp",
+        "qthLocator": "JN36WG",
+        "altitude": 2123,
+        "remarks": "DMR-B #228313 CC3",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.2708333,
+        "longitude": 7.875,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR-B #228313 CC3"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5875,
+        "qrgRx": 431.9875,
+        "call": "HB9IAC",
+        "qthName": "La Barillette",
+        "qthLocator": "JN36BK",
+        "altitude": 1514,
+        "remarks": "C4FM StarNet DCS115A",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4304853,
+        "longitude": 6.123073,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5875,
+        "qrgRx": 431.9875,
+        "call": "HB9SG",
+        "qthName": "Inzenberg",
+        "qthLocator": "JN47OJ",
+        "altitude": 868,
+        "remarks": "C4FM* NFM T71.9",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3849263,
+        "longitude": 9.1867388,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "NFM",
+                "addr": "T71.9"
+            },
+            {
+                "type": "C4FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.5875,
+        "qrgRx": 431.9875,
+        "call": "HB9DS",
+        "qthName": "Ruswil",
+        "qthLocator": "JN47B?",
+        "altitude": 0,
+        "remarks": "DMR. project 2020",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 46.9375,
+        "longitude": 8.125,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 439.6625,
+        "qrgRx": 432.0625,
+        "call": "HB9PE",
+        "qthName": "Ch\u00e2teau-d'Oeux",
+        "qthLocator": "JN36MK",
+        "altitude": 1662,
+        "remarks": "DMR !NOT IARU CONFORM!",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.4375,
+        "longitude": 7.0416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "DMR",
+                "addr": "DMR"
+            }
+        ]
+    },
+    {
+        "qrgTx": 1258.15,
+        "qrgRx": 1293.15,
+        "call": "HB9FX",
+        "qthName": "Zofingen",
+        "qthLocator": "JN37XH",
+        "altitude": 644,
+        "remarks": "FM Carrier 3s",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 7.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1258.3,
+        "qrgRx": 1293.3,
+        "call": "HB9UF",
+        "qthName": "Uetliberg",
+        "qthLocator": "JN47FI",
+        "altitude": 870,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3496439,
+        "longitude": 8.4911346,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 1258.75,
+        "qrgRx": 1293.75,
+        "call": "HB9BA",
+        "qthName": "Weissenstein",
+        "qthLocator": "JN37SG",
+        "altitude": 1280,
+        "remarks": "FM 1750Hz",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.2531649,
+        "longitude": 7.5080204,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": "1750"
+            }
+        ]
+    },
+    {
+        "qrgTx": 1258.8,
+        "qrgRx": 1293.8,
+        "call": "HB9BO",
+        "qthName": "Brienzer Rothorn",
+        "qthLocator": "JN46AS",
+        "altitude": 2285,
+        "remarks": "D-STAR CCS#43451",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.7871033,
+        "longitude": 8.0469085,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "D-STAR",
+                "addr": "CCS#43451"
+            }
+        ]
+    },
+    {
+        "qrgTx": 1258.9,
+        "qrgRx": 1293.9,
+        "call": "HB9F",
+        "qthName": "Jungfraujoch",
+        "qthLocator": "JN36XN",
+        "altitude": 3574,
+        "remarks": "FM Carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 46.5471693,
+        "longitude": 7.9781158,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1259.175,
+        "qrgRx": 1294.175,
+        "call": "HB9SH",
+        "qthName": "Lohn",
+        "qthLocator": "JN47IR",
+        "altitude": 625,
+        "remarks": "FM Carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.7291667,
+        "longitude": 8.7083333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1260.3,
+        "qrgRx": 1293.3,
+        "call": "HB9UF",
+        "qthName": "Uetliberg",
+        "qthLocator": "JN47FI",
+        "altitude": 870,
+        "remarks": "FM Carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.3496439,
+        "longitude": 8.4911346,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1297.1,
+        "qrgRx": 1273.1,
+        "call": "HB9DD",
+        "qthName": "Monte Generoso",
+        "qthLocator": "JN45MW",
+        "altitude": 1603,
+        "remarks": "FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 45.9312707,
+        "longitude": 9.0199058,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1297.5,
+        "qrgRx": 1269.5,
+        "call": "HB9EE",
+        "qthName": "Eglisau",
+        "qthLocator": "JN47GN",
+        "altitude": 554,
+        "remarks": "project 2020",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.5733207,
+        "longitude": 8.5239827,
+        "lastUpdate": "2020-10-08",
+        "modes": []
+    },
+    {
+        "qrgTx": 1298.225,
+        "qrgRx": 1270.225,
+        "call": "HB9CC",
+        "qthName": "Hohe Buche",
+        "qthLocator": "JN47RK",
+        "altitude": 1141,
+        "remarks": "FM Carrier",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.4375,
+        "longitude": 9.4583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1298.275,
+        "qrgRx": 1270.275,
+        "call": "HB9AM",
+        "qthName": "Chestenberg",
+        "qthLocator": "JN47CK",
+        "altitude": 630,
+        "remarks": "FM, qrv 2nd 2019",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.4255013,
+        "longitude": 8.1943996,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1298.325,
+        "qrgRx": 1270.325,
+        "call": "HB9FS",
+        "qthName": "Basel",
+        "qthLocator": "JN37TN",
+        "altitude": 275,
+        "remarks": "FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5581077,
+        "longitude": 7.5878261,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1298.5,
+        "qrgRx": 1270.5,
+        "call": "HB9FM",
+        "qthName": "Basel",
+        "qthLocator": "JN37SM",
+        "altitude": 362,
+        "remarks": "FM",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "qrv",
+        "type": "voice",
+        "latitude": 47.5208333,
+        "longitude": 7.5416667,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    },
+    {
+        "qrgTx": 1298.7,
+        "qrgRx": 1270.7,
+        "call": "HB9NF",
+        "qthName": "Warten",
+        "qthLocator": "JN47LH",
+        "altitude": 1205,
+        "remarks": "FM (qrv 07\/2019)",
+        "authority": "USKA",
+        "country": "CH",
+        "status": "planned",
+        "type": "voice",
+        "latitude": 47.3125,
+        "longitude": 8.9583333,
+        "lastUpdate": "2020-10-08",
+        "modes": [
+            {
+                "type": "FM",
+                "addr": ""
+            }
+        ]
+    }
+]
