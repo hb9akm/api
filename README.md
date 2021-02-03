@@ -8,12 +8,9 @@ Provide normalized data in form of a read-only REST API for HAMs worldwide.
 
 # Current endpoints
 - Repeater
-- Bandplan
-- Lexicon
 
 # State of affairs
 - The repeater endpoint returns all voice repeaters of Switzerland.
-- The bandplan endpoint returns the complete band plan for Switzerland.
 
 # Contribute
 There are different ways to contribute:
@@ -27,8 +24,8 @@ For all ways to contribute, please create an issue on GitHub first.
 # How to use it
 There are several methods to use this API:
 - Use the provided installation at https://api.hb9akm.ch/
-- Clone this repository to any PHP capable webserver
-- Use the provided Docker-Image
+- Clone this repository to any PHP capable webserver and run `compose update`
+- Use the provided Docker-Image (not yet published, build it yourself)
 
 API documentation can be found in doc folder.
 
@@ -40,5 +37,5 @@ API documentation can be found in doc folder.
 - /data/ folder contains raw data and converters in Bash.
 
 # License
-The code is provided as is, without any warranty under GPLv2. The
+The code is provided as is, without any warranty under GPLv3. The
 data returned by the API is owned by the respective authorities.
