@@ -1,8 +1,10 @@
-<?php
+<?php declare(strict_types=1);
+
+require_once(dirname(__DIR__) . '/Library.php');
 
 /**
  * Parses a CSV file and outputs a JSON file
- * Inteded for command line use!
+ * Intended for command line use!
  *
  * php parseRemarks.php <inputFile.csv> | <outputFile.json>
  */
@@ -70,6 +72,61 @@ function getModes($remarks) {
     return $modes;
 }
 
+function findBestLocation(
+    string $location,
+    string $locator,
+    int $elevation,
+    string &$precisionInfo = ''
+): array {
+    $precisionInfo = 'locator-only';
+    $lonLat = locator2LonLat($locator);
+    try {
+        $nominatimResults = getJson(
+            'https://nominatim.openstreetmap.org/search?format=json&q=' . $location
+        );
+    } catch (\Exception $e) {
+        return $lonLat;
+    }
+    $bestResult = array();
+    foreach ($nominatimResults as $nominatimResult) {
+        $calculatedLocator = lonLat2Locator(
+            (float) $nominatimResult->lon,
+            (float) $nominatimResult->lat
+        );
+        if ($calculatedLocator != $locator) {
+            continue;
+        }
+        // if we've got a match we're most likely more precise
+        $precisionInfo = 'locator-improved';
+        // first match is probably best (sort order of nominatim)
+        if (!count($bestResult)) {
+            $bestResult = array(
+                'lon' => (float) $nominatimResult->lon,
+                'lat' => (float) $nominatimResult->lat,
+            );
+            // todo: drop the following line as soon as the todo below is done
+            return $bestResult;
+        }
+        continue;
+        // todo: get height. if it's exact (or maybe within a margin): use it
+        echo 'Getting height info for: ';
+        echo 'https://api.open-elevation.com/api/v1/lookup?locations=' .
+                $nominatimResult->lat . ',' .
+                $nominatimResult->lon . PHP_EOL;
+        $heightInfo = getJson(
+            'https://api.open-elevation.com/api/v1/lookup?locations=' .
+                $nominatimResult->lat . ',' .
+                $nominatimResult->lon
+        );
+        var_dump($elevation);
+        var_dump($heightInfo);die();
+    }
+    if (count($bestResult)) {
+        return $bestResult;
+    }
+    return $lonLat;
+}
+
 // normalize data
 $dataOut = array();
 $status = array(
@@ -79,6 +136,15 @@ $status = array(
     3 => 'qrt',
 );
 foreach ($data as $idx=>$repeater) {
+    $locatorLonLat = locator2LonLat($repeater['Locator']);
+    $locationPrecision = '';
+    $lonLat = findBestLocation(
+        $repeater['QTH'],
+        $repeater['Locator'],
+        (int) substr($repeater['Alt.'], 0, -1),
+        $locationPrecision
+    );
+
     $dataOut[$idx] = array(
         'qrgTx' => (float) $repeater['QRG TX'],
         'qrgRx' => (float) $repeater['QRG RX'],
@@ -91,23 +157,14 @@ foreach ($data as $idx=>$repeater) {
         'country' => 'CH',
         'status' => $status[$repeater['Status']],
         'type' => 'voice',
-        'latitude' => (float) $repeater['lat'],
-        'longitude' => (float) $repeater['lon'],
+        'latitude' => $lonLat['lat'],
+        'longitude' => $lonLat['lon'],
+        'locationPrecision' => $locationPrecision,
         'lastUpdate' => '2020-10-08',
         'modes' => getModes($repeater['Remarks']),
     );
-    /*$data[$idx]['Type'] = 'Voice';
-    $data[$idx]['LastUpdate'] = '2020-10-08';
-    $remarks = $repeater['Remarks'];
-    $modes = getModes($remarks);
-    $data[$idx]['Modes'] = $modes;*/
-    // TODO: Check if modes are completely parsed!
+    // TODO: Add parsing info property
     // TODO: Try to parse links to other relais
-    /*echo $remarks . "\t\t";
-    foreach ($modes as $mode) {
-        echo $mode['type'] . '(' . $mode['addr'] . '),';
-    }
-    echo PHP_EOL;*/
 }
 
 // output JSON
