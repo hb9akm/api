@@ -18,18 +18,7 @@ class Main {
 
         $this->endpoints = $this->loadEndpoints();
 
-        // TODO: Add message on index
-        $this->app->get('/', function (Request $request, Response $response, $args) {
-            $response->getBody()->write('Hello world!');
-            return $response;
-        });
-        // TODO: show docs on /v1/
-        /*$this->app->get('/v1/{path}', function (Request $request, Response $response, $args) {
-            $response->getBody()->write(file_get_contents(
-                __DIR__ . '/v1/' . $args['path']
-            ));
-            return $response;
-        });*/
+        header('Access-Control-Allow-Origin: *');
 
         $this->app->run();
     }
