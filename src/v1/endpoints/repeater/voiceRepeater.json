@@ -13,6 +13,10 @@
         "type": "voice",
         "latitude": 46.9682706,
         "longitude": 8.6373811,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -35,6 +39,10 @@
         "type": "voice",
         "latitude": 47.5733207,
         "longitude": 8.5239827,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -52,6 +60,10 @@
         "type": "voice",
         "latitude": 46.5573271,
         "longitude": 7.8352093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -74,6 +86,10 @@
         "type": "voice",
         "latitude": 47.5733207,
         "longitude": 8.5239827,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -91,6 +107,10 @@
         "type": "voice",
         "latitude": 47.2635972,
         "longitude": 8.0900529,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -112,7 +132,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 8.9583333,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -138,7 +161,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.5625,
-        "longitude": 8.9583333,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -159,8 +185,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
+        "latitude": 47.47916666666667,
         "longitude": 7.625,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -183,6 +212,10 @@
         "type": "voice",
         "latitude": 47.1215184,
         "longitude": 7.99659,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -205,6 +238,10 @@
         "type": "voice",
         "latitude": 46.0967949,
         "longitude": 7.2285478,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -227,6 +264,10 @@
         "type": "voice",
         "latitude": 47.3255509,
         "longitude": 8.6468061,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -249,6 +290,10 @@
         "type": "voice",
         "latitude": 46.01905,
         "longitude": 8.9744329,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -271,6 +316,10 @@
         "type": "voice",
         "latitude": 46.3264671,
         "longitude": 10.0581552,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -301,6 +350,10 @@
         "type": "voice",
         "latitude": 47.0542846,
         "longitude": 6.8537003,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -330,7 +383,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.5625,
-        "longitude": 9.0416667,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -353,6 +409,10 @@
         "type": "voice",
         "latitude": 46.6760352,
         "longitude": 7.1839627,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -381,8 +441,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.1041667,
-        "longitude": 6.7916667,
+        "latitude": 47.10416666666667,
+        "longitude": 6.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -405,6 +468,10 @@
         "type": "voice",
         "latitude": 46.5950644,
         "longitude": 7.0527454,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -425,8 +492,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
+        "latitude": 47.47916666666667,
         "longitude": 7.625,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -449,6 +519,9 @@
         "type": "voice",
         "latitude": 47.6875,
         "longitude": 7.875,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -475,6 +548,10 @@
         "type": "voice",
         "latitude": 47.3140365,
         "longitude": 7.6947764,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -499,8 +576,11 @@
         "country": "CH",
         "status": "qrx",
         "type": "voice",
-        "latitude": 46.4791667,
-        "longitude": 7.2083333,
+        "latitude": 46.47916666666667,
+        "longitude": 7.208333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -523,6 +603,10 @@
         "type": "voice",
         "latitude": 46.6979839,
         "longitude": 10.0943311,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -549,6 +633,10 @@
         "type": "voice",
         "latitude": 47.3496439,
         "longitude": 8.4911346,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -571,10 +659,18 @@
         "type": "voice",
         "latitude": 46.5489446,
         "longitude": 7.0171352,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
                 "type": "NFM",
+                "addr": ""
+            },
+            {
+                "type": "NXDN",
                 "addr": ""
             }
         ]
@@ -591,8 +687,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.3541667,
-        "longitude": 9.0416667,
+        "latitude": 46.35416666666667,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -613,8 +712,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
-        "longitude": 9.0416667,
+        "latitude": 47.47916666666667,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -636,7 +738,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.0625,
-        "longitude": 6.7916667,
+        "longitude": 6.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -654,6 +759,10 @@
         "type": "voice",
         "latitude": 46.752828,
         "longitude": 6.938321,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -676,6 +785,10 @@
         "type": "voice",
         "latitude": 46.7198508,
         "longitude": 8.0366206,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -698,6 +811,10 @@
         "type": "voice",
         "latitude": 46.1038934,
         "longitude": 8.8660317,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -720,6 +837,9 @@
         "type": "voice",
         "latitude": 47.0625,
         "longitude": 8.375,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -746,6 +866,10 @@
         "type": "voice",
         "latitude": 47.5372962,
         "longitude": 7.5019867,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -768,6 +892,10 @@
         "type": "voice",
         "latitude": 46.4820859,
         "longitude": 6.9092392,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -790,6 +918,10 @@
         "type": "voice",
         "latitude": 46.742392,
         "longitude": 9.5975502,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -812,6 +944,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -834,6 +970,10 @@
         "type": "voice",
         "latitude": 47.5733207,
         "longitude": 8.5239827,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -858,8 +998,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.2708333,
+        "latitude": 46.270833333333336,
         "longitude": 7.875,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -882,6 +1025,10 @@
         "type": "voice",
         "latitude": 46.2256509,
         "longitude": 6.1439209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -908,6 +1055,10 @@
         "type": "voice",
         "latitude": 46.3264671,
         "longitude": 10.0581552,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -932,8 +1083,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 45.9791667,
-        "longitude": 8.9583333,
+        "latitude": 45.97916666666667,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -956,6 +1110,10 @@
         "type": "voice",
         "latitude": 47.1824376,
         "longitude": 7.8518093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -978,6 +1136,10 @@
         "type": "voice",
         "latitude": 47.0274441,
         "longitude": 8.5195668,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1000,6 +1162,10 @@
         "type": "voice",
         "latitude": 46.0967949,
         "longitude": 7.2285478,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1009,6 +1175,14 @@
             {
                 "type": "DMR",
                 "addr": "DMR"
+            },
+            {
+                "type": "NXDN",
+                "addr": ""
+            },
+            {
+                "type": "DPMR",
+                "addr": ""
             }
         ]
     },
@@ -1026,6 +1200,10 @@
         "type": "voice",
         "latitude": 47.14025,
         "longitude": 7.215883,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1051,7 +1229,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.8125,
-        "longitude": 9.7916667,
+        "longitude": 9.791666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1077,7 +1258,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 7.9583333,
+        "longitude": 7.958333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1100,6 +1284,10 @@
         "type": "voice",
         "latitude": 46.9599837,
         "longitude": 7.472708,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1122,6 +1310,10 @@
         "type": "voice",
         "latitude": 47.4224096,
         "longitude": 7.5020019,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1144,6 +1336,10 @@
         "type": "voice",
         "latitude": 46.6855231,
         "longitude": 7.8585139,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1166,6 +1362,10 @@
         "type": "voice",
         "latitude": 47.1776748,
         "longitude": 8.7679387,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1192,6 +1392,10 @@
         "type": "voice",
         "latitude": 46.5573271,
         "longitude": 7.8352093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1214,6 +1418,9 @@
         "type": "voice",
         "latitude": 46.4375,
         "longitude": 6.125,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1236,6 +1443,10 @@
         "type": "voice",
         "latitude": 47.4269269,
         "longitude": 8.8166167,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1262,6 +1473,10 @@
         "type": "voice",
         "latitude": 47.0396027,
         "longitude": 7.6156314,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1288,6 +1503,10 @@
         "type": "voice",
         "latitude": 47.4061826,
         "longitude": 7.8720113,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1308,8 +1527,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
-        "longitude": 8.5416667,
+        "latitude": 47.395833333333336,
+        "longitude": 8.541666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1330,8 +1552,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.6041667,
-        "longitude": 7.0416667,
+        "latitude": 46.60416666666667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1354,6 +1579,10 @@
         "type": "voice",
         "latitude": 46.1472508,
         "longitude": 7.0785927,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1376,6 +1605,10 @@
         "type": "voice",
         "latitude": 47.3958161,
         "longitude": 7.8546951,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1402,6 +1635,10 @@
         "type": "voice",
         "latitude": 46.1038934,
         "longitude": 8.8660317,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1424,6 +1661,10 @@
         "type": "voice",
         "latitude": 47.2941899,
         "longitude": 8.885733,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1446,6 +1687,10 @@
         "type": "voice",
         "latitude": 46.4304853,
         "longitude": 6.123073,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1468,6 +1713,10 @@
         "type": "voice",
         "latitude": 46.4695629,
         "longitude": 8.2431589,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1488,8 +1737,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.0208333,
-        "longitude": 7.7916667,
+        "latitude": 46.020833333333336,
+        "longitude": 7.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1512,6 +1764,10 @@
         "type": "voice",
         "latitude": 47.4816084,
         "longitude": 8.3820732,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1534,6 +1790,10 @@
         "type": "voice",
         "latitude": 47.0658415,
         "longitude": 8.0120157,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1555,7 +1815,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.4375,
-        "longitude": 7.0416667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1578,6 +1841,10 @@
         "type": "voice",
         "latitude": 46.7895889,
         "longitude": 9.6387758,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1603,7 +1870,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.5625,
-        "longitude": 8.9583333,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1624,8 +1894,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.6041667,
-        "longitude": 7.0416667,
+        "latitude": 46.60416666666667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1648,6 +1921,10 @@
         "type": "voice",
         "latitude": 47.1740371,
         "longitude": 8.1089654,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1670,6 +1947,10 @@
         "type": "voice",
         "latitude": 47.1215184,
         "longitude": 7.99659,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1692,6 +1973,10 @@
         "type": "voice",
         "latitude": 46.7425595,
         "longitude": 8.0630417,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1718,8 +2003,17 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
-        "modes": []
+        "modes": [
+            {
+                "type": "APCO-25",
+                "addr": ""
+            }
+        ]
     },
     {
         "qrgTx": 438.1,
@@ -1733,8 +2027,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.2291667,
-        "longitude": 8.9583333,
+        "latitude": 47.22916666666667,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1757,6 +2054,10 @@
         "type": "voice",
         "latitude": 47.0499479,
         "longitude": 9.0515165,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1779,6 +2080,10 @@
         "type": "voice",
         "latitude": 47.5954244,
         "longitude": 8.4925331,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -1796,6 +2101,10 @@
         "type": "voice",
         "latitude": 47.2036583,
         "longitude": 8.8876137,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1818,6 +2127,10 @@
         "type": "voice",
         "latitude": 47.3504945,
         "longitude": 8.2786906,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1840,6 +2153,10 @@
         "type": "voice",
         "latitude": 47.00904045,
         "longitude": 6.867723972220008,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1862,6 +2179,10 @@
         "type": "voice",
         "latitude": 46.5573271,
         "longitude": 7.8352093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1884,6 +2205,10 @@
         "type": "voice",
         "latitude": 47.253174,
         "longitude": 8.6918153,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1906,6 +2231,10 @@
         "type": "voice",
         "latitude": 47.4250593,
         "longitude": 9.3765878,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1928,6 +2257,10 @@
         "type": "voice",
         "latitude": 47.2531649,
         "longitude": 7.5080204,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1948,8 +2281,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
+        "latitude": 47.395833333333336,
         "longitude": 9.375,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1972,6 +2308,10 @@
         "type": "voice",
         "latitude": 46.629718249999996,
         "longitude": 8.576460663684966,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -1994,6 +2334,10 @@
         "type": "voice",
         "latitude": 46.89058675,
         "longitude": 7.50967570171648,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2016,6 +2360,10 @@
         "type": "voice",
         "latitude": 47.3870845,
         "longitude": 8.9113948,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2041,7 +2389,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 8.9583333,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2068,6 +2419,10 @@
         "type": "voice",
         "latitude": 47.3881814,
         "longitude": 8.9792522,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2094,6 +2449,10 @@
         "type": "voice",
         "latitude": 46.4304853,
         "longitude": 6.123073,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2116,6 +2475,10 @@
         "type": "voice",
         "latitude": 47.161244,
         "longitude": 7.68624,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2138,6 +2501,10 @@
         "type": "voice",
         "latitude": 46.7501194,
         "longitude": 8.1021125,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2164,6 +2531,10 @@
         "type": "voice",
         "latitude": 46.855515,
         "longitude": 9.5254066,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2186,6 +2557,10 @@
         "type": "voice",
         "latitude": 47.3496439,
         "longitude": 8.4911346,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2208,8 +2583,17 @@
         "type": "voice",
         "latitude": 47.4839723,
         "longitude": 7.7347783,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
-        "modes": []
+        "modes": [
+            {
+                "type": "NXDN",
+                "addr": ""
+            }
+        ]
     },
     {
         "qrgTx": 438.2625,
@@ -2225,6 +2609,10 @@
         "type": "voice",
         "latitude": 47.4250593,
         "longitude": 9.3765878,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2247,6 +2635,10 @@
         "type": "voice",
         "latitude": 47.3817049,
         "longitude": 7.5026184,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2269,6 +2661,10 @@
         "type": "voice",
         "latitude": 47.1549231,
         "longitude": 8.0762229,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2295,6 +2691,10 @@
         "type": "voice",
         "latitude": 47.0402758,
         "longitude": 7.9977498,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2321,6 +2721,10 @@
         "type": "voice",
         "latitude": 47.5720309,
         "longitude": 8.1108566,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2343,6 +2747,10 @@
         "type": "voice",
         "latitude": 46.2017559,
         "longitude": 6.1466014,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2365,6 +2773,10 @@
         "type": "voice",
         "latitude": 46.855515,
         "longitude": 9.5254066,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2391,6 +2803,10 @@
         "type": "voice",
         "latitude": 47.1776748,
         "longitude": 8.7679387,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2413,6 +2829,10 @@
         "type": "voice",
         "latitude": 47.4224096,
         "longitude": 7.5020019,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2435,6 +2855,10 @@
         "type": "voice",
         "latitude": 46.7680947,
         "longitude": 6.9491864,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2456,7 +2880,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.8125,
-        "longitude": 7.7083333,
+        "longitude": 7.708333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2479,6 +2906,10 @@
         "type": "voice",
         "latitude": 46.7044135,
         "longitude": 7.8960911,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2509,6 +2940,10 @@
         "type": "voice",
         "latitude": 47.3958161,
         "longitude": 7.8546951,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2531,6 +2966,10 @@
         "type": "voice",
         "latitude": 47.1776748,
         "longitude": 8.7679387,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2557,6 +2996,10 @@
         "type": "voice",
         "latitude": 46.8518295,
         "longitude": 6.5379796,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2579,6 +3022,10 @@
         "type": "voice",
         "latitude": 47.4477386,
         "longitude": 7.5621906,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2601,6 +3048,10 @@
         "type": "voice",
         "latitude": 47.2834897,
         "longitude": 9.4851111,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2623,6 +3074,10 @@
         "type": "voice",
         "latitude": 47.4481167,
         "longitude": 8.5830945,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2645,6 +3100,10 @@
         "type": "voice",
         "latitude": 46.8739775,
         "longitude": 7.5631943,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2667,6 +3126,10 @@
         "type": "voice",
         "latitude": 47.4706336,
         "longitude": 9.584108,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2689,6 +3152,10 @@
         "type": "voice",
         "latitude": 46.5950644,
         "longitude": 7.0527454,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2719,6 +3186,10 @@
         "type": "voice",
         "latitude": 47.4744704,
         "longitude": 7.660411082807633,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2741,6 +3212,10 @@
         "type": "voice",
         "latitude": 47.0274441,
         "longitude": 8.5195668,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2767,6 +3242,10 @@
         "type": "voice",
         "latitude": 47.3498274,
         "longitude": 7.7681007,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2789,6 +3268,10 @@
         "type": "voice",
         "latitude": 47.3958161,
         "longitude": 7.8546951,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2809,8 +3292,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.0208333,
-        "longitude": 8.2083333,
+        "latitude": 47.020833333333336,
+        "longitude": 8.208333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2837,6 +3323,10 @@
         "type": "voice",
         "latitude": 47.7488818,
         "longitude": 8.4845902,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2863,6 +3353,10 @@
         "type": "voice",
         "latitude": 47.4731491,
         "longitude": 8.6753241,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2889,6 +3383,10 @@
         "type": "voice",
         "latitude": 47.5543859,
         "longitude": 7.7922905,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2911,6 +3409,10 @@
         "type": "voice",
         "latitude": 47.270044,
         "longitude": 8.103455,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2937,6 +3439,10 @@
         "type": "voice",
         "latitude": 46.3597739,
         "longitude": 7.0017835,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2957,8 +3463,11 @@
         "country": "CH",
         "status": "qrx",
         "type": "voice",
-        "latitude": 45.8958333,
-        "longitude": 9.0416667,
+        "latitude": 45.895833333333336,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -2981,6 +3490,10 @@
         "type": "voice",
         "latitude": 47.4839723,
         "longitude": 7.7347783,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3003,6 +3516,10 @@
         "type": "voice",
         "latitude": 46.3353943,
         "longitude": 8.990886,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3025,6 +3542,10 @@
         "type": "voice",
         "latitude": 47.3034079,
         "longitude": 8.9438787,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3051,6 +3572,9 @@
         "type": "voice",
         "latitude": 46.3125,
         "longitude": 8.625,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3068,11 +3592,15 @@
         "altitude": 1483,
         "remarks": "C4FM #17827",
         "authority": "USKA",
-        "country": "CH",
+        "country": "LI",
         "status": "qrv",
         "type": "voice",
         "latitude": 47.1422814,
         "longitude": 9.5447613,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3095,6 +3623,10 @@
         "type": "voice",
         "latitude": 47.00904045,
         "longitude": 6.867723972220008,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3116,7 +3648,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 7.9583333,
+        "longitude": 7.958333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3139,6 +3674,10 @@
         "type": "voice",
         "latitude": 46.3264671,
         "longitude": 10.0581552,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3161,6 +3700,10 @@
         "type": "voice",
         "latitude": 46.1038934,
         "longitude": 8.8660317,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3183,6 +3726,10 @@
         "type": "voice",
         "latitude": 46.5573271,
         "longitude": 7.8352093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3205,6 +3752,10 @@
         "type": "voice",
         "latitude": 46.7887815,
         "longitude": 7.5396362,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3227,6 +3778,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3249,6 +3804,10 @@
         "type": "voice",
         "latitude": 46.9472071,
         "longitude": 7.4398352,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3271,6 +3830,10 @@
         "type": "voice",
         "latitude": 46.7044135,
         "longitude": 7.8960911,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3293,6 +3856,10 @@
         "type": "voice",
         "latitude": 47.0213315,
         "longitude": 7.4519196,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3315,6 +3882,10 @@
         "type": "voice",
         "latitude": 46.7425595,
         "longitude": 8.0630417,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3337,6 +3908,10 @@
         "type": "voice",
         "latitude": 46.7047978,
         "longitude": 6.444282,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3359,6 +3934,10 @@
         "type": "voice",
         "latitude": 47.726848000000004,
         "longitude": 8.536442741961391,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3381,6 +3960,10 @@
         "type": "voice",
         "latitude": 45.9075648,
         "longitude": 9.0026209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3403,6 +3986,10 @@
         "type": "voice",
         "latitude": 46.3264671,
         "longitude": 10.0581552,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3423,8 +4010,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
-        "longitude": 8.2916667,
+        "latitude": 47.395833333333336,
+        "longitude": 8.291666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3451,6 +4041,10 @@
         "type": "voice",
         "latitude": 47.4250593,
         "longitude": 9.3765878,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3473,6 +4067,10 @@
         "type": "voice",
         "latitude": 46.5290309,
         "longitude": 8.6086045,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3495,6 +4093,10 @@
         "type": "voice",
         "latitude": 47.2303608,
         "longitude": 8.6336119,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3517,6 +4119,10 @@
         "type": "voice",
         "latitude": 47.1824376,
         "longitude": 7.8518093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3538,7 +4144,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.4375,
-        "longitude": 9.2083333,
+        "longitude": 9.208333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3561,6 +4170,10 @@
         "type": "voice",
         "latitude": 47.4935369,
         "longitude": 7.5910891,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3582,7 +4195,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.0625,
-        "longitude": 6.7916667,
+        "longitude": 6.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3605,6 +4221,10 @@
         "type": "voice",
         "latitude": 46.2283226,
         "longitude": 6.0712016,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3627,6 +4247,10 @@
         "type": "voice",
         "latitude": 47.5581077,
         "longitude": 7.5878261,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3653,6 +4277,10 @@
         "type": "voice",
         "latitude": 46.752828,
         "longitude": 6.938321,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3675,6 +4303,10 @@
         "type": "voice",
         "latitude": 46.0967949,
         "longitude": 7.2285478,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3695,8 +4327,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.5208333,
+        "latitude": 47.520833333333336,
         "longitude": 7.625,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3719,6 +4354,10 @@
         "type": "voice",
         "latitude": 47.253174,
         "longitude": 8.6918153,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3741,6 +4380,10 @@
         "type": "voice",
         "latitude": 47.253174,
         "longitude": 8.6918153,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3763,6 +4406,10 @@
         "type": "voice",
         "latitude": 46.9472071,
         "longitude": 7.4398352,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3785,6 +4432,10 @@
         "type": "voice",
         "latitude": 47.3709154,
         "longitude": 8.9417721,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3806,7 +4457,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.8125,
-        "longitude": 7.7083333,
+        "longitude": 7.708333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3829,6 +4483,10 @@
         "type": "voice",
         "latitude": 47.4839723,
         "longitude": 7.7347783,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3855,6 +4513,10 @@
         "type": "voice",
         "latitude": 47.0505452,
         "longitude": 8.3054682,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3877,6 +4539,10 @@
         "type": "voice",
         "latitude": 47.3496439,
         "longitude": 8.4911346,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3901,8 +4567,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.1041667,
-        "longitude": 7.0416667,
+        "latitude": 46.10416666666667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3929,6 +4598,10 @@
         "type": "voice",
         "latitude": 46.752828,
         "longitude": 6.938321,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3951,6 +4624,10 @@
         "type": "voice",
         "latitude": 47.1751834,
         "longitude": 8.4259648,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3973,6 +4650,10 @@
         "type": "voice",
         "latitude": 47.525113,
         "longitude": 7.6477401,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -3999,6 +4680,10 @@
         "type": "voice",
         "latitude": 46.1077522,
         "longitude": 9.0118115,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4023,8 +4708,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.2708333,
+        "latitude": 46.270833333333336,
         "longitude": 7.875,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4051,6 +4739,10 @@
         "type": "voice",
         "latitude": 46.2256509,
         "longitude": 6.1439209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4071,8 +4763,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
+        "latitude": 47.395833333333336,
         "longitude": 9.375,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4093,8 +4788,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
-        "longitude": 8.7083333,
+        "latitude": 47.47916666666667,
+        "longitude": 8.708333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4117,6 +4815,10 @@
         "type": "voice",
         "latitude": 47.2531649,
         "longitude": 7.5080204,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4139,6 +4841,10 @@
         "type": "voice",
         "latitude": 47.132993,
         "longitude": 7.0592994,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4161,6 +4867,10 @@
         "type": "voice",
         "latitude": 47.5733207,
         "longitude": 8.5239827,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4185,8 +4895,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.6041667,
-        "longitude": 7.0416667,
+        "latitude": 46.60416666666667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4209,6 +4922,10 @@
         "type": "voice",
         "latitude": 47.2491613,
         "longitude": 9.3432219,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4233,8 +4950,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
-        "longitude": 7.7916667,
+        "latitude": 47.47916666666667,
+        "longitude": 7.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4257,6 +4977,10 @@
         "type": "voice",
         "latitude": 46.2008368,
         "longitude": 8.7910222,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4281,8 +5005,12 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.9416506,
-        "longitude": 8.5568652,
+        "latitude": 46.941087,
+        "longitude": 8.5586885,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4303,8 +5031,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.9791667,
-        "longitude": 8.2916667,
+        "latitude": 46.97916666666667,
+        "longitude": 8.291666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4331,6 +5062,10 @@
         "type": "voice",
         "latitude": 47.0274441,
         "longitude": 8.5195668,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4353,6 +5088,10 @@
         "type": "voice",
         "latitude": 46.6675257,
         "longitude": 6.4272029,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4375,6 +5114,9 @@
         "type": "voice",
         "latitude": 47.0625,
         "longitude": 8.375,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4397,6 +5139,10 @@
         "type": "voice",
         "latitude": 46.9599837,
         "longitude": 7.472708,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4421,8 +5167,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
-        "longitude": 9.0416667,
+        "latitude": 47.47916666666667,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4445,6 +5194,10 @@
         "type": "voice",
         "latitude": 47.4494168,
         "longitude": 8.0368209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4471,6 +5224,10 @@
         "type": "voice",
         "latitude": 46.6855231,
         "longitude": 7.8585139,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4493,6 +5250,10 @@
         "type": "voice",
         "latitude": 47.0741426,
         "longitude": 9.0945366,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4515,6 +5276,10 @@
         "type": "voice",
         "latitude": 46.6841642,
         "longitude": 7.0402724,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4535,8 +5300,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
-        "longitude": 8.5416667,
+        "latitude": 47.395833333333336,
+        "longitude": 8.541666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4559,6 +5327,10 @@
         "type": "voice",
         "latitude": 47.5581077,
         "longitude": 7.5878261,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4581,6 +5353,10 @@
         "type": "voice",
         "latitude": 47.1531328,
         "longitude": 9.4433907,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4605,8 +5381,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.7291667,
-        "longitude": 8.7083333,
+        "latitude": 47.72916666666667,
+        "longitude": 8.708333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4629,6 +5408,10 @@
         "type": "voice",
         "latitude": 46.3597739,
         "longitude": 7.0017835,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4655,6 +5438,10 @@
         "type": "voice",
         "latitude": 46.6242733,
         "longitude": 8.0367462,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4675,8 +5462,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.7708333,
-        "longitude": 7.5416667,
+        "latitude": 46.770833333333336,
+        "longitude": 7.541666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4703,6 +5493,10 @@
         "type": "voice",
         "latitude": 46.6461936,
         "longitude": 7.6523674,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4725,6 +5519,10 @@
         "type": "voice",
         "latitude": 46.629718249999996,
         "longitude": 8.576460663684966,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4746,7 +5544,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.1875,
-        "longitude": 9.0416667,
+        "longitude": 9.041666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4769,6 +5570,10 @@
         "type": "voice",
         "latitude": 46.3264671,
         "longitude": 10.0581552,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4793,8 +5598,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.2291667,
+        "latitude": 47.22916666666667,
         "longitude": 7.375,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4817,6 +5625,10 @@
         "type": "voice",
         "latitude": 47.1776748,
         "longitude": 8.7679387,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4839,6 +5651,10 @@
         "type": "voice",
         "latitude": 46.1909747,
         "longitude": 6.1200687,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4861,6 +5677,10 @@
         "type": "voice",
         "latitude": 47.2941899,
         "longitude": 8.885733,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4881,8 +5701,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.5208333,
-        "longitude": 7.5416667,
+        "latitude": 47.520833333333336,
+        "longitude": 7.541666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4905,6 +5728,10 @@
         "type": "voice",
         "latitude": 47.0658415,
         "longitude": 8.0120157,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4927,6 +5754,10 @@
         "type": "voice",
         "latitude": 47.4991723,
         "longitude": 8.7291498,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4949,6 +5780,10 @@
         "type": "voice",
         "latitude": 46.1318865,
         "longitude": 8.8120079,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -4974,7 +5809,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 7.9583333,
+        "longitude": 7.958333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5001,6 +5839,10 @@
         "type": "voice",
         "latitude": 46.7044135,
         "longitude": 7.8960911,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5031,6 +5873,10 @@
         "type": "voice",
         "latitude": 46.5032766,
         "longitude": 6.6867879,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5051,8 +5897,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.8958333,
-        "longitude": 7.7916667,
+        "latitude": 46.895833333333336,
+        "longitude": 7.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5079,6 +5928,10 @@
         "type": "voice",
         "latitude": 46.0222273,
         "longitude": 7.7494002,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5101,6 +5954,10 @@
         "type": "voice",
         "latitude": 47.2929081,
         "longitude": 8.7771094,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5123,6 +5980,10 @@
         "type": "voice",
         "latitude": 46.8518295,
         "longitude": 6.5379796,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5149,6 +6010,10 @@
         "type": "voice",
         "latitude": 47.4061826,
         "longitude": 7.8720113,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5170,7 +6035,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.0625,
-        "longitude": 7.9583333,
+        "longitude": 7.958333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5195,8 +6063,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.2291667,
-        "longitude": 7.0416667,
+        "latitude": 46.22916666666667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5219,6 +6090,10 @@
         "type": "voice",
         "latitude": 46.9682706,
         "longitude": 8.6373811,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5241,6 +6116,10 @@
         "type": "voice",
         "latitude": 46.2256509,
         "longitude": 6.1439209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5263,6 +6142,10 @@
         "type": "voice",
         "latitude": 46.5219617,
         "longitude": 9.9028587,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5289,6 +6172,10 @@
         "type": "voice",
         "latitude": 46.7117062,
         "longitude": 7.7770938,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5309,8 +6196,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
-        "longitude": 8.5416667,
+        "latitude": 47.395833333333336,
+        "longitude": 8.541666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5331,8 +6221,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.4791667,
+        "latitude": 47.47916666666667,
         "longitude": 7.625,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5354,7 +6247,10 @@
         "status": "qrx",
         "type": "voice",
         "latitude": 46.4375,
-        "longitude": 7.0416667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -5371,7 +6267,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.8125,
-        "longitude": 9.7916667,
+        "longitude": 9.791666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5394,6 +6293,10 @@
         "type": "voice",
         "latitude": 47.2782467,
         "longitude": 8.4521518,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5416,6 +6319,10 @@
         "type": "voice",
         "latitude": 47.2501674,
         "longitude": 7.2319324,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5436,8 +6343,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3541667,
-        "longitude": 8.4583333,
+        "latitude": 47.35416666666667,
+        "longitude": 8.458333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5460,6 +6370,10 @@
         "type": "voice",
         "latitude": 47.2941899,
         "longitude": 8.885733,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5482,6 +6396,10 @@
         "type": "voice",
         "latitude": 46.4695629,
         "longitude": 8.2431589,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5508,6 +6426,10 @@
         "type": "voice",
         "latitude": 46.5032766,
         "longitude": 6.6867879,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5530,6 +6452,10 @@
         "type": "voice",
         "latitude": 46.6461936,
         "longitude": 7.6523674,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5552,6 +6478,10 @@
         "type": "voice",
         "latitude": 46.2256509,
         "longitude": 6.1439209,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5578,6 +6508,10 @@
         "type": "voice",
         "latitude": 46.969373,
         "longitude": 9.4817696,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5600,6 +6534,10 @@
         "type": "voice",
         "latitude": 46.5489446,
         "longitude": 7.0171352,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5622,6 +6560,10 @@
         "type": "voice",
         "latitude": 47.5383616,
         "longitude": 9.0014473,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5644,6 +6586,10 @@
         "type": "voice",
         "latitude": 46.89058675,
         "longitude": 7.50967570171648,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5670,6 +6616,10 @@
         "type": "voice",
         "latitude": 46.1695112,
         "longitude": 8.7954217,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5692,6 +6642,10 @@
         "type": "voice",
         "latitude": 47.4991723,
         "longitude": 8.7291498,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5714,6 +6668,10 @@
         "type": "voice",
         "latitude": 46.2535313,
         "longitude": 10.1387863,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5736,6 +6694,10 @@
         "type": "voice",
         "latitude": 46.0880053,
         "longitude": 7.1697258,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5758,6 +6720,10 @@
         "type": "voice",
         "latitude": 47.0274441,
         "longitude": 8.5195668,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5780,6 +6746,10 @@
         "type": "voice",
         "latitude": 46.83463,
         "longitude": 9.7947572,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5802,6 +6772,10 @@
         "type": "voice",
         "latitude": 46.5573271,
         "longitude": 7.8352093,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5824,6 +6798,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5846,6 +6824,10 @@
         "type": "voice",
         "latitude": 46.9472071,
         "longitude": 7.4398352,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5868,6 +6850,10 @@
         "type": "voice",
         "latitude": 46.7044135,
         "longitude": 7.8960911,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5890,6 +6876,10 @@
         "type": "voice",
         "latitude": 47.0213315,
         "longitude": 7.4519196,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5912,6 +6902,10 @@
         "type": "voice",
         "latitude": 46.7425595,
         "longitude": 8.0630417,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5934,6 +6928,10 @@
         "type": "voice",
         "latitude": 46.7887815,
         "longitude": 7.5396362,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5956,6 +6954,10 @@
         "type": "voice",
         "latitude": 46.5328571,
         "longitude": 8.3520502,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -5978,6 +6980,10 @@
         "type": "voice",
         "latitude": 45.9312707,
         "longitude": 9.0199058,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6000,6 +7006,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6020,8 +7030,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.0208333,
-        "longitude": 7.7916667,
+        "latitude": 46.020833333333336,
+        "longitude": 7.791666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6044,6 +7057,10 @@
         "type": "voice",
         "latitude": 46.8518295,
         "longitude": 6.5379796,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6066,6 +7083,10 @@
         "type": "voice",
         "latitude": 47.1322635,
         "longitude": 8.0491183,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6088,6 +7109,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6110,6 +7135,10 @@
         "type": "voice",
         "latitude": 46.23021515,
         "longitude": 7.363705184783203,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6132,6 +7161,10 @@
         "type": "voice",
         "latitude": 47.4579858,
         "longitude": 7.589006,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6154,6 +7187,10 @@
         "type": "voice",
         "latitude": 47.0274441,
         "longitude": 8.5195668,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6176,6 +7213,10 @@
         "type": "voice",
         "latitude": 46.0967949,
         "longitude": 7.2285478,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6198,6 +7239,10 @@
         "type": "voice",
         "latitude": 47.53656,
         "longitude": 7.570077,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -6214,7 +7259,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.4375,
-        "longitude": 9.2083333,
+        "longitude": 9.208333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6237,6 +7285,10 @@
         "type": "voice",
         "latitude": 46.6855231,
         "longitude": 7.8585139,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6259,6 +7311,10 @@
         "type": "voice",
         "latitude": 46.5063091,
         "longitude": 9.7873706,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6279,8 +7335,11 @@
         "country": "CH",
         "status": "qrx",
         "type": "voice",
-        "latitude": 46.5208333,
-        "longitude": 9.2916667,
+        "latitude": 46.520833333333336,
+        "longitude": 9.291666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6303,6 +7362,10 @@
         "type": "voice",
         "latitude": 46.4820859,
         "longitude": 6.9092392,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6325,6 +7388,10 @@
         "type": "voice",
         "latitude": 46.4820859,
         "longitude": 6.9092392,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6345,8 +7412,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.3958333,
-        "longitude": 8.5416667,
+        "latitude": 47.395833333333336,
+        "longitude": 8.541666666666666,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6373,6 +7443,10 @@
         "type": "voice",
         "latitude": 47.0505452,
         "longitude": 8.3054682,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6395,6 +7469,10 @@
         "type": "voice",
         "latitude": 47.5388525,
         "longitude": 9.1836253,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6415,8 +7493,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 46.2708333,
+        "latitude": 46.270833333333336,
         "longitude": 7.875,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6439,6 +7520,10 @@
         "type": "voice",
         "latitude": 46.4304853,
         "longitude": 6.123073,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6461,6 +7546,10 @@
         "type": "voice",
         "latitude": 47.3849263,
         "longitude": 9.1867388,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6487,6 +7576,9 @@
         "type": "voice",
         "latitude": 46.9375,
         "longitude": 8.125,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6508,7 +7600,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 46.4375,
-        "longitude": 7.0416667,
+        "longitude": 7.041666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6530,7 +7625,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 7.9583333,
+        "longitude": 7.958333333333334,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6553,6 +7651,10 @@
         "type": "voice",
         "latitude": 47.3496439,
         "longitude": 8.4911346,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6575,6 +7677,10 @@
         "type": "voice",
         "latitude": 47.2531649,
         "longitude": 7.5080204,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6597,6 +7703,10 @@
         "type": "voice",
         "latitude": 46.7871033,
         "longitude": 8.0469085,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6619,6 +7729,10 @@
         "type": "voice",
         "latitude": 46.5471693,
         "longitude": 7.9781158,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6639,8 +7753,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.7291667,
-        "longitude": 8.7083333,
+        "latitude": 47.72916666666667,
+        "longitude": 8.708333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6663,6 +7780,10 @@
         "type": "voice",
         "latitude": 47.3496439,
         "longitude": 8.4911346,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6685,6 +7806,10 @@
         "type": "voice",
         "latitude": 45.9312707,
         "longitude": 9.0199058,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6707,6 +7832,10 @@
         "type": "voice",
         "latitude": 47.5733207,
         "longitude": 8.5239827,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": []
     },
@@ -6723,7 +7852,10 @@
         "status": "qrv",
         "type": "voice",
         "latitude": 47.4375,
-        "longitude": 9.4583333,
+        "longitude": 9.458333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6746,6 +7878,10 @@
         "type": "voice",
         "latitude": 47.4255013,
         "longitude": 8.1943996,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6768,6 +7904,10 @@
         "type": "voice",
         "latitude": 47.5581077,
         "longitude": 7.5878261,
+        "locationPrecision": [
+            "locator",
+            "guess"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6788,8 +7928,11 @@
         "country": "CH",
         "status": "qrv",
         "type": "voice",
-        "latitude": 47.5208333,
-        "longitude": 7.5416667,
+        "latitude": 47.520833333333336,
+        "longitude": 7.541666666666667,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
@@ -6811,7 +7954,10 @@
         "status": "planned",
         "type": "voice",
         "latitude": 47.3125,
-        "longitude": 8.9583333,
+        "longitude": 8.958333333333332,
+        "locationPrecision": [
+            "locator"
+        ],
         "lastUpdate": "2020-10-08",
         "modes": [
             {
