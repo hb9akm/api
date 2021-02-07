@@ -1,0 +1,144 @@
+swagger: "2.0"
+info:
+  description: 'Simple, read only RESTful API serving data usable for HAMs in a normalized form.
+    
+    
+    The data is subject of change, the structure is not. If the structure changes in a backwards-incompatible way,
+    the prefix (/v1) will be increased.'
+  version: "1.0.0"
+  title: "Normalized HAM API"
+  termsOfService: "https://api.hb9akm.ch/"
+  contact:
+    email: "api@hb9akm.ch"
+  license:
+    name: "Apache 2.0"
+    url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+host: "api.hb9akm.ch"
+basePath: "/v1"
+tags:
+- name: "Repeater"
+  description: "Repeater data"
+schemes:
+- "https"
+paths:
+  /repeater:
+    get:
+      tags:
+      - "Repeater"
+      summary: "Lists available repeaters"
+      description: "Returns an array of Repeater objects. Currently only voice repeaters of CH are returned."
+      operationId: "listRepeaters"
+      produces:
+      - "application/json"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/Repeater"
+        "400":
+          description: "Invalid status value"
+definitions:
+  Repeater:
+    type: "object"
+    properties:
+      qrgTx:
+        type: "integer"
+        format: "float"
+        description: "Frequency in MHz on which this repeater sends signals"
+      qrgRx:
+        type: "integer"
+        format: "float"
+        description: "Frequency in MHz on which this repeater receives signals"
+      call:
+        type: "string"
+        description: "Responsible call for this repeater"
+      qthName:
+        type: "string"
+        description: "Name of the location"
+      qthLocator:
+        type: "string"
+        description: "Locator of the repeater"
+      altitude:
+        type: "integer"
+        format: "int32"
+        description: "Altitute in meters above sealevel"
+      remarks:
+        type: "string"
+        description: "Arbitrary remarks by the authority listing this repeater"
+      authority:
+        type: "string"
+        description: "Name of the authority listing this repeater"
+      country:
+        type: "string"
+        description: "Country this repeater is located in"
+      status:
+        type: "string"
+        description: "Status of this repeater"
+        enum:
+        - "planned"
+        - "qrv"
+        - "qrx"
+        - "qrt"
+      type:
+        type: "string"
+        description: "Repeater type"
+        enum:
+        - "voice"
+      latitude:
+        type: "integer"
+        format: "float"
+        description: "Repeater location latitude"
+      longitude:
+        type: "integer"
+        format: "float"
+        description: "Repeater location longitude"
+      locationPrecision:
+        type: "array"
+        items:
+            $ref: "#/definitions/Precision"
+      lastUpdate:
+        type: "string"
+        format: "date"
+        description: "Last info update for this repeater"
+      modes:
+        type: "array"
+        items:
+          $ref: "#/definitions/Mode"
+  Mode:
+    type: "object"
+    properties:
+      type:
+        type: "string"
+        description: "Mode"
+        enum:
+        - "NFM"
+        - "FM"
+        - "EL"
+        - "C4FM"
+        - "D-STAR"
+        - "DMR"
+        - "NXDN"
+        - "DPMR"
+        - "APCO-25"
+      addr:
+        type: "string"
+        description: "Additional address info for this mode"
+  Precision:
+    type: "string"
+    description: 'Information about how the latitude and longitude are found.
+      "exact" means that the source data provides this directly. "locator" means
+      latitude and longitude are calculated from the locator given in the source
+      data and the point given lies within this square. "qthName" means that
+      OpenStreetMap was used to resolve the qthName. "height" means that the
+      height the source data provides is taken into account to get the point.'
+    enum:
+      - "exact"
+      - "locator"
+      - "qthName"
+      - "height"
+externalDocs:
+  description: "More info on api.hb9akm.ch"
+  url: "https://api.hb9akm.ch/"
+
