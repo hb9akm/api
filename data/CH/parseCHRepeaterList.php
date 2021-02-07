@@ -81,6 +81,12 @@ function getModes($remarks) {
             'addr'=> '',
         );
     }
+    if (preg_match('/APCO-25/', $remarks, $matches)) {
+        $modes[] = array(
+            'type'=> 'APCO-25',
+            'addr'=> '',
+        );
+    }
     return $modes;
 }
 
