@@ -37,5 +37,5 @@ API documentation can be found in doc folder.
 - /data/ folder contains raw data and converters in Bash.
 
 # License
-The code is provided as is, without any warranty under GPLv3. The
+The code is provided as is, without any warranty under AGPLv3. The
 data returned by the API is owned by the respective authorities.
