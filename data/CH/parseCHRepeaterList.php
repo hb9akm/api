@@ -69,6 +69,18 @@ function getModes($remarks) {
             'addr'=> isset($matches[1]) ? $matches[1] : '',
         );
     }
+    if (preg_match('/NXDN/', $remarks, $matches)) {
+        $modes[] = array(
+            'type'=> 'NXDN',
+            'addr'=> '',
+        );
+    }
+    if (preg_match('/DPMR/', $remarks, $matches)) {
+        $modes[] = array(
+            'type'=> 'DPMR',
+            'addr'=> '',
+        );
+    }
     return $modes;
 }
 
