@@ -84,13 +84,28 @@ function getModes($remarks) {
     return $modes;
 }
 
+/**
+ * @param string $name Nominatim result "display_name" field
+ * @return string ISO 3166-1 alpha-2
+ */
+function getCountryFromName(string $name): string {
+    if (preg_match('#Schweiz/Suisse/Svizzera/Svizra$#', $name)) {
+        return 'CH';
+    }
+    if (preg_match('#Liechtenstein$#', $name)) {
+        return 'LI';
+    }
+    var_dump($name);die();
+}
+
 function findBestLocation(
     string $location,
     string $locator,
     int $elevation,
-    string &$precisionInfo = ''
+    string &$country = '',
+    array &$precisionInfo = array()
 ): array {
-    $precisionInfo = 'locator-only';
+    $precisionInfo[] = 'locator';
     $lonLat = locator2LonLat($locator);
     try {
         $nominatimResults = getJson(
@@ -108,8 +123,9 @@ function findBestLocation(
         if ($calculatedLocator != $locator) {
             continue;
         }
+        $country = getCountryFromName($nominatimResult->display_name);
         // if we've got a match we're most likely more precise
-        $precisionInfo = 'locator-improved';
+        $precisionInfo[] = 'guess';
         // first match is probably best (sort order of nominatim)
         if (!count($bestResult)) {
             $bestResult = array(
@@ -130,6 +146,7 @@ function findBestLocation(
                 $nominatimResult->lat . ',' .
                 $nominatimResult->lon
         );
+        $precisionInfo[] = 'height';
         var_dump($elevation);
         var_dump($heightInfo);die();
     }
@@ -149,11 +166,13 @@ $status = array(
 );
 foreach ($data as $idx=>$repeater) {
     $locatorLonLat = locator2LonLat($repeater['Locator']);
-    $locationPrecision = '';
+    $country = 'CH';
+    $locationPrecision = array();
     $lonLat = findBestLocation(
         $repeater['QTH'],
         $repeater['Locator'],
         (int) substr($repeater['Alt.'], 0, -1),
+        $country,
         $locationPrecision
     );
 
@@ -166,7 +185,7 @@ foreach ($data as $idx=>$repeater) {
         'altitude' => (int) substr($repeater['Alt.'], 0, -1),
         'remarks' => $repeater['Remarks'],
         'authority' => 'USKA',
-        'country' => 'CH',
+        'country' => $country,
         'status' => $status[$repeater['Status']],
         'type' => 'voice',
         'latitude' => $lonLat['lat'],
