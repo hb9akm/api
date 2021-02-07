@@ -12,5 +12,5 @@ data.
 - Latest XLS file "Frequenzliste Voice-Repeater HB9 HBØ" is downloaded from
   https://www.uska.ch/die-uska/uska-fachstellen/frequenzkoordination/
 - Header is manually deleted and file saved as CSV (with comma, not semikolon)
-- parseRemarks.php is executed on the file to normalize data and add coordinates
+- parseCHRepeaterList.php is executed on the file to normalize data and add coordinates
 - The resulting file is converted to JSON using an online service.
