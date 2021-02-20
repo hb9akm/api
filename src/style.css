@@ -60,4 +60,5 @@ body {
     border-width: 1px;
     border-radius: 5px;
     box-shadow: 5px 5px #EEEEEE;
+    display: none;
 }
