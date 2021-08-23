@@ -1,0 +1,3609 @@
+1 
+   
+International Affairs 
+ 
+Albania 
+  
+  CEPT 
+CEPT Novice 
+Implementation   T/R 61-01 implemented, but guest licence  ECC/REC/( 05)06 implemented, but guest licence 
+  required	
+1  required	1 
+Call sign   ZA/        ZA/ 
+Extensions          
+Equivalent   CEPT Licence    CEPT Novice Licence 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+2200 m	
+2  135.700  –  137.800 kHz     
+  630 m2  472.000  –  479.000 kHz   
+  160 m  1.810  –  1.850 MHz  1500 W  8 kHz  1.810  –  1.850  MHz  120 W  8 kHz 
+    1.850  –  2.000 MHz  60 W  8 kHz  1.850  –  2.000 MHz  60  W  8 kHz 
+  80 m  3.750  –  3.800 MHz  1500 W  8 kHz  3.750  –  3.800  MHz  120 W  8 kHz 	
+ 60 m	2 	5.3515  –  5.3665 MHz   	 	  40 m  7.000  –  7.100 MHz  1500 W  8 kHz  7.000  –  7.200 MHz  120 W  8 kHz 
+    7.100  –  7.200 MHz  250 W  8 kHz    
+  30 m  10.100  –  10.150 MHz  1500 W  1 kHz  10.100  –  10. 150 MHz  120 W  1 kHz   
+  20 m  14.000  –  14.350 MHz  1500 W  8 kHz  14.000  –  14. 350 MHz  120 W  8 kHz   
+  17 m  18.068  –  18.168 MHz  1500 W  8 kHz  18.068  –  18. 168 MHz  120 W  8 kHz 
+  15 m  21.000  –  21.450 MHz  1500 W  8 kHz  21.000  –  21. 450 MHz  120 W  8 kHz 
+  12 m  24.890  –  24.990 MHz  1500 W  8 kHz  24.890  –  24. 990 MHz  120 W  8 kHz 
+  10 m  28.000  –  29.700 MHz  1500 W  8 kHz  28.000  –  29. 700 MHz  120 W  8 kHz 
+  6 m  50.000  –  52.000 MHz  200 W  18 kHz  50.000  –  52.0 00 MHz  120 W  18 kHz 
+ 	4 m	2 	69.900  –  70.500 MHz   	 	  2 m  144.000  –  146.000 MHz  600 W  18 kHz  144.000  –  146.000 MHz  120 W  18 kHz 
+  70 cm  430.000  –  440.000 MHz  600 W  any  430.000  –  44 0.000 MHz  120 W  any 
+  23 cm  1.240  –  1.245 GHz  600 W  any  1.240  –  1.245 GH z  120 W  any 
+    1.267  –  1.270 GHz  600 W  any  1.267  –  1.270 GHz  120  W  any 
+    1.297  –  1.300 GHz  600 W  any  1.297  –  1.300 GHz  120  W  any 
+  13 cm  2.300  –  2.450 GHz  600 W  any  2.300  –  2.450 GH z  120 W  any 
+  9 cm  3.400  –  3.410 GHz  600 W  any  3.400  –  3.410 GHz   120 W  any 
+  6 cm  5.660  –  5.670 GHz  600 W  any  5.660  –  5.670 GHz   120 W  any 
+    5.725  –  5.850 GHz  600 W  any  5.725  –  5.850 GHz  120  W  any 
+  3 cm  10.000  –  10.500 GHz  600 W  any  10.000  –  10.500  GHz  120 W  any 
+  1.2 cm  24.000  –  24.250 GHz  600 W  any  24.000  –  24.2 50 GHz  120 W  any 
+  6 mm  47.000  –  47.900 GHz  600 W  any  47.000  –  47.900  GHz  120 W  any 
+    48.200  –  48.540 GHz  600 W  any  48.200  –  48.540 GHz   120 W  any 
+  4 mm  75.500  –  81.500 GHz  600 W  any  75.500  –  81.500  GHz  120 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  600 W  any  122.250  –  1 23.000 GHz  120 W  any 
+  2 mm  134.000  –  141.000 GHz  600 W  any  134.000  –  141 .000 GHz  120 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  600 W  any  241.000  –  2 50.000 GHz  120 W  any 
+  
+Notes 
+1  Application for guest licence: Telecommunications  Regulatory Entity, Reshit Çollaku Street No. 43, Tirana, Albania 2  Bands listed in the national Table for Frequency A llocation (Plani Kombëtar i Frekuencave), but not listed in the amateur radio 
+regulations 
+  
+Info  
+Autoriteti i Komunikimeve Elektronike dhe Postare ( AKEP) – https://akep.al/wp-
+content/uploads/images/stories/AKEP/rregullore/2017 /RREGULLORE_PER_SHERBIMET_RADIOAMATORE_2.pdf (curre nt as of 
+2017-01-24); https://akep.al/wp-content/uploads/ima ges/stories/AKEP/plani-frekuencave/2017/PLANI-KOMBE TAR-FREKUENCAVE-
+120417.pdf (2017-04-12)     	
+Countries with CEPT Licence	 	
+ 
+Compiled by Hans Schwarz, DK5JI 	
+(Current as of 2021	-02	-15	)
+
+2 
+ 
+Australia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but  
+    CEPT Novice licence accepted 
+Call sign   VK/      VK/ 
+Extensions   /P (optional)      /P (optional) 
+Equivalent   Radiocommunications (Overseas Amateurs Visiting  
+national class  Australia) Class Licence 2015   
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes  
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  2.1 kHz    
+  630 m  472.000  –  479.000 kHz	
+1  5 W EIRP  2.1 kHz 
+  160 m  1.800  –  1.875 MHz  400 W	2  any   
+  80 m  3.500  –  3.700 MHz  400 W2  any   
+    3.776  –  3.800 MHz  400 W2  8 kHz  
+  60 m   
+  40 m  7.000  –  7.100 MHz  400 W
+2  any   
+    7.100  –  7.300 MHz  400 W2  8 kHz  
+  30 m  10.100  –  10.150 MHz  400 W2  8 kHz  
+  20 m  14.000  –  14.350 MHz  400 W2  any   
+  17 m  18.068  –  18.168 MHz  400 W2  any   
+  15 m  21.000  –  21.450 MHz  400 W2  any   
+  12 m  24.890  –  24.990 MHz  400 W2  any   
+  10 m  28.000  –  29.700 MHz  400 W2  any   
+  6 m  50.000  –  52.000 MHz  100 W  100 kHz   
+    52.000  –  54.000 MHz  400 W
+2  any   
+  4 m   
+  2 m  144.000  –  148.000 MHz  400 W
+2  any  146.000  –  148.000 MHz  10 W  F3E 
+  70 cm  430.000  –  450.000 MHz  400 W2  any   
+  23 cm  1.240  –  1.300 GHz  400 W2  any 
+  13 cm  2.300  –  2.302 GHz  400 W2  any   
+    2.400  –  2.450 GHz  400 W2  any   
+  9 cm  3.300  –  3.600 GHz	3 4 5	  400 W	2  any 
+  6 cm  5.650  –  5.850 GHz  400 W2  any   
+  3 cm  10.000  –  10.500 GHz  400 W2  any   
+  1.2 cm  24.000  –  24.250 GHz  400 W2  any 
+  6 mm  47.000  –  47.200 GHz  400 W2  any   
+  4 mm  76.000  –  81.000 GHz  400 W2  any   
+ 2.5 mm  122.250  –  123.000 GHz  400 W2  any   
+  2 mm  134.000  –  141.000 GHz  400 W2  any   
+ 1.2 mm  241.000  –  250.000 GHz  400 W2  any   
+ 
+Notes 	
+1  Timor Non Directional Beacon area excluded 2  400 W PEP for emission modes C3F, J3E, R3E; 120 W  mean power for all other emission modes 3  Regionally excluded frequency ranges 3.400–3.425 GHz and 3.4925–3.5425 GHz 4  Regionally excluded frequency ranges 3.425–3.4425 GHz and 3.475–3.4925 GHz 5  Regionally excluded frequency ranges 3.4425–3.475 GHz and 3.5425–3.575 GHz 
+  
+Info  
+Australian Communications and Media Authority (ACMA ) – https://www.legislation.gov.au/Details/F2020C00377 (current as of 2020-05-
+11) 
+
+3 
+ 
+Austria 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   OE/        OE/   
+Extensions   /M, /P        /M, /P 
+Equivalent   Class 1/Power Level B      Class 4/Power Level A 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP 	
+1   
+  630 m  472.000  –  479.000 kHz	 	1 W EIRP 	1 
+  160 m  1.810  –  1.830 MHz  100 W 1  1.810  –  1.830 MHz  100 W 	1 
+    1.830  –  1.840 MHz  200 W 	1  1.830  –  1.840 MHz  100 W 	1 
+    1.840  –  1.850 MHz  200 W 	2  1.840  –  1.850 MHz  100 W 	2 
+    1.850  –  1.950 MHz  100 W 	2  1.850  –  1.950 MHz  100 W 	2 
+  80 m  3.500  –  3.800 MHz  200 W  7 kHz  3.500  –  3.800 M Hz  100 W  7 kHz 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  7 kHz  
+  40 m  7.000  –  7.200 MHz  200 W  7 kHz    
+  30 m  10.100  –  10.150 MHz  200 W  7 kHz   
+  20 m  14.000  –  14.350 MHz  200 W  7 kHz    
+  17 m  18.068  –  18.168 MHz  200 W  7 kHz  
+  15 m  21.000  –  21.450 MHz  200 W  7 kHz  21.000  –  21.4 50 MHz  100 W  7 kHz 
+  12 m  24.890  –  24.990 MHz  200 W  7 kHz  
+  10 m  28.000  –  29.700 MHz  200 W  7 kHz  28.000  –  29.7 00 MHz  100 W  7 kHz 
+  6 m  50.000  –  52.000 MHz  100 W  40 kHz  
+  4 m    
+  2 m  144.000  –  146.000 MHz  200 W  40 kHz  144.000  –  1 46.000 MHz  100 W  40 kHz 
+  70 cm  430.000  – 440.000 MHz	
+3  200 W  1 MHz	4  430.000  – 440.000 MHz	3  100 W  1 MHz	4 
+  23 cm  1.240  –  1.300 GHz  200 W  1 MHz 
+  13 cm  2.304  –  2.310 GHz  100 W  1 MHz  
+    2.320  –  2.322 GHz  100 W  1 MHz 
+    2.400  –  2.450 GHz  100 W  1 MHz  
+  9 cm    
+  6 cm  5.650  –  5.850 GHz  100 W  10 MHz 
+  3 cm  10.368  –  10.370 GHz  100 W  10 MHz  
+    10.400  –  10.500 GHz  100 W  10 MHz  
+  1.2 cm  24.000  –  24.250 GHz  100 W  10 MHz 
+  6 mm  47.000  –  47.200 GHz  100 W  10 MHz  
+  4 mm  76.000  –  81.000 GHz  100 W  10 MHz  
+ 2.5 mm  122.250  –  123.000 GHz  100 W  10 MHz 
+  2 mm  134.000  –  141.000 GHz  100 W  10 MHz  
+ 1.2 mm  241.000  –  250.000 GHz  100 W  10 MHz   
+Notes 	
+1  A1A, A1B only 2  A1A, A1B, J3E only 3  439.100 – 440.000 MHz reception only 4  ATV on 433.750 and 434.250 MHz 
+  
+Info  
+Bundesminister für Verkehr, Innovation und Technolo gie (BMVIT) – 
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfra ge=Bundesnormen&Gesetzesnummer=10012930 (current as  of 2021-02-14); 
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfra ge=Bundesnormen&Gesetzesnummer=20008807 (current as  of 2021-02-14); 
+https://www.bmlrt.gv.at/dam/jcr:13f8176e-00b5-4bb0- 9f45-2946f81e29f7/27_Amateurfunk_Neue_Frequenzberei che.pdf (current as of 
+2020-12-21)    
+
+4 
+ 
+Belarus 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   EW/      EW/ 
+Extensions        
+Equivalent   CEPT with CW 12 wpm: Class A;    Class C 
+national class   CEPT without CW: Class B 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  100 W   any   
+  630 m    
+  160 m  1.810  –  1.830 MHz  10 W  any  1.830  –  2.000 MHz   5 W  any 
+    1.830  –  1.850 MHz  500 W	
+2  any   
+    1.850  –  2.000 MHz  10 W  any   
+  80 m  3.500  –  3.800 MHz  500 W
+2  any  3.510  –  3.700 MHz25 W  any 
+  60 m  5.3515  –  5.3665 MHz	3  50 W  any 
+  40 m  7.000  –  7.200 MHz  500 W	2  any  7.000  –  7.100 MHz25 W  any 
+  30 m  10.100  –  10.150 MHz	3  500 W	2  any   
+  20 m  14.000  –  14.350 MHz  500 W2  any   
+  17 m  18.068  –  18.168 MHz	3  500 W	2  any   
+  15 m  21.000  –  21.450 MHz  500 W2  any  21.025–  21.450 MHz25 W  any 
+  12 m  24.890  –  24.990 MHz	3  500 W	2  any   
+  10 m  28.000  –  29.700 MHz  500 W2  any  28.000–  29.700 MHz25 W  any 
+  6 m      
+  4 m   
+  2 m  144.000  –  146.000 MHz  100 W
+4  any  144.000  –  146.000 MHz  10 W  any 
+  70 cm  430.000  –  440.000 MHz  50 W5  any  430.000  –  440.000 MHz  10 W  any 
+  23 cm  1.240  –  1.300 GHz  50 W5  any  1.240  –  1.300 GHz10 W 
+  13 cm  2.300  –  2.450 GHz  50 W5  any  2.300  –  2.450 GHz10 W  any 
+  9 cm       
+  6 cm  5.650  –  5.850 GHz  50 W
+5  any  5.650  –  5.850 GHz10 W  any 
+  3 cm  10.000  –  10.500 GHz  50 W5  any  10.000–  10.500 GHz10 W  any   
+  1.2 cm  24.000  –  24.250 GHz  50 W5  any  24.000–  24.250 GHz10 W  any 
+  6 mm  47.000  –  47.200 GHz  50 W5  any  47.000–  47.200 GHz10 W  any 
+  4 mm  76.000  –  81.500 GHz  50 W5  any  76.000–  81.500 GHz10 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  50 W5  any  122.250  –  123.000 GHz  10 W  any 
+  2 mm  134.000  –  141.000 GHz  50 W5  any  134.000  –  141.000 GHz  10 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  50 W5  any  241.000  –  250.000 GHz  10 W  any 
+ 
+Notes 	
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 2  500 W for CEPT licence with CW 12 wpm, 100 W for C EPT licence without CW 3  Only for CEPT with CW 12 wpm 4  100 W for CEPT licence with CW 12 wpm, 50 W for CE PT licence without CW 5  50 W for CEPT licence with CW 12 wpm, 25 W for CEP T licence without CW 
+  
+Info  
+State Commission for Radio Frequencies under the Se curity Council of the Republic of Belarus – http://bfrr.net/download/Решение 
+№ 19 К_11  от 14  октября  2011г..pdf (current as of 2011-10-14); Belorusskaya Fede raciya Radiolyubiteley i Radiosportsmenov (BFRR) – 
+http://bfrr.net/download/plan.pdf (current as of 20 20-10-29) 
+   
+
+5 
+ 
+Belgium 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   ON/      ON/ 
+Extensions   /M, /MM, /P (optional)      /M, /MM, /P (optional) 
+Equivalent   Class A      Class B 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any    
+  630 m  472.000  –  479.000 kHz  5 W EIRP  any  
+    501.000  –  504.000 kHz  5 W EIRP  A1A  
+  160 m  1.810  –  1.850 MHz  1500 W  any  1.810  –  2.000 M Hz  100 W 	
+3 
+    1.850  –  2.000 MHz  150 W  any    
+  80 m  3.500  –  3.800 MHz  1500 W  any  3.500  –  3.800 MH z  100 W 
+3 
+  60 m  5.3515  –  5.3665 MHz  15 W ERP  any  
+  40 m  7.000  –  7.200 MHz  1500 W  any  7.000  –  7.200 MH z  100 W 
+3 
+  30 m  10.100  –  10.150 MHz  1500 W  any  10.100  –  10.15 0 MHz  100 W 3 
+  20 m  14.000  –  14.350 MHz  1500 W  any  14.000  –  14.35 0 MHz  100 W 3 
+  17 m  18.068  –  18.168 MHz  1500 W  any  18.068  –  18.16 8 MHz  100 W 3 
+  15 m  21.000  –  21.450 MHz  1500 W  any  21.000  –  21.45 0 MHz  100 W 3 
+  12 m  24.890  –  24.990 MHz  1500 W  any  24.890  –  24.99 0 MHz  100 W 3 
+  10 m  28.000  –  29.700 MHz  1500 W  any  28.000  –  29.70 0 MHz  100 W 3 
+  6 m  50.000  –  52.000 MHz  200 W  any  50.000  –  52.000  MHz  100 W 3 
+  4 m      69.950 MHz  10 W EIRP  10 kHz 
+    70.1125  –  70.4125 MHz  50 W  any  
+  2 m  144.000  –  146.000 MHz  1500 W  any  144.000  –  146 .000 MHz  50 W 
+3 
+  70 cm  430.000  –  433.050 MHz  1500 W  any  430.000  –  4 40.000 MHz  50 W 3 
+    433.050  –  434.790 MHz  200 W	1  any   
+    434.790  –  440.000 MHz  1500 W  any    
+  23 cm  1.240  –  1.270 GHz  200 W  any   
+    1.270  –  1.300 GHz  200 W
+2  any   
+  13 cm  2.300  –  2.450 GHz  200 W  any   
+  9 cm       
+  6 cm  5.650  –  5.850 GHz  200 W  any    
+  3 cm  10.000  –  10.500 GHz  200 W  any    
+  1.2 cm  24.000  –  24.250 GHz  200 W  any   
+  6 mm  47.000  –  47.200 GHz  200 W  any    
+  4 mm  75.500  –  81.000 GHz  200 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  200 W  any   
+  2 mm  142.000  –  149.000 GHz  200 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  200 W  any     
+Notes 	
+1  200 W EIRP for ATV/DATV 2  20 W ERP for ATV/DATV 3  Any mode except ATV/DATV 
+ 
+Info  
+Belgisch Instituut voor Postdiensten en Telecommuni catie (BIPT) – 
+https://bipt.be/file/cc73d96153bbd5448a56f19d925d05 b1379c7f21/ba05ea9d3611d44667462d979daa834bca246b0c /2019-05-
+24_RAM-besluit.pdf (current as of 2019-05-24)     
+
+6 
+ 
+Bosnia and Hercegovina 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   E7/      E7/ 
+Extensions          
+Equivalent   Class 1      Class 2 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  CW    
+  630 m    
+  160 m  1.810  –  1.830 MHz  1500 W  CW    
+    1.830  –  2.000 MHz  1500 W  any   
+  80 m  3.500  –  3.800 MHz  1500 W  any    
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any  
+  40 m  7.000  –  7.200 MHz  1500 W  any   
+  30 m  10.100  –  10.150 MHz  1500 W  CW    
+  20 m  14.000  –  14.350 MHz  1500 W  any    
+  17 m  18.068  –  18.168 MHz  1500 W  any   
+  15 m  21.000  –  21.450 MHz  1500 W  any    
+  12 m  24.890  –  24.990 MHz  1500 W  any    
+  10 m  28.000  –  29.700 MHz  1500 W  any   
+  6 m  50.000  –  52.000 MHz  1500 W  CW, SSB    
+  4 m  68.000  –  74.500 MHz  1500 W  any  
+  2 m  144.000  –  146.000 MHz  1500 W  any  144.500  –  146 .000 MHz  150 W  any 
+  70 cm  430.000  –  440.000 MHz  1500 W  any  432.500  –  4 34.825 MHz  150 W  any 
+  23 cm  1.240  –  1.300 GHz  1500 W  any  1.286  – 1.28698 7 GHz  150 W  any 
+  13 cm  2.300  –  2.450 GHz  1500 W  any   
+  9 cm  3.400  –  3.500 GHz  1500 W  any    
+  6 cm  5.650  –  5.850 GHz  1500 W  any    
+  3 cm  10.000  –  10.500 GHz  1500 W  any   
+  1.2 cm  24.000  –  24.250 GHz  1500 W  any    
+  6 mm  47.000  –  47.200 GHz  1500 W  any    
+  4 mm  75.500  –  77.500 GHz  1500 W  any   
+    81.000  –  84.000 GHz  1500 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  1500 W  any    
+  2 mm  134.000  –  141.000 GHz  1500 W  any   
+ 1.2 mm  241.000  –  250.000 GHz  1500 W  any      
+Info  
+Regulatorna agencija za komunikacije (RAK) – https: //docs.rak.ba//articles/d3e27bf7-6afd-4abd-b262-6d8d8a36353e.pdf (current as of 
+2020-22-12) 
+
+7 
+ 
+Bulgaria 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   LZ/       
+Extensions          
+Equivalent   Class 1     
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes      
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  A1A  
+  630 m  472.000  –  479.000 kHz  1 W EIRP  A1A  
+  160 m  1.810  –  1.850 MHz  100 W  A1A, J3E    
+    1.850  –  2.000 MHz  10 W  A1A, J3E   
+  80 m  3.500  –  3.800 MHz  350 W  any	
+1   
+  60 m  5.250  –  5.3515 MHz  100 W  any1 
+    5.3515  –  5.3665 MHz  15 W EIRP  any1 
+    5.3665  –  5.450 MHz  100 W  any1 
+  40 m  7.000  –  7.200 MHz  350 W  any1   
+  30 m  10.100  –  10.150 MHz  350 W 2   
+  20 m  14.000  –  14.350 MHz  350 W  any1   
+  17 m  18.068  –  18.168 MHz  350 W  any1   
+  15 m  21.000  –  21.450 MHz  350 W  any1   
+  12 m  24.890  –  24.990 MHz  350 W  any1   
+  10 m  28.000  –  29.700 MHz  350 W  any1   
+  6 m  50.050  –  50.200 MHz  10 W 3 
+  4 m  69.900  –  70.500 MHz  50 W 3   
+  2 m  144.000  –  146.000 MHz  150 W  any1   
+  70 cm  430.000  –  440.000 MHz  100 W  any1   
+  23 cm  1.240  –  1.300 GHz  50 W  any1   
+  13 cm  2.300  –  2.450 GHz  5 W  any1   
+  9 cm  3.400  –  3.500 GHz  5 W  any1   
+  6 cm  5.650  –  5.850 GHz  5 W  any1   
+  3 cm  10.000  –  10.500 GHz  1 W  any1   
+  1.2 cm  24.000  –  24.250 GHz  1 W  any1   
+  6 mm  47.000  –  47.200 GHz  1 W  any1   
+  4 mm  75.500  –  81.500 GHz  1 W  any1   
+ 2.5 mm  122.250  –  123.000 GHz  1 W  any1   
+  2 mm  134.000  –  141.000 GHz  1 W  any1   
+ 1.2 mm  241.000  –  250.000 GHz  1 W  any1   
+ 
+Notes 	
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 2  A1A, A3E, J2A, J2B, J2C, J2D, J3C 3  A1A, A1B, A1C, A1D, J3C, J3E, J3F 
+ 
+Info  
+Communications Regulation Commission (CRC) – https: //crc.bg/files/techicheski_iziskvania_radiolub_2019-01-18_30.01.2019.pdf; 
+https://crc.bg/files/techicheski_iziskvania_radiolu b_2019-01-18_30.01.2019_en.pdf (current as of 2019- 01-18) 
+
+8 
+ 
+Canada 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but CEPT Novice  
+    Licence accepted 
+Call sign   VE1/  Nova Scotia      VE1/  Nova Scotia 
+  VE2/  Quebec      VE2/  Quebec  
+  VE3/  Ontario      VE3/  Ontario  
+  VE4/  Manitoba      VE4/  Manitoba 
+  VE5/  Saskatchewan      VE5/  Saskatchewan  
+  VE6/  Alberta      VE6/  Alberta  
+  VE7/  British Columbia      VE7/  British Columbia 
+  VE8/  Northwest Territories    VE8/  Northwest Territo ries 
+  VE9/  New Brunswick      VE9/  New Brunswick 
+  VO1/  Newfoundland      VO1/  Newfoundland 
+  VO2/  Labrador      VO2/  Labrador  
+  VY1/  Yukon Territory      VY1/  Yukon Territory  
+  VY2/  Prince Edward Island    VY2/  Prince Edward Isla nd 
+  VYØ/  Nunavut Territory      VYØ/  Nunavut Territory  
+Extensions   /M      /M   
+Equivalent   CEPT with CW 5 wpm: Advanced Qualification  CEPT wi thout CW, CEPT Novice: Basic Qualification 
+national class          
+             
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes   
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  100 Hz  
+  630 m  472.000  –  479.000 kHz  5 W  any  
+  160 m  1.800  –  2.000 MHz  2250 W	
+1  6 kHz   
+  80 m  3.500  –  4.000 MHz  2250 W1  6 kHz 
+  60 m      5.332 MHz  100 W ERP  2.8 kHz 
+        5.348 MHz  100 W ERP  2.8 kHz  
+        5.3585 MHz  100 W ERP  2.8 kHz 
+        5.373 MHz  100 W ERP  2.8 kHz  
+        5.405 MHz  100 W ERP  2.8 kHz  
+  40 m  7.000  –  7.300 MHz  2250 W
+1  6 kHz   
+  30 m  10.100  –  10.150 MHz  2250 W1  1 kHz   
+  20 m  14.000  –  14.350 MHz  2250 W1  6 kHz   
+  17 m  18.068  –  18.168 MHz  2250 W1  6 kHz   
+  15 m  21.000  –  21.450 MHz  2250 W1  6 kHz   
+  12 m  24.890  –  24.990 MHz  2250 W1  6 kHz   
+  10 m  28.000  –  29.700 MHz  2250 W1  20 kHz   
+  6 m  50.000  –  54.000 MHz  2250 W1  30 kHz  50.000  –  54.000 MHz  560 W	2  30 kHz 
+  4 m               
+  2 m  144.000  –  148.000 MHz  2250 W	
+1  30 kHz  144.000  –  148.000 MHz  560 W	2  30 kHz	 	
+  1.25 m  219.000  –  220.000 MHz  2250 W	1  100 kHz  219.000  –  220.000 MHz  560 W	2  100 kHz 
+    222.000  –  225.000 MHz  2250 W	1  100 kHz  222.000  –  225.000 MHz  560 W	2  100 kHz 
+  70 cm  430.000  –  450.000 MHz  2250 W	1  12 MHz  430.000  –  450.000 MHz  560 W	2  12 MHz 
+  33 cm  902.000  –  928.000 MHz  2250 W	1  12 MHz  902.000  –  928.000 MHz  560 W	2  12 MHz 
+  23 cm  1.240  –  1.300 GHz  2250 W	1  any  1.240  –  1.300 GHz  560 W	2  any 
+  13 cm  2.300  –  2.450 GHz  2250 W	1  any  2.300  –  2.450 GHz  560 W	2  any 
+  9 cm  3.300  –  3.500 GHz  2250 W	1  any  3.300  –  3.500 GHz  560 W	2  any 
+  6 cm  5.650  –  5.925 GHz  2250 W	1  any  5.650  –  5.925 GHz  560 W	2  any 
+  3 cm  10.000  –  10.500 GHz  2250 W	1  any  10.300  –  10.500 GHz  560 W	2  any 
+  1.2 cm  24.000  –  24.250 GHz  2250 W	1  any  24.000  –  24.050 GHz  560 W	2  any 
+  6 mm  47.000  –  47.200 GHz  2250 W	1  any  47.000  –  47.200 GHz  560 W	2  any 
+  4 mm  76.000  –  81.500 GHz  2250 W	1  any  76.000  –  81.500 GHz  560 W	2  any 
+ 2.5 mm  122.250  –  123.000 GHz  2250 W	1  any  122.250  –  123.000 GHz  560 W	2  any 
+  2 mm  134.000  –  141.000 GHz  2250 W	1  any  134.000  –  141.000 GHz  560 W	2  any 
+ 1.2 mm  241.000  –  250.000 GHz  2250 W	1  any  241.000  –  250.000 GHz  560 W	2  any 
+ 
+Notes 	
+1  Carrier power 750 W 2  Carrier power 190 W 
+    
+Info  
+Innovation, Science and Economic Development Canada  – http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01226.html (current as of 
+2016-04-29)	
+ 	   
+
+9 
+ 
+Croatia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   9A/        9A/ 
+Extensions   /M, /P        /M, /P 
+Equivalent   Class A      Class P 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  200 Hz    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  200 Hz  
+  160 m  1.810  –  1.850 MHz  1500 W  2.7 kHz    
+    1.850  –  2.000 MHz  1000 W  2.7 kHz   
+  80 m  3.500  –  3.800 MHz  1500 W  2.7 kHz  3.500  –  3.80 0 MHz  100 W  2.7 kHz 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  2.7 kHz 
+  40 m  7.000  –  7.200 MHz  1500 W  2.7 kHz  7.000  –  7.20 0 MHz  100 W  2.7 kHz 
+  30 m  10.100  –  10.150 MHz  250 W  A1A, F1B    
+  20 m  14.000  –  14.350 MHz  1500 W  2.7 kHz  14.040  –  1 4.150 MHz  100 W  2.7 kHz 
+              14.280  –  14.350 MHz  100 W  2.7 kHz  
+  17 m  18.068  –  18.168 MHz  1500 W  2.7 kHz  
+  15 m  21.000  –  21.450 MHz  1500 W  2.7 kHz  21.000  –  2 1.450 MHz  100 W  2.7 kHz 
+  12 m  24.890  –  24.990 MHz  1500 W  2.7 kHz  
+  10 m  28.000  –  29.700 MHz  1500 W  6 kHz  28.000  –  29. 700 MHz  100 W  6 kHz 
+  6 m  50.000  –  51.900 MHz  100 W  12 kHz 
+  4 m  70.000  –  70.450 MHz  10 W  12 kHz 
+  2 m  144.000  –  146.000 MHz  1500 W  20 kHz  144.000  –  146.000 MHz  100 W  20 kHz 
+  1.25 m 	
+  
+  70 cm  430.000  –  440.000 MHz  1500 W  2/7 MHz	1  430.000  –  440.000 MHz  100 W  2/7 MHz	1 
+  23 cm  1.240  –  1.300 GHz  1500 W 2/7/18 MHz	1  1.240  –  1.300 GHz  100 W 2/7/18 MHz	1 
+  13 cm  2.300  –  2.450 GHz  150 W 10/20 MHz	1  2.300  –  2.450 GHz  100 W 10/20 MHz	1 
+  9 cm  3.400  –  3.410 GHz  150 W  10 MHz   
+  6 cm  5.650  –  5.850 GHz  150 W 10/20 MHz	
+1  5.650  –  5.850 GHz  100 W 10/20 MHz	1 
+  3 cm  10.000  –  10.500 GHz  150 W 10/20 MHz	1  10.000  –  10.500 GHz  100 W 10/20 MHz	1 
+  1.2 cm  24.000  –  24.050 GHz  150 W    24.000  –  24.050  GHz  100 W 10/20 MHz1 
+    24.050  –  24.250 GHz  150 W 10/20 MHz	1  24.050  –  24.250 GHz  100 W   
+  6 mm  47.000  –  47.200 GHz  150 W    47.000  –  47.200 GH z  100 W   
+  4 mm  76.000  –  81.000 GHz  150 W 10/20 MHz
+1  76.000  –  81.000 GHz  100 W 10/20 MHz	1 
+ 2.5 mm  122.250  –  123.000 GHz  150 W 10/20 MHz	1  122.250  –  123.000 GHz  100 W 10/20 MHz	1 
+  2 mm  134.000  –  141.000 GHz  150 W 10/20 MHz	1  134.000  –  141.000 GHz  100 W 10/20 MHz	1 
+ 1.2 mm  241.000  –  250.000 GHz  150 W    241.000  –  250. 000 GHz  100 W   
+  
+Notes 	
+1  7 MHz AM-ATV, DATV; 18/20 MHz FM-ATV 
+  
+Info  
+Hrvatska agencija za poštu i elektroni čke komunikacije (HAKOM) – https://narodne-
+novine.nn.hr/clanci/sluzbeni/2017_11_116_2690.html  (current as of 2017-11-24) 
+
+10 
+ 
+Cyprus 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed  
+Call sign   5B/ 
+Extensions            
+Equivalent   Amateur Radio License     
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  CW, FAX    
+  630 m  472.000  –  479.000 kHz  1 W ERP  any    
+  160 m  1.810  –  2.000 MHz  400 W  any    
+  80 m  3.500  –  3.800 MHz  400 W  any   
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  400 W  any    
+  30 m  10.100  –  10.150 MHz  400 W  CW 
+  20 m  14.000  –  14.350 MHz  400 W  any  
+  17 m  18.068  –  18.168 MHz  400 W  any    
+  15 m  21.000  –  21.450 MHz  400 W  any   
+  12 m  24.890  –  24.990 MHz  400 W  any    
+  10 m  28.000  –  29.700 MHz  400 W  any    
+  6 m  50.000  –  52.000 MHz  400 W  any 
+  4 m  69.900  –  70.500 MHz	
+ 	400 W	 	any	 	 
+  2 m  144.000  –  146.000 MHz  400 W  any   
+  70 cm  430.000  –  440.000 MHz  400 W  any   
+  23 cm  1.240  –  1.300 GHz  400 W  any    
+  13 cm  2.300  –  2.450 GHz  400 W  any  
+  9 cm  3.400  –  3.410 GHz  400 W  any   
+  6 cm  5.650  –  5.850 GHz  400 W  any    
+  3 cm  10.000  –  10.500 GHz  400 W  any  
+  1.2 cm  24.000  –  24.250 GHz  400 W  any 
+  6 mm  47.000  –  47.200 GHz  400 W  any  
+  4 mm  75.500  –  81.500 GHz  400 W  any  
+ 2.5 mm  122.250  –  123.000 GHz  400 W  any 
+  2 mm  134.000  –  141.000 GHz  400 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  400 W  any   
+Info  
+Cyprus Amateur Radio Society – http://www.cyhams.or g/wp/?page_id=1250 (current as of 2018-02-20); Ministry of Transport, 
+Communications and Works –  
+https://dec.dmrid.gov.cy/dmrid/dec/dec.nsf/45BAF359 E146F2A4C22584FF00471FD3/$file/Radiofrequency_Plan_ %CE%9525_13-12-
+2019(English%20Unified%20Unofficial).pdf (current a s of 2019-12-13) 
+
+11 
+ 
+Czechia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   OK/        OK/   
+Extensions   /M, /P        /M, /P 
+Equivalent   Class A      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP 	2   
+  630 m      
+  160 m  1.810  –  1.850 MHz  750 W  any  1.830  –  2.000 MH z  10 W  any 
+    1.850  –  1.890 MHz  75 W  any    
+    1.890  –  2.000 MHz  10 W  any    
+  80 m  3.500  –  3.800 MHz  750 W  any  3.550  –  3.700 MHz   10 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  750 W  any    
+  30 m  10.100  –  10.140 MHz  750 W 
+3   
+    10.140  –  10.150 MHz  750 W 4   
+  20 m  14.000  –  14.350 MHz  750 W  any   
+  17 m  18.068  –  18.168 MHz  750 W  any  
+  15 m  21.000  –  21.450 MHz  750 W  any  21.050  –  21.200  MHz  10 W  any 
+  12 m  24.890  –  24.990 MHz  750 W  any  
+  10 m  28.000  –  29.700 MHz  750 W  any  28.050  –  28.400  MHz  10 W  any 
+  6 m  50.000  –  52.000 MHz  25 W  any  
+  4 m      
+  2 m  144.000  –  146.000 MHz  750 W  any  144.000  –  146. 000 MHz  10 W  any 
+  70 cm  430.000  –  440.000 MHz  750 W  any  430.000  –  44 0.000 MHz  10 W  any 
+  23 cm  1.240  –  1.300 GHz  750 W  any  1.240  –  1.300 GH z  10 W  any 
+  13 cm  2.300  –  2.450 GHz  750 W  any  2.300  –  2.450 GH z  10 W  any 
+  9 cm  3.400  –  3.410 GHz  25 W  any  3.400  –  3.410 GHz  10 W  any 
+  6 cm  5.650  –  5.850 GHz  750 W  any  5.650  –  5.850 GHz   10 W  any 
+  3 cm  10.000  –  10.500 GHz  750 W  any  10.000  –  10.500  GHz  10 W  any 
+  1.2 cm  24.000  –  24.250 GHz  750 W  any  24.000  –  24.2 50 GHz  10 W  any 
+  6 mm  47.000  –  47.200 GHz  750 W  any  47.000  –  47.200  GHz  10 W  any 
+  4 mm  75.500  –  81.000 GHz  750 W  any  75.500  –  81.000  GHz  10 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  750 W  any  122.250  –  1 23.000 GHz  10 W  any 
+  2 mm  134.000  –  141.000 GHz  750 W  any  134.000  –  141 .000 GHz  10 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  750 W  any  241.000  –  2 50.000 GHz  10 W  any 
+  
+Notes 	
+1  Bandwidth and modes according to the IARU Region 1  band plan (please refer to the list at the end of this document) 2 	A1A, F1A, G1A only 	3 	A1A, F1A, G1A, J2A only 	4 	J1D, J2D, F1D, G1D only 
+  
+Info  
+Ministerstvo informatiky – https://www.zakonyprolid i.cz/cs/2005-156 (current as of 2005-05-01); 
+https://www.ctu.eu/sites/default/files/obsah/strank y/60370/soubory/narodnikmitoctovatabulka.pdf (curre nt as of 2018-07-20) 
+   
+
+12 
+ 
+Denmark – Denmark, Faroe Islands 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   OY/  Føroyar/Faroe Islands    OY/  Føroyar/Faroe Islan ds 
+  OZ/  Danmark/Denmark      OZ/  Danmark/Denmark  
+Extensions   /AM, /M, /MM, /P (optional)      /AM, /M, /MM, /P (op tional) 
+Equivalent   Category A      Category B 
+national class 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  2.1 kHz  135.7 00  –  137.800 kHz  1 W ERP  2.1 kHz 
+  630 m  472.000  –  479.000 kHz  1 W ERP  8 kHz  472.000  –  479.000 kHz  1 W ERP  8 kHz 
+  160 m  1.810  –  1.850 MHz  1000 W  8 kHz  1.810  –  1.850  MHz  100 W  8 kHz 
+    1.850  –  2.000 MHz  10 W  8 kHz  1.850  –  2.000 MHz  10  W  8 kHz 
+  80 m  3.500  –  3.800 MHz  1000 W  8 kHz  3.500  –  3.800  MHz  100 W  8 kHz 
+  60 m  5.250  –  5.450 MHz  1000 W  8 kHz  5.250  –  5.450  MHz  100 W  8 kHz 
+  40 m  7.000  –  7.200 MHz  1000 W  8 kHz  7.000  –  7.200  MHz  100 W  8 kHz 
+  30 m  10.100  –  10.150 MHz  1000 W  8 kHz  10.100  –  10. 150 MHz  100 W  8 kHz 
+  20 m  14.000  –  14.350 MHz  1000 W  8 kHz  14.000  –  14. 350 MHz  100 W  8 kHz 
+  17 m  18.068  –  18.168 MHz  1000 W  8 kHz  18.068  –  18. 168 MHz  100 W  8 kHz 
+  15 m  21.000  –  21.450 MHz  1000 W  8 kHz  21.000  –  21. 450 MHz  100 W  8 kHz 
+  12 m  24.890  –  24.990 MHz  1000 W  8 kHz  24.890  –  24. 990 MHz  100 W  8 kHz 
+  10 m  28.000  –  29.700 MHz  1000 W  8 kHz  28.000  –  29. 700 MHz  100 W  8 kHz 
+  6 m  50.000  –  52.000 MHz  1000 W  16 kHz  50.000  –  52. 000 MHz  100 W  16 kHz 
+  4 m  69.8875  –  70.0625 MHz  25 W  16 kHz  69.8875  –  70 .0625 MHz  25 W  16 kHz 
+    70.0875  –  70.1125 MHz  25 W  16 kHz  70.0875  –  70.11 25 MHz  25 W  16 kHz 
+    70.1375  –  70.5125 MHz  25 W  16 kHz  70.1375  –  70.51 25 MHz  25 W  16 kHz 
+  2 m  144.000  –  146.000 MHz  1000 W  16 kHz  144.000  –  146.000 MHz  100 W  16 kHz 
+  70 cm  432.000  –  438.000 MHz  1000 W  any  432.000  –  4 38.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  250 W  any  1.240  –  1.300 GH z  100 W  any 
+  13 cm  2.400  –  2.450 GHz  250 W  any  2.400  –  2.450 GH z  100 W  any 
+  9 cm  3.400  –  3.410 GHz  250 W  any  3.400  –  3.410 GHz   100 W  any 
+  6 cm  5.650  –  5.850 GHz  250 W  any  5.650  –  5.850 GHz   100 W  any 
+  3 cm  10.000  –  10.500 GHz  250 W  any  10.000  –  10.500  GHz  100 W  any 
+  1.2 cm  24.000  –  24.250 GHz  250 W  any  24.000  –  24.2 50 GHz  100 W  any 
+  6 mm  47.000  –  47.200 GHz  250 W  any  47.000  –  47.200  GHz  100 W  any 
+  4 mm  76.000  –  81.500 GHz  250 W  any  76.000  –  81.500  GHz  100 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  250 W  any  122.250  –  1 23.000 GHz  100 W  any 
+  2 mm  134.000  –  141.000 GHz  250 W  any  134.000  –  141 .000 GHz  100 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  250 W  any  241.000  –  2 50.000 GHz  100 W  any 
+  
+Info  
+Retsinformation – https://www.retsinformation.dk/el i/lta/2019/1155 (current as of 2019-11-21) 
+
+13 
+ 
+Denmark – Greenland  
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   OX/  Grønland/Greenland    OX/  Grønland/Greenland 
+Extensions   /AM, /M, /MM, /P (optional)      /AM, /M, /MM, /P (op tional) 
+Equivalent   Category A      Category B 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  2.1 kHz  135.7 00  –  137.800 kHz  1 W ERP  2.1 kHz 
+  630 m  472.000  –  479.000 kHz  5 W ERP  8 kHz  472.000  –  479.000 kHz  5 W ERP  8 kHz 
+  160 m  1.800  –  2.000 MHz  1000 W  8 kHz  1.800  –  2.000  MHz  100 W  8 kHz 
+  80 m  3.500  –  3.800 MHz  1000 W  8 kHz  3.500  –  3.800  MHz  100 W  8 kHz 
+  60 m  5.250  –  5.450 MHz  1000 W  8 kHz  5.250  –  5.450  MHz  100 W  8 kHz 
+  40 m  7.000  –  7.300 MHz  1000 W  8 kHz  7.000  –  7.300  MHz  100 W  8 kHz 
+  30 m  10.100  –  10.150 MHz  1000 W  8 kHz  10.100  –  10. 150 MHz  100 W  8 kHz 
+  20 m  14.000  –  14.350 MHz  1000 W  8 kHz  14.000  –  14. 350 MHz  100 W  8 kHz 
+  17 m  18.068  –  18.168 MHz  1000 W  8 kHz  18.068  –  18. 168 MHz  100 W  8 kHz 
+  15 m  21.000  –  21.450 MHz  1000 W  8 kHz  21.000  –  21. 450 MHz  100 W  8 kHz 
+  12 m  24.890  –  24.990 MHz  1000 W  8 kHz  24.890  –  24. 990 MHz  100 W  8 kHz 
+  10 m  28.000  –  29.700 MHz  1000 W  8 kHz  28.000  –  29. 700 MHz  100 W  8 kHz 
+  6 m  50.000  –  54.000 MHz  1000 W  16 kHz  50.000  –  54. 000 MHz  100 W  16 kHz 
+  4 m  70.000  –  70.500 MHz  1000 W  16 kHz  70.000  –  70. 500 MHz  100 W  16 kHz 
+  2 m  144.000  –  148.000 MHz  1000 W  16 kHz  144.000  –  148.000 MHz  100 W  16 kHz 
+  70 cm  430.000  –  440.000 MHz  1000 W  any  430.000  –  4 40.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  250 W  any  1.240  –  1.300 GH z  100 W  any 
+  13 cm  2.300  –  2.450 GHz  250 W  any  2.300  –  2.450 GH z  100 W  any 
+  9 cm  3.400  –  3.500 GHz  250 W  any  3.400  –  3.500 GHz   100 W  any 
+  6 cm  5.650  –  5.925 GHz  250 W  any  5.650  –  5.925 GHz   100 W  any 
+  3 cm  10.000  –  10.500 GHz  250 W  any  10.000  –  10.500  GHz  100 W  any 
+  1.2 cm  24.000  –  24.250 GHz  250 W  any  24.000  –  24.2 50 GHz  100 W  any 
+  6 mm  47.000  –  47.200 GHz  250 W  any  47.000  –  47.200  GHz  100 W  any 
+  4 mm  76.000  –  81.500 GHz  250 W  any  76.000  –  81.500  GHz  100 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  250 W  any  122.250  –  1 23.000 GHz  100 W  any 
+  2 mm  134.000  –  141.000 GHz  250 W  any  134.000  –  141 .000 GHz  100 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  250 W  any  241.000  –  2 50.000 GHz  100 W  any 
+  
+Info  
+Den Grønlandske Lovsamling – http://www.dgl.gl/regl er2/dk/bkgdk_2012-1134_bilag3.pdf (current as of 2012-12-03) 
+   
+
+14 
+ 
+Estonia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   ES1/  Tallinn      ES1/  Tallinn 
+  ES2/   Harjumaa      ES2/   Harjumaa 
+  ES3/  Järvamaa, Läänemaa, Raplamaa  ES3/  Järvamaa, L äänemaa, Raplamaa 
+  ES4/  Ida-Virumaa, Lääne-Virumaa    ES4/  Ida-Virumaa,  Lääne-Virumaa 
+  ES5/  Jõgevamaa, Tartumaa    ES5/  Jõgevamaa, Tartumaa  
+  ES6/  Põlvamaa, Valgamaa, Võrumaa  ES6/  Põlvamaa, Va lgamaa, Võrumaa 
+  ES7/  Viljandimaa      ES7/  Viljandimaa 
+  ES8/  Pärnumaa      ES8/  Pärnumaa 
+  ESØ/  Hiiumaa, Saaremaa, islands    ESØ/  Hiiumaa, Saa remaa, islands 
+Extensions   /AM, /M, /P  (only handheld equipment)  /AM, /M, /P  (only handheld equipment) 
+Equivalent   CEPT with CW 5 wpm: Class A    Class D 
+national class   CEPT without CW: Class B 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP   any	2   
+  630 m  472.000  –  479.000 kHz   1 W ERP  any2 	 
+  160 m  1.810  –  1.850 MHz  1000 W	6  any	3   
+    1.850  –  1.955 MHz  10 W ERP  any4   
+  80 m  3.500  –  3.800 MHz  1000 W	6  any	3   
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  800 Hz    
+  40 m  7.000  –  7.200 MHz  1000 W	
+6  any	3   
+  30 m  10.100  –  10.150 MHz  1000 W	6  any	2   
+  20 m  14.000  –  14.350 MHz  1000 W	6  any	3   
+  17 m  18.068  –  18.168 MHz  1000 W	6  any	3   
+  15 m  21.000  –  21.450 MHz  1000 W	6  any	3   
+  12 m  24.890  –  24.990 MHz  1000 W	6  any	3   
+  10 m  28.000  –  29.700 MHz  1000 W	6  any	3  28.000  –  29.700 MHz  10 W  any	3 
+  6 m  50.000  –  52.000 MHz  1000 W	6  any	3  50.200  –  52.000 MHz  10 W  any	3 
+  4 m  70.000  –  70.300 MHz  1000 W	6 7  any	3  70.000  –  70.300 MHz  10 W  any	3 
+  2 m  144.000  –  146.000 MHz  1000 W	6  any	3  144.000  –  146.000 MHz  10 W  any	3 
+  70 cm  432.000  –  438.000 MHz  1000 W	6  any	5  432.000  –  438.000 MHz  10 W  any	5 
+  23 cm  1.240  –  1.300 GHz  100 W	8  any	5  1.240  –  1.300 GHz  10 W  any	5 
+  13 cm  2.300  –  2.450 GHz  100 W	8  any	3 
+  9 cm  3.400  –  3.401 GHz  100 W	8  any	3 	
+  6 cm  5.650  –  5.850 GHz  100 W	8  any	5 
+  3 cm  10.000  –  10.500 GHz  100 W	8  any	5 	 	
+  1.2 cm  24.000  –  24.250 GHz      
+  6 mm  47.000  –  47.200 GHz      
+  4 mm  76.000  –  84.000 GHz      
+ 2.5 mm  122.250  –  123.000 GHz     
+  2 mm  134.000  –  141.000 GHz      
+ 1.2 mm  241.000  –  250.000 GHz       
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 2  CW, digital 3  CW, phone, digital 4  CW, phone 5  CW, phone, digital, ATV 6  CEPT with CW 5 wpm: 1000 W PEP, CEPT without CW: 1 00 W PEP 7  100 W PEP in Ida-Virumaa 8 	1000 W PEP for A1A, F1B, J3E	 	
+ 
+Info  
+Minister of Economic Affairs and Communications – https://www.riigiteataja.ee/aktilisa/1080/2201/3002/MKM_m9_lisa3.pdf (current as 
+of 2013-02-05); https://www.riigiteataja.ee/akt/132 97230 (current as of 2013-02-10); 
+https://www.riigiteataja.ee/aktilisa/1250/1201/9006 /MKM_22012019_m6lisa1.pdf (current as of 2017-10-26 )	
+ 	  
+
+15 
+ 
+Finland 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented  
+Call sign   OH/  Suomi/Finland      OH/  Suomi/Finland 
+  OHØ/  Åland/Ahvenanmaa/Aland Islands  OHØ/  Åland/Ahv enanmaa/Aland Islands 
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P     
+Equivalent   Class Y (General)    Class P (Elementary) 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge	
+1  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz  135.70 0  –  137.800 kHz  1 W EIRP  1 kHz 
+  630 m  472.000  –  479.000 kHz  1 W EIRP  1 kHz  472.000   –  479.000 kHz  1 W EIRP  1 kHz 
+  160 m  1.810  –  1.850 MHz  1500 W  8 kHz  1.810  –  1.850  MHz  120 W  8 kHz 
+    1.850  –  2.000 MHz  60 W	
+2  8 kHz  1.850  –  2.000 MHz  60 W	2  8 kHz 
+  80 m  3.500  –  3.800 MHz  1500 W  8 kHz  3.500  –  3.800  MHz  120 W  8 kHz 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  8 kHz  5.3515  –  5.3665 MHz  15 W EIRP  8 kHz 
+  40 m  7.000  –  7.200 MHz  1500 W  8 kHz  7.000  –  7.200  MHz  120 W  8 kHz 
+  30 m  10.100  –  10.150 MHz  1500 W  1 kHz  10.100  –  10. 150 MHz  120 W  1 kHz 
+  20 m  14.000  –  14.350 MHz  1500 W  8 kHz  14.000  –  14. 350 MHz  120 W  8 kHz 
+  17 m  18.068  –  18.168 MHz  1500 W  8 kHz  18.068  –  18. 168 MHz  120 W  8 kHz 
+  15 m  21.000  –  21.450 MHz  1500 W  8 kHz  21.000  –  21. 450 MHz  120 W  8 kHz 
+  12 m  24.890  –  24.990 MHz  1500 W  8 kHz  24.890  –  24. 990 MHz  120 W  8 kHz 
+  10 m  28.000  –  29.700 MHz  1500 W  8 kHz  28.000  –  29. 700 MHz  120 W  8 kHz 
+  6 m  50.000  –  52.000 MHz  200 W	
+3 4  18 kHz  50.000  –  52.000 MHz  120 W	5  18 kHz 
+  4 m	6  70.000  –  70.050 MHz	 	25 W	7 8 	1 kHz	 	70.000  –  70.050 MHz  25 W	7 8  1 kHz 
+    70.050  –  70.250 MHz	 	100 W	7 8 	18 kHz	 	70.050  –  70.250 MHz  30 W	7 8  18 kHz 
+    70.250  –  70.300 MHz	 	25 W	7 8 	18 kHz	 	70.250  –  70.300 MHz  25 W	7 8  18 kHz 
+  2 m  144.000  –  144.150 MHz  150 W	9  18 kHz  144.000  –  146.000 MHz  120 W	5  18 kHz 
+    144.150  –  146.000 MHz  600 W	10  18 kHz   
+  70 cm  432.000  –  432.150 MHz  150 W9  any  432.000  –  438.000 MHz  120 W	5  any 
+    432.150  –  438.000 MHz  600 W	10  any   
+  23 cm    
+  13 cm  2.300  –  2.450 GHz  600 W
+10  any  2.300  –  2.450 GHz  120 W	5  any 
+  9 cm  3.400  –  3.408 GHz  600 W	10  any  3.400  –  3.408 GHz  120 W	5  any 
+  6 cm  5.650  –  5.850 GHz  600 W	10  any  5.650  –  5.850 GHz  120 W	5  any 
+  3 cm  10.000  –  10.280 GHz  600 W	10  any  10.000  –  10.280 GHz  120 W	5  any 
+    10.368  –  10.370 GHz  600 W	10  any  10.368  –  10.370 GHz  120 W	5  any 
+    10.450  –  10.500 GHz  600 W	10  any  10.450  –  10.500 GHz  120 W	5  any 
+  1.2 cm  24.000  –  24.250 GHz  600 W	10  any  24.000  –  24.250 GHz  120 W	5   any 
+  6 mm  47.000  –  47.200 GHz  600 W	10  any  47.000  –  47.200 GHz  120 W	5 	any 
+  4 mm  76.000  –  81.500 GHz  600 W	10  any  76.000  –  81.500 GHz  120 W	5 	any 
+ 2.5 mm  122.250  –  123.000 GHz  600 W	10  any  122.250  –  123.000 GHz  120 W	5 	any 
+  2 mm  134.000  –  141.000 GHz  600 W	10  any  134.000  –  141.000 GHz  120 W	5 	any 
+ 1.2 mm  241.000  –  250.000 GHz  600 W	10  any  241.000  –  250.000 GHz  120 W	5 	any 
+  
+Notes 	
+1  Only frequency ranges that are permitted in the ho me country 2  15 W carrier power/60 W PEP 3  150 W carrier power/200 W PEP 4  The electrical field emitted by amateur radio transmitters on the border of Finland and the Russian Federation at an altitude of 10  
+  metres may not exceed +6dBuV/m during more than 10 % of the time. 
+5  30 W carrier power/120 W PEP 6  Amateur radio transmitters must not be used in the following municipalities: Lieksa, Ilomantsi, Joensuu, Kontiolahti, Polvijärvi,  
+  Juuka, Nurmes, Valtimo, Kuhmo, Hyrynsalmi, Suomuss almi, Ristijärvi and Sotkamo. 
+7  In an area closer than 50 km from the borders of the Russian Federation and Finland the main lobe of the transmitting antenna must 
+not point into directions between 0 degrees and 180  degrees and the maximum transmitting power allowed  is 25 W. 
+8  In an area closer than 50 km from the borders of Norway and Finland the maximum transmitting power al lowed is 25 W. 9  600 W carrier power for A1A, digital modes, 150 W  carrier power for other modes 10  150 W carrier power/600 W PEP 
+  
+Info  
+Finnish Transport and Communications Agency (Trafic om) – 
+https://www.traficom.fi/sites/default/files/media/r egulation/Radio%20frequency%20regulation%204AA2021M .pdf (current as of 2021-02-
+05)     
+
+16 
+ 
+France – ITU Region 1 
+  
+France, Mayotte, Réunion, Terres australes et antar ctiques françaises (Archipel Crozet, Îles Éparses de l’océan Indien – 
+Bassas da India, Europa, Glorieuses, Juan de Nova,  Tromelin), Corsica 
+ 
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed  
+Call sign   F/  France       
+  FH/  Mayotte	
+1 
+  FR/  Réunion  
+  FT/  Bassas da India	
+2 (FT.B),  
+    Île Europa	2 (FT.E), 
+    Îles Glorieuses	2 (FT.G), 
+    Île Juan de Nova2 (FT.J), 
+    Île Tromelin	2 (FT.T), 
+    Archipel Crozet	2 (FT.W) 
+  TK/  Corse/Corsica  
+Extensions   /M, /MM, /P          
+Equivalent   HAREC     
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  1 kHz    
+  160 m  1.810  –  1.850 MHz  500 W  6 kHz    
+  80 m  3.500  –  3.800 MHz  500 W  6 kHz   
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  6 kHz    
+  40 m  7.000  –  7.200 MHz  500 W  6 kHz    
+  30 m  10.100  –  10.150 MHz  500 W  6 kHz 
+  20 m  14.000  –  14.350 MHz  500 W  6 kHz  
+  17 m  18.068  –  18.168 MHz  500 W  6 kHz    
+  15 m  21.000  –  21.450 MHz  500 W  6 kHz   
+  12 m  24.890  –  24.990 MHz  500 W  6 kHz    
+  10 m  28.000  –  29.700 MHz  250 W  12 kHz    
+  6 m  50.000  –  52.000 MHz  120 W  12 kHz   
+  4 m 	
+  
+  2 m  144.000  –  146.000 MHz  120 W  20 kHz 
+  70 cm  430.000  –  440.000 MHz  120 W  20 kHz   
+  23 cm  1.240  –  1.300 GHz  120 W  any    
+  13 cm  2.300  –  2.450 GHz  120 W  any    
+  9 cm     
+  6 cm  5.650  –  5.850 GHz  120 W  any    
+  3 cm  10.000  –  10.500 GHz  120 W  any    
+  1.2 cm  24.000  –  24.250 GHz  120 W  any   
+  6 mm  47.000  –  47.200 GHz  120 W  any    
+  4 mm  76.000  –  81.500 GHz  120 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  120 W  any   
+  2 mm  134.000  –  141.000 GHz  120 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  120 W  any      
+Notes 	
+1  Guest licence required 2  Guest licence and landing permission required 
+  
+Info  
+Legifrance – https://www.legifrance.gouv.fr/jorf/id /JORFTEXT000041567594 (current as of 2020-02-13); R adio-Club de la Haute Île – 
+http://f6kgl.f5kff.free.fr/Reglementation.pdf (curr ent as of 2020-02) 
+   
+
+17 
+ 
+France – ITU Region 2 
+  
+Guadeloupe, St. Barthélémy, Martinique, Clipperton,  St. Pierre & Miquelon, St. Martin, French Guyana 
+ 
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed  
+Call sign   FG/  Guadeloupe       
+  FJ/  Saint-Barthélémy 
+  FM/  Martinique 
+  FO/  Clipperton	
+1 
+  FP/  Saint-Pierre et Miquelon 
+  FS  Saint-Martin 
+  FY  Guyane Française/French Guyana  
+Extensions   /M, /MM, /P          
+Equivalent   HAREC     
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  1 kHz   
+  160 m  1.800  –  2.000 MHz  500 W  6 kHz    
+  80 m  3.500  –  4.000 MHz  500 W  6 kHz    
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  6 kHz   
+  40 m  7.000  –  7.300 MHz  500 W  6 kHz    
+  30 m  10.100  –  10.150 MHz  500 W  6 kHz  
+  20 m  14.000  –  14.350 MHz  500 W  6 kHz 
+  17 m  18.068  –  18.168 MHz  500 W  6 kHz    
+  15 m  21.000  –  21.450 MHz  500 W  6 kHz    
+  12 m  24.890  –  24.990 MHz  500 W  6 kHz   
+  10 m  28.000  –  29.700 MHz  250 W  12 kHz    
+  6 m  50.000  –  54.000 MHz  120 W  12 kHz    
+  4 m 	
+  
+  2 m  144.000  –  148.000 MHz  120 W  20 kHz  
+  1.25 m  220.000  –  225.000 MHz  120 W  20 kHz  
+  70 cm  430.000  –  440.000 MHz  120 W  20 kHz   
+  23 cm  1.240  –  1.300 GHz  120 W  any    
+  13 cm  2.300  –  2.450 GHz  120 W  any    
+  9 cm  3.300  –  3.500 GHz  120 W  any   
+  6 cm  5.650  –  5.925 GHz  120 W  any    
+  3 cm  10.000  –  10.500 GHz  120 W  any    
+  1.2 cm  24.000  –  24.250 GHz  120 W  any   
+  6 mm  47.000  –  47.200 GHz  120 W  any    
+  4 mm  76.000  –  81.500 GHz  120 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  120 W  any   
+  2 mm  134.000  –  141.000 GHz  120 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  120 W  any     
+Notes 	
+1  Guest licence and landing permission required 
+  
+Info  
+Legifrance – https://www.legifrance.gouv.fr/jorf/id /JORFTEXT000041567594 (current as of 2020-02-13); R adio-Club de la Haute Île – 
+http://f6kgl.f5kff.free.fr/Reglementation.pdf (curr ent as of 2020-02) 
+   
+
+18 
+ 
+France – ITU Region 3 
+  
+New Caledonia, French Polynesia, Terres australes e t antarctiques françaises (Kerguelen, Adélie Land, St. Paul & New 
+Amsterdam), Wallis & Futuna  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed  
+Call sign   FK/  Nouvelle Calédonie/New Caledonia	
+1       
+  FO/  Polynésie Française/French Polynesia1 
+  FT/  Îles Kerguelen	2 (FT.X), 
+    Terre-Adélie/Adélie Land	2 (FT.Y), 
+    Îles Saint-Paul et Nouvelle-Amsterdam	2 (FT.Z) 
+  FW/  Wallis et Futuna	1 
+Extensions   /M, /MM, /P          
+Equivalent   HAREC     
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz    
+  630 m     
+  160 m  1.800  –  1.830 MHz
+3  500 W  6 kHz   
+    1.830  –  2.000 MHz  500 W  6 kHz   
+  80 m  3.500  –  3.900 MHz  500 W  6 kHz   
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  6 kHz    
+  40 m  7.000  –  7.200 MHz  500 W  6 kHz    
+  30 m  10.100  –  10.150 MHz  500 W  6 kHz 
+  20 m  14.000  –  14.350 MHz  500 W  6 kHz  
+  17 m  18.068  –  18.168 MHz  500 W  6 kHz    
+  15 m  21.000  –  21.450 MHz  500 W  6 kHz   
+  12 m  24.890  –  24.990 MHz  500 W  6 kHz    
+  10 m  28.000  –  29.700 MHz  250 W  12 kHz    
+  6 m  50.000  –  54.000 MHz  120 W  12 kHz   
+  4 m 	
+  
+  2 m  144.000  –  148.000 MHz  120 W  20 kHz 
+  1.25 m   
+  70 cm  430.000  –  440.000 MHz  120 W  20 kHz    
+  23 cm  1.240  –  1.300 GHz  120 W  any    
+  13 cm  2.300  –  2.415 GHz  120 W  any   
+    2.415  –  2.450 GHz	
+4  120 W  any   
+  9 cm  3.300  –  3.500 GHz  120 W  any   
+  6 cm  5.650  –  5.850 GHz  120 W  any   
+  3 cm  10.000  –  10.500 GHz  120 W  any    
+  1.2 cm  24.000  –  24.250 GHz  120 W  any    
+  6 mm  47.000  –  47.200 GHz  120 W  any   
+  4 mm  76.000  –  81.000 GHz  120 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  120 W  any    
+  2 mm  134.000  –  141.000 GHz  120 W  any   
+ 1.2 mm  241.000  –  250.000 GHz  120 W  any      
+Notes 	
+1  Guest licence required 2  Guest licence and landing permission required 3 	Only French Polynesia	 
+4 	
+Except islands of Tahiti, Mooréa in French Polynesi a 
+  
+Info  
+Legifrance – https://www.legifrance.gouv.fr/jorf/id /JORFTEXT000041567594 (current as of 2020-02-13); R adio-Club de la Haute Île – 
+http://f6kgl.f5kff.free.fr/Reglementation.pdf (curr ent as of 2020-02) 
+   
+
+19 
+ 
+Germany 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   DL/      DO/ 
+Extensions   /AM, /M, /MM, /P (optional)      /AM, /M, /MM, /P (op tional) 
+Equivalent   Class A      Class E 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  800 Hz    
+  630 m  472.000  –  479.000 kHz  1 W ERP  800 Hz  
+  160 m  1.810  –  1.850 MHz  750 W  2.7 kHz  1.810  –  1.85 0 MHz  100 W  2.7 kHz 
+    1.850  –  1.890 MHz	
+1  750	1 4/75 W	 	2.7 kHz	 	1.850  –  1.890 MHz	2  100	2 4/75 W  2.7 kHz 
+    1.890  –  2.000 MHz	1  750	1 4/10 W  2.7 kHz  1.890  –  2.000 MHz	2  100	2 4/10 W  2.7 kHz 
+  80 m  3.500  –  3.800 MHz  750 W  2.7 kHz  3.500  –  3.800  MHz  100 W  2.7 kHz 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  2.7 kHz  
+  40 m  7.000  –  7.200 MHz  750 W  2.7 kHz    
+  30 m  10.100  –  10.150 MHz  150 W  800 Hz    
+  20 m  14.000  –  14.350 MHz  750 W  2.7 kHz   
+  17 m  18.068  –  18.168 MHz  750 W  2.7 kHz    
+  15 m  21.000  –  21.450 MHz  750 W  2.7 kHz  21.000  –  21 .450 MHz  100 W  2.7 kHz 
+  12 m  24.890  –  24.990 MHz  750 W  2.7 kHz    
+  10 m  28.000  –  29.700 MHz  750 W  7 kHz  28.000  –  29.7 00 MHz  100 W  7 kHz 
+  6 m	
+3  50.000  –  50.080 MHz	4  750 W  12 kHz  50.000  –  50.400 MHz	4  100 W  12 kHz 
+    50.080  –  50.400 MHz750	4/25 W ERP  12 kHz   
+    50.400  –  51.000 MHz 254/25 W ERP  12 kHz  50.400  –  52.000 MHz	4  25 W  12 kHz 
+    51.000  –  52.000 MHz	4  25 W ERP  12 kHz   
+  4 m	3  70.150  –  70.200 MHz	4  25 W ERP  12 kHz 
+  2 m  144.000  –  146.000 MHz  750 W  40 kHz  144.000  –  1 46.000 MHz  75 W  40 kHz 
+  70 cm  430.000  –  440.000 MHz  750 W  2 MHz	
+5  430.000  –  440.000 MHz  75 W  2 MHz	5 
+  23 cm  1.240  –  1.300 GHz  750 W  2 MHz	6   
+  13 cm  2.320  –  2.450 GHz  75 W  10 MHz7  2.320  –  2.450 GHz	4  5 W  10 MHz	7 
+  9 cm  3.400  –  3.475 GHz  75 W  10 MHz	7     
+  6 cm  5.650  –  5.850 GHz  75 W  10 MHz7  5.650  –  5.850 GHz	4  5 W  10 MHz	7 
+  3 cm  10.000  –  10.500 GHz  75 W  10 MHz	7  10.000  –  10.500 GHz  5 W  10 MHz	7 
+  1.2 cm  24.000  –  24.250 GHz  75 W  10 MHz	7   
+  6 mm  47.000  –  47.200 GHz  75 W  10 MHz7   
+  4 mm  75.500  –  81.500 GHz  75 W  10 MHz7   
+ 2.5 mm  122.250  –  123.000 GHz  75 W  10 MHz7   
+  2 mm  134.000  –  141.000 GHz  75 W  10 MHz7   
+ 1.2 mm  241.000  –  250.000 GHz  75 W  any    
+    444.000  –  453.000 GHz    Laser
+8  444.000  –  453.000 GHz	   	Laser	9 
+    510.000  –  546.000 GHz    Laser	8  510.000  –  546.000 GHz	   	Laser	9 
+    711.000  –  730.000 GHz    Laser	8  711.000  –  730.000 GHz	   	Laser	9 
+    909.000  –  926.000 GHz    Laser	8  909.000  –  926.000 GHz	   	Laser	9 
+    945.000  –  951.000 GHz    Laser	8  945.000  –  951.000 GHz	   	Laser	9 
+        >956.000 GHz    Laser	8      >956.000 GHz    Laser	9 
+  
+Notes 	
+1  Contest operation on weekends only, 750 W PEP 2  Contest operation on weekends only, 100 W PEP 3  Horizontal polarisation 4  Valid until 2021-12-31 5  Bandwidth 7 MHz for AM-ATV 6  Bandwidth 7 MHz for AM-ATV and D-ATV, 18 MHz for F M-ATV 7  Bandwidth 20 MHz for ATV 8  Laser classes 1, 1M, 2, 2M, 3R, 3B 9  Laser classes 1, 1M, 2, 2M 
+ 
+Info  
+Bundesministerium der Justiz – http://bundesrecht.j uris.de/bundesrecht/afuv_2005/gesamt.pdf (current a s of 2013-08-07); 
+Bundesnetzagentur –  
+https://www.bundesnetzagentur.de/SharedDocs/Downloa ds/DE/Sachgebiete/Telekommunikation/Unternehmen_Ins titutionen/Frequenze
+n/Amateurfunk/AmtsblattverfuegungenAFu/Mitt1112020. pdf?__blob=publicationFile&v=11 (current as of 2020-05-06) 
+   
+
+20 
+ 
+Greece 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed  
+Call sign   SV/ 
+  Optional digit designating the region: 
+  SV1/  Attikí/Attica, Dytikí Elláda/Western Greece,  
+    Stereá Elláda/Central Greece  
+  SV2/  Dytikí Makedonía/Western Macedonia, 
+    Kentrikí Makedonía/Central Macedonia	
+1 
+  SV3/  Pelopónnisos/Peloponnese 
+  SV4/  Thessalía/Thessaly 
+  SV5/  Dhodekánisos/Dodecanese  
+  SV6/  Ípiros/Epirus  
+  SV7/  Anatolikí Makedonía/East Macedonia, 
+    Thráki/Thrace  
+  SV8/  Ionian and Aegean Islands (except  
+    Dodecanese und Crete) 
+  SV9/  Kríti/Crete  
+Extensions   /AM, /M, /MM, /P       
+Equivalent   Class 1     
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes
+2   
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz   
+  630 m  472.000  –  479.000 kHz  1 W EIRP  1 kHz   
+  160 m  1.810  –  1.850 MHz  500 W  CW, SSB    
+  80 m  3.500  –  3.600 MHz  500 W  CW, digital    
+    3.600  –  3.780 MHz  500 W  any   
+    3.780  –  3.800 MHz  500 W  CW, SSB    
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  500 W  any   
+  30 m  10.100  –  10.150 MHz  500 W  any  
+  20 m  14.000  –  14.350 MHz  500 W  any  
+  17 m  18.068  –  18.168 MHz  500 W  any   
+  15 m  21.000  –  21.450 MHz  500 W  any    
+  12 m  24.890  –  24.990 MHz  500 W  any    
+  10 m  28.000  –  29.700 MHz  500 W  any   
+  6 m    
+  4 m 	
+  
+  2 m  144.000  –  146.000 MHz  100 W  any    
+  70 cm  430.000  –  440.000 MHz  100 W  any     
+  23 cm  1.200  –  1.300 GHz  50 W  any   
+  13 cm  2.300  –  2.450 GHz  50 W  any 
+  9 cm    
+  6 cm      
+  3 cm   
+  1.2 cm  24.000  –  24.250 GHz  50 W  any  
+  6 mm    
+  4 mm    
+ 2.5 mm  122.250  –  123.000 GHz  50 W  any  
+  2 mm  134.000  –  141.000 GHz  50 W  any   
+ 1.2 mm  241.000  –  250.000 GHz  50 W  any    
+Notes 	
+1  Operation within Mount Athos is subject to the off icial written permission of the local administration of the holy community. 2  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info  
+Ministry of Transport and Communication (YME) – htt ps://www.targ.gr/images/files/y-a-10800-310-4-3-2013.pdf (current as of 2013-03-
+21); Informatics Development Agency – https://diavg eia.gov.gr/doc/%CE%A9%CE%A9%CE%93%CE%A31-
+%CE%A9%CE%9A%CE%9D (current as of 2014-08-01)    
+
+21 
+ 
+Hungary 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   HA/        HA/ 
+Extensions  /AM, /M, /MM, /P      /AM, /M, /MM, /P  
+Equivalent   CEPT HAREC    CEPT Novice 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  any    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  200 Hz	
+2             
+  160 m  1.810  –  1.850 MHz  1500 W  any  1.810  –  1.850 M Hz  200 W  any 
+    1.850  –  2.000 MHz  10 W  any   
+  80 m  3.500  –  3.800 MHz  1500 W  any  3.500  –  3.800 MH z  200 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any 
+  40 m  7.000  –  7.200 MHz  1500 W  any  7.000  –  7.200 MH z  200 W  any 
+  30 m  10.100  –  10.150 MHz  1500 W  any    
+  20 m  14.000  –  14.350 MHz  1500 W  any  14.000  –  14.35 0 MHz  200 W  any 
+  17 m  18.068  –  18.168 MHz  1500 W  any    
+  15 m  21.000  –  21.450 MHz  1500 W  any  21.000  –  21.45 0 MHz  200 W  any 
+  12 m  24.890  –  24.990 MHz  1500 W  any 
+  10 m  28.000  –  29.700 MHz  1500 W  any  28.000  –  29.70 0 MHz  200 W  any 
+  6 m  50.000  –  52.000 MHz  10 W ERP  any  
+  4 m  70.000  –  70.500 MHz  10 W ERP  any  
+  2 m  144.000  –  146.000 MHz  1000 W  any  144.000  –  146 .000 MHz  200 W  any 
+  70 cm  430.000  –  440.000 MHz  1000 W  any  430.000  –  4 38.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  500 W  any 
+  13 cm  2.300  –  2.500 GHz  150 W  any 
+  9 cm    
+  6 cm  5.600  –  5.850 GHz  75 W  any    
+  3 cm  10.100  –  10.500 GHz  75 W  any   
+  1.2 cm  24.048  –  24.250 GHz  30 W  any    
+  6 mm  47.000  –  47.200 GHz  30 W  any    
+  4 mm  76.000  –  81.500 GHz  30 W  any   
+ 2.5 mm  122.250  –  123.000 GHz  30 W  any    
+  2 mm  134.000  –  141.000 GHz  30 W  any    
+ 1.2 mm  248.000  –  250.000 GHz  30 W  any     
+Notes 	
+1  Bandwidth and modes according to IARU Region 1 ban d plan (please refer to the list at the end of this document) 2  A1A, A1D, F1D only 
+  
+Info  
+Nemzeti Média- és Hírközlési Hatóság (NMHH) – http: //www.kozlonyok.hu/nkonline/MKPDF/hiteles/MK18074.p df (current as of 2018-
+05-29); http://njt.hu/cgi_bin/njt_doc.cgi?docid=163 445 (current as of 2021-02-14); Magyar Rádióamat őr Szövetség (MRASZ) – 
+http://www.mrasz.org/information-for-visitors-to-hu ngary/frequencies-used-in-hungary (current as of 20 21-02-14) 
+   
+
+22 
+ 
+Iceland 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   TF/        TF/ 
+Extensions   /M, /P      /M, /P 
+Equivalent   Class G      Class N       
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes   
+ 2200 m  135.700  –  137.800 kHz  100 W  1 kHz    
+  630 m  472.000  –  479.000 kHz  5 W EIRP  1 kHz  472.000   –  479.000 kHz  5 W EIRP  1 kHz   
+  160 m  1.810  –  1.850 MHz  1000 W  6 kHz  1.810  –  1.850  MHz  100 W  6 kHz 
+    1.850  –  1.900 MHz	
+1  1000 W  6 kHz  1.850  –  1.900 MHz	1  10 W  6 kHz 
+    1.900  –  2.000 MHz  10 W  6 kHz  1.900  –  2.000 MHz  10  W  6 kHz 
+  80 m  3.500  –  3.800 MHz  1000 W  6 kHz  3.500  –  3.800  MHz  100 W  6 kHz 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  6 kHz  5.3515  –  5.3665 MHz  15 W EIRP  6 kHz 
+  40 m  7.000  –  7.200 MHz  1000 W  6 kHz  7.000  –  7.200  MHz  100 W  6 kHz 
+  30 m  10.100  –  10.150 MHz  1000 W  1 kHz  10.100  –  10. 150 MHz  100 W  1 kHz 
+  20 m  14.000  –  14.350 MHz  1000 W  6 kHz  14.000  –  14. 350 MHz  100 W  6 kHz 
+  17 m  18.068  –  18.168 MHz  1000 W  6 kHz  18.068  –  18. 168 MHz  100 W  6 kHz 
+  15 m  21.000  –  21.450 MHz  1000 W  6 kHz  21.000  –  21. 450 MHz  100 W  6 kHz 
+  12 m  24.890  –  24.990 MHz  1000 W  6 kHz  24.890  –  24. 990 MHz  100 W  6 kHz 
+  10 m  28.000  –  29.700 MHz  1000 W  18 kHz  28.000  –  29 .700 MHz  100 W  18 kHz 
+  6 m  50.000  –  52.000 MHz  100 W  18 kHz  50.000  –  52.0 00 MHz  50 W  18 kHz 
+  4 m   
+  2 m  144.000  –  146.000 MHz  500 W  18 kHz  144.000  –  1 46.000 MHz  50 W  18 kHz 
+  70 cm  430.000  –  440.000 MHz  500 W  30 kHz  430.000  –   440.000 MHz  50 W  30 kHz 
+  23 cm  1.240  –  1.300 GHz  100 W  20 MHz  1.240  –  1.300  GHz  50 W  20 MHz 
+  13 cm  2.300  –  2.450 GHz  100 W  20 MHz  2.300  –  2.450  GHz  50 W  20 MHz 
+  9 cm                     
+  6 cm  5.650  –  5.850 GHz  100 W  20 MHz  5.650  –  5.850  GHz  50 W  20 MHz 
+  3 cm  10.000  –  10.500 GHz  100 W  50 MHz  10.000  –  10. 500 GHz  50 W  50 MHz 
+  1.2 cm  24.000  –  24.250 GHz  100 W  50 MHz  24.000  –  2 4.250 GHz  50 W  50 MHz 
+  6 mm  47.000  –  47.200 GHz  100 W  50 MHz  47.000  –  47. 200 GHz  50 W  50 MHz 
+  4 mm  76.000  –  81.000 GHz  100 W  100 MHz  76.000  –  81 .000 GHz  50 W  100 MHz 
+ 2.5 mm  122.250  –  123.000 GHz  100 W  40 MHz  122.250  –  123.000 GHz  50 W  40 MHz 
+  2 mm  134.000  –  141.000 GHz  100 W  100 MHz  134.000  –   141.000 GHz  50 W  100 MHz 
+ 1.2 mm  241.000  –  250.000 GHz  100 W  100 MHz  241.000   –  250.000 GHz  50 W  100 MHz 
+ 
+Notes 	
+1  Contest operation only with special permission 
+   
+Info  
+Reglugerðasafn – http://www.reglugerd.is/interpro/d km/WebGuard.nsf/key2/348-2004 (current as of 2004-0 4-19); 
+https://www.stjornartidindi.is/DocumentActions.aspx ?ActionType=Open&documentID=fb544925-7784-49dc-aecd -62e6061c7cc0 
+(current as of 2018-01-15)	
+ 	   
+
+23 
+ 
+Ireland 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but guest  
+    licence available	
+1 
+Call sign   EI/       
+Extensions   /M, /MM       
+Equivalent   CEPT with CW 5 wpm: CEPT 1 
+national class  CEPT without CW: CEPT 2  
+Band  Frequency Range  Power  Bandwidth/   
+    (PEP)	
+2  Modes   
+ 2200 m  135.700  –  137.800 kHz  1 W ERP 	3   
+  630 m  472.000  –  479.000 kHz  5 W ERP 3   
+  160 m  1.810  –  1.850 MHz  400 W 4   
+    1.850  –  2.000 MHz  10 W 4   
+  80 m  3.500  –  3.800 MHz  400 W 5   
+  60 m  5.3515  –  5.3665 MHz  15 W 6 
+  40 m  7.000  –  7.200 MHz  400 W 5 
+  30 m  10.100  –  10.130 MHz  400 W 7   
+    10.130  –  10.150 MHz  400 W 8   
+  20 m  14.000  –  14.350 MHz  400 W 5   
+  17 m  18.068  –  18.168 MHz  400 W 5   
+  15 m  21.000  –  21.450 MHz  400 W 5   
+  12 m  24.890  –  24.990 MHz  400 W 5   
+  10 m  28.000  –  29.700 MHz  400 W 5   
+  8 m  30.000  –  49.000 MHz  50 W 9 
+  6 m  50.000  –  52.000 MHz  100 W 5   
+  4 m  54.000  –  69.900 MHz  50 W 10   
+    69.900  –  70.500 MHz  50 W	11 	5   
+  2 m  144.000  –  146.000 MHz  400 W 5   
+  70 cm  430.000  –  432.000 MHz  50 W 5   
+    432.000  –  440.000 MHz  400 W 5   
+  23 cm  1.240  –  1.300 GHz  158 W 5   
+  13 cm  2.300  –  2.400 GHz  158 W 5   
+  9 cm     
+  6 cm  5.570  –  5.850 GHz  158 W 
+5   
+  3 cm  10.000  –  10.500 GHz  158 W 5   
+  1.2 cm  24.000  –  24.050 GHz  50 W 4   
+  6 mm  47.000  –  47.200 GHz  50 W 4   
+  4 mm     
+ 2.5 mm     
+  2 mm      
+ 1.2 mm       
+Notes 	
+1  Application via https://www.elicensing.comreg.ie o r http://www.comreg.ie/_fileupload/publications/ComReg0945(f).pdf, although  
+  ComReg does not recognise novice or intermediate l icences as being suitable qualifications for the purpose of being granted a 
+Visitors Temporary Licence. 
+2 	Maximum power during maritime mobile operation: 10  W 	3  A1A, J3E, G1B 4  A1A, A2A, A3E, R3E, H3E, J3E, F1B, F2B, F3E, G1B 5  A1A, A2A, A3E, R3E, H3E, J2B, J3E, J2F, F1B, F2B,  F3E, G1B 6  A1A, A2A, A3E, R3E, H3E, J3E, F1B, F2B, F3E 7  A1A 8  A2A, J2B, J2F, F1B, F2B, G1B 9  A1A, A2A, A3E, R3E, H3E, J2B, J3E, J2F, F2B, F3E, G1B 10  A1A, A2A, A3E, R3E, H3E, J2B, J3E, J2F, F2B, F3E, F2D, G1B, X7F 11 70.125–70.450 MHz: maximum power during mobile oper ation 25 W 
+  
+Info  
+Commission for Communications Regulation (ComReg) –  https://www.comreg.ie/publication-download/amateur-station-licence-
+guidelines (current as of 2018-04-16)     
+
+24 
+ 
+Israel 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but guest  
+    licence available	
+1 
+Call sign   4X/               
+Extensions          
+Equivalent   Class B       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes      
+ 2200 m    
+  630 m     
+  160 m  1.810  –  1.850 MHz  250 W  any	
+2   
+    1.850  –  2.000 MHz  10 W  any3   
+  80 m  3.500  –  3.800 MHz  250 W  any2 
+  60 m  5.3515  –  5.3665 MHz  25 W  any2 
+  40 m  7.000  –  7.200 MHz  250 W  any2   
+  30 m  10.100  –  10.150 MHz  250 W  any4   
+  20 m  14.000  –  14.350 MHz  250 W  any2   
+  17 m  18.068  –  18.168 MHz  250 W  any3   
+  15 m  21.000  –  21.450 MHz  250 W  any2   
+  12 m  24.890  –  24.990 MHz  250 W  any2   
+  10 m  28.000  –  29.700 MHz  250 W  any2   
+  6 m  50.000  –  50.400 MHz  25 W  any3   
+  4 m     
+  2 m  144.000  –  146.000 MHz  150 W  any    
+  70 cm  430.000  –  440.000 MHz  150 W  any    
+  23 cm     
+  13 cm  2.320  –  2.340 GHz  15 W  any    
+    2.400  –  2.402 GHz  100 W  any    
+    2.402  –  2.450 GHz  100 mW  any   
+  9 cm    
+  6 cm      
+  3 cm  10.450  –  10.500 GHz  25 W  any   
+  1.2 cm  24.000  –  24.050 GHz  15 W  any    
+  6 mm  47.000  –  47.200 GHz  15 W  any    
+  4 mm  76.000  –  77.500 GHz  15 W  any   
+    78.000  –  81.000 GHz  15 W  any  
+ 2.5 mm    
+  2 mm     
+ 1.2 mm  248.000  –  250.000 GHz  15 W  any      
+Notes 	
+1  Guest licence via https://www.gov.il/BlobFolder/se rvice/radio-amateurs-certificates/he/RadioAmateur_R eciprocal-Amateur-Radio-
+License.docx 
+2  CW, AM, SSB, Data only 3  CW, SSB, Data only 4  CW, Data only 
+    
+Info  
+Ministry of Communications – https://www.gov.il/Blo bFolder/service/radio-amateurs-certificates/he/RadioAmateur_terms-of-allocation-of-
+frequency-band.pdf (current as of 2020-11-18)	
+ 	   
+
+25 
+ 
+Italy 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   I/ 
+  Optional digit or letter/digit combination designa ting 
+  the region:  
+  I1/  Liguria, Piemonte/Piedmont  
+  IX1/  Valle d’Aosta/Aosta Valley 
+  I2/  Lombardia/Lombardy  
+  I3/  Friuli Venezia Giulia  
+  IN3/  Trentino-Alto Adige 
+  IV3/  Venezia Euganea  
+  I4/  Emilia-Romagna  
+  I5/  Toscana/Tuscany 
+  I6/  Abruzzo, Marche  
+  I7/  Basilicata (province of Matera), Puglia/Apulia  
+  I8/  Basilicata (province of Potenza), Calabria,  
+    Campania, Molise  
+  IT9/  Sicilia/Sicily  
+  IØ/  Lazio, Umbria 
+  ISØ/  Sardegna/Sardinia  
+  Tolerated letter/digit combination designating an  island: 
+  IA5/  Isole Toscane/Tuscan Archipelago  
+  IJ7/  Arcipelago delle Cheradi/Cheradi Islands  
+  IL7/  Isole Tremiti/Trimiti Island  
+  IC8/  Isole Napoletane/Islands of Naples Bay 
+  ID9/  Isole Eolie/Aeolian Islands  
+  IE9/  Isola di Ustica/Ustica Island  
+  IF9/  Isole Egadi/Aegadian Islands 
+  IG9/  Isole Pelagie/Pelagie Islands  
+  IH9/  Isola di Pantelleria/Pantelleria Island  
+  IBØ/  Isole Ponziane/Pontine Islands 
+  IMØ/  Isole della Sardegna/Islands of Sardinia  
+Extensions   /M, /P       
+Equivalent   Class A       
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes      
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any  
+  630 m  472.000  –  479.000 kHz  1 W ERP  any 
+  160 m  1.830  –  1.850 MHz  500 W  any    
+  80 m  3.500  –  3.800 MHz  500 W  any  
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any 
+  40 m  7.000  –  7.200 MHz  500 W  any    
+  30 m  10.100  –  10.150 MHz  500 W  CW    
+  20 m  14.000  –  14.350 MHz  500 W  any   
+  17 m  18.068  –  18.168 MHz  500 W  any    
+  15 m  21.000  –  21.450 MHz  500 W  any    
+  12 m  24.890  –  24.990 MHz  500 W  any    
+  10 m  28.000  –  29.700 MHz  500 W  any    
+  6 m  50.000  –  52.000 MHz  500 W  any	
+1   
+  4 m      
+  2 m  144.000  –  146.000 MHz  500 W  any 	
+ 	
+  70 cm  430.000  –  434.000 MHz  500 W  any    
+    435.000  –  438.000 MHz  500 W  any    
+  23 cm  1.240  –  1.245 GHz  500 W  any    
+    1.260  –  1.298 GHz  500 W  any   
+  13 cm  2.300  –  2.450 GHz  500 W  any    
+  9 cm    
+  6 cm  5.650  –  5.670 GHz  500 W  any   
+    5.760  –  5.770 GHz  500 W  any    
+    5.830  –  5.850 GHz  500 W  any    
+  3 cm  10.300  –  10.500 GHz  500 W  any   
+  1.2 cm  24.000  –  24.050 GHz  500 W  any    
+  6 mm  47.000  –  47.200 GHz  500 W  any    
+  4 mm  76.000  –  77.501 GHz  500 W  any   
+    78.000  –  81.000 GHz  500 W  any    
+ 2.5 mm  122.500  –  123.000 GHz  500 W  any  
+  2 mm  134.000  –  134.001 GHz  500 W  any   
+    136.000  –  141.000 GHz  500 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  500 W  any     
+Notes
+
+26 
+ 
+1  Modes CW, SSB, digital 
+    
+Info  
+Associazione Radioamateri Italiani (ARI) – http://w ww.ari.it/images/stories/home/PNRF.zip (current as  of 2018-07-27); 
+http://www.ari.it/images/stories/segreteria/TABELLA .pdf (current as of 2018-10-19); 
+http://www.ari.it/index.php?option=com_content&view =article&id=120&Itemid=180&lang=it (current as of 2019-01-29)	
+ 	  
+
+27 
+ 
+Latvia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   YL/        YL/ 
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P       
+Equivalent   Class A      Class B 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   200 Hz    
+  630 m  472.000  –  479.000 kHz   1 W EIRP  800 Hz  
+  160 m  1.810  –  1.850 MHz  1000 W  any    
+    1.850  –  2.000 MHz  10 W  any   
+  80 m  3.500  –  3.800 MHz  1000 W  any  3.510  –  3.750 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  800 Hz 
+  40 m  7.000  –  7.200 MHz  1000 W  any  7.010  –  7.040 MH z  100 W  CW 
+  30 m  10.100  –  10.150 MHz  1000 W  500 Hz    
+  20 m  14.000  –  14.350 MHz  1000 W  any    
+  17 m  18.068  –  18.168 MHz  1000 W  any   
+  15 m  21.000  –  21.450 MHz  1000 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  1000 W  any   
+  10 m  28.000  –  29.700 MHz  1000 W  any  28.000  –  29.70 0 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  800 W  any  50.000  –  52.000  MHz  100 W  any 
+  4 m  70.000  –  70.500 MHz  100 W  any   
+  2 m  144.000  –  146.000 MHz  100 W	
+1  any  144.000  –  146.000 MHz  50 W  any 
+  70 cm  430.000  –  440.000 MHz  100 W2  any  430.000  –  440.000 MHz  20 W  any 
+  23 cm  1.240  –  1.300 GHz  100 W3  any  1.240  –  1.300 GHz  10 W  any 
+  13 cm  2.300  –  2.450 GHz  50 W  any 
+  9 cm  3.400  –  3.410 GHz  50 W  any	
+ 	
+  6 cm  5.650  –  5.850 GHz  50 W  any 
+  3 cm  10.000  –  10.500 GHz  50 W  any	 	
+  1.2 cm  24.000  –  24.250 GHz  50 W  any    
+  6 mm  47.000  –  47.200 GHz  50 W  any    
+  4 mm  76.000  –  81.500 GHz  50 W  any   
+ 2.5 mm  122.250  –  123.000 GHz  50 W  any    
+  2 mm  134.000  –  141.000 GHz  50 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  50 W  any     
+Notes 
+1  144.000–144.400 MHz: 1000 W for CW, SSB, digital d uring EME, MS and international contest operation 2  432.000–432.400 MHz: 1000 W for CW, SSB, digital during EME, MS and international contest operation 3  1.296–1.2964 GHz: 300 W for CW, SSB, digital during EME, MS and international contest operation 
+ 
+Info  
+Satiksmes ministrija – https://www.vestnesis.lv/op/ 2016/155.3 (current as of 2016-08-12)	
+ 	  
+
+28 
+ 
+Liechtenstein 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented  
+Call sign   HBØ/        HBØY/   
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P     
+Equivalent   CEPT concession    Class 3 concession 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any    
+  630 m  472.000  –  479.000 kHz  5 W EIRP  any    
+  160 m  1.810  –  2.000 MHz  1000 W  any  1.810  –  2.000 M Hz  100 W  any 
+  80 m  3.500  –  3.800 MHz  1000 W  any  3.500  –  3.800 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  1000 W  any    
+  30 m  10.100  –  10.150 MHz  1000 W  any 
+  20 m  14.000  –  14.350 MHz  1000 W  any  
+  17 m  18.068  –  18.168 MHz  1000 W  any    
+  15 m  21.000  –  21.450 MHz  1000 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  1000 W  any    
+  10 m  28.000  –  29.700 MHz  1000 W  any  28.000  –  29.70 0 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W  any    
+  4 m    
+  2 m  144.000  –  146.000 MHz  1000 W  any  144.000  –  146 .000 MHz  50 W  any 
+  70 cm  430.000  –  440.000 MHz  1000 W  any  430.000  –  4 40.000 MHz  50 W  any 
+  23 cm  1.260  –  1.300 GHz  1000 W  any   
+  13 cm  2.308  –  2.312 GHz  100 W  any    
+  9 cm   
+  6 cm  5.725  –  5.850 GHz  100 W  any    
+  3 cm  10.000  –  10.500 GHz  100 W  any    
+  1.2 cm  24.000  –  24.250 GHz  10 W  any   
+  6 mm  47.000  –  47.200 GHz  10 W  any    
+  4 mm  76.000  –  81.500 GHz  10 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  10 W  any   
+  2 mm  134.000  –  141.000 GHz  10 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  10 W  any     
+Notes 	
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+ 
+Info  
+Bundesamt für Kommunikation (BAKOM) –  
+https://www.bakom.admin.ch/dam/bakom/de/dokumente/b akom/frequenzen_und_antennen/Frequenznutzung%20mit% 20oder%20ohne
+%20Konzessionen/Amateurfunk/vorschriften_fueramateu rfunk.pdf.download.pdf/vorschriften_fueramateurfunk.pdf (current as of 2019-
+01-22) 
+
+29 
+ 
+Lithuania 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   LY/        LY/ 
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P       
+Equivalent   Category A      Category B 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   200 Hz    
+  630 m              
+  160 m  1.810  –  1.838 MHz  1000 W  200 Hz    
+    1.838  –  1.850 MHz  1000 W  500 Hz   
+    1.850  –  2.000 MHz  10 W  2.7 kHz    
+  80 m  3.500  –  3.800 MHz  1000 W  any  3.500  –  3.800 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  1000 W  any  7.000  –  7.200 MH z  100 W  any 
+  30 m  10.100  –  10.150 MHz  1000 W  any  10.100  –  10.15 0 MHz  100 W  any 
+  20 m  14.000  –  14.350 MHz  1000 W  any  14.000  –  14.35 0 MHz  100 W  any 
+  17 m  18.068  –  18.168 MHz  1000 W  any  18.068  –  18.16 8 MHz  100 W  any 
+  15 m  21.000  –  21.450 MHz  1000 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  1000 W  any  24.890  –  24.99 0 MHz  100 W  any 
+  10 m  28.000  –  29.700 MHz  1000 W  any  28.000  –  29.70 0 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  25 W EIRP  any   
+  4 m  70.240  –  70.250 MHz  22 W EIRP  any	
+2   
+  2 m  144.000  –  146.000 MHz  250 W	3  any  144.000  –  146.000 MHz  50 W  any 
+  70 cm  430.000  –  440.000 MHz  250 W4  any  430.000  –  440.000 MHz  50 W  any 
+  23 cm  1.240  –  1.300 GHz  100 W  any  1.240  –  1.300 GH z  5 W  any 
+  13 cm  2.300  –  2.450 GHz  25 W  any  2.300  –  2.450 GHz   5 W  any 
+  9 cm                   	
+ 	
+  6 cm  5.660  –  5.670 GHz  25 W  any  5.660  –  5.670 GHz  5 W  any 
+    5.725  –  5.850 GHz  25 W  any  5.725  –  5.850 GHz  5 W  any 
+  3 cm  10.000  –  10.500 GHz  25 W  any  10.000  –  10.500  GHz  5 W  any	
+ 	
+  1.2 cm  24.000  –  24.250 GHz  25 W  any  24.000  –  24.250 GHz  5 W  any 
+  6 mm  47.000  –  47.200 GHz  25 W  any  47.000  –  47.200  GHz  5 W  any 
+  4 mm  76.000  –  81.000 GHz  25 W  any  76.000  –  81.000  GHz  5 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  25 W  any  122.250  –  12 3.000 GHz  5 W  any 
+  2 mm  134.000  –  141.000 GHz  25 W  any  134.000  –  141. 000 GHz  5 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  25 W  any  241.000  –  25 0.000 GHz  5 W  any 
+ 
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 2  CW 500 Hz, SSB 3 kHz 3  144.000 – 144.160 MHz: 1000 W for EME operation 4  432.000 – 432.050 MHz: 1000 W for EME operation 
+  
+Info  
+Ryši ų reguliavimo tarnyba (RRT) – https://e-seimas.lrs.l t/rs/legalact/TAD/e00a4360b17011e486d695b7d843f736/  (current as of 2015-
+02-10); https://e-seimas.lrs.lt/rs/legalact/TAD/37b 5d8a2404b11e98893d5af47354b00/ (current as of 2019- 03-05)	
+ 	  
+
+30 
+ 
+Luxembourg 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   LX/        LX6/ 
+Extensions   /M, /P        /M, /P       
+Equivalent   CEPT HAREC      CEPT Novice 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP   any    
+  630 m  472.000  –  479.000 kHz  1 W ERP  any  472.000  –  479.000 kHz  1 W ERP  any   
+  160 m  1.810  –  1.830 MHz  10 W ERP  any  1.810  –  1.830  MHz  10 W ERP  any 
+    1.830  –  1.850 MHz  100 W  any  1.830  –  1.850 MHz  100  W  any 
+    1.850  –  2.000 MHz  10 W ERP  any  1.850  –  2.000 MHz  10 W ERP  any 
+  80 m  3.500  –  3.800 MHz  100 W  any  3.500  –  3.800 MHz   100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W ERP  any   
+  40 m  7.000  –  7.200 MHz  100 W  any    
+  30 m  10.100  –  10.150 MHz  100 W  any    
+  20 m  14.000  –  14.350 MHz  100 W  any   
+  17 m  18.068  –  18.168 MHz  100 W  any    
+  15 m  21.000  –  21.450 MHz  100 W  any  21.000  –  21.450  MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  100 W  any    
+  10 m  28.000  –  29.700 MHz  100 W  any  28.000  –  29.700  MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W  any  50.000  –  52.000  MHz  100 W  any 
+  4 m  70.150  –  70.250 MHz  10 W ERP  any  70.150  –  70.2 50 MHz  10 W ERP  any 
+  2 m  144.000  –  146.000 MHz  100 W  any  144.000  –  146. 000 MHz  100 W  any 
+  70 cm  430.000  –  440.000 MHz  100 W  any  430.000  –  44 0.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  100 W  any  1.240  –  1.300 GH z  100 W  any 
+  13 cm  2.300  –  2.450 GHz  100 W  any  2.300  –  2.450 GH z  100 W  any 
+  9 cm  3.400  –  3.410 GHz  100 W  any  3.400  –  3.410 GHz   100 W  any 	
+ 	
+  6 cm  5.650  –  5.850 GHz  100 W  any  5.650  –  5.850 GHz  100 W  any 
+  3 cm  10.000  –  10.500 GHz  100 W  any  10.000  –  10.500  GHz  100 W  any	 	
+  1.2 cm  24.000  –  24.250 GHz  100 W  any  24.000  –  24.250 GHz  100 W  any 
+  6 mm  47.000  –  47.200 GHz  100 W  any  47.000  –  47.200  GHz  100 W  any 
+  4 mm  75.500  –  81.000 GHz  100 W  any  75.500  –  81.000  GHz  100 W  any 
+ 2.5 mm   
+  2 mm  134.000  –  141.000 GHz  100 W  any  134.000  –  141 .000 GHz  100 W  any 
+    142.000  –  149.000 GHz  100 W  any  142.000  –  149.000  GHz  100 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  100 W  any  241.000  –  2 50.000 GHz  100 W  any 
+ 
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info  
+Institut Luxembourgeois de Régulation (ILR) – https ://assets.ilr.lu/frequences/Documents/ILRLU-1723895 916-177.pdf (current as of 
+2014-09-16)	
+ 	   
+
+31 
+ 
+Malta 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   9H/         
+Extensions              
+Equivalent   Amateur Station Licence       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   any    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any    
+  160 m  1.810  –  1.850 MHz  400 W  any    
+    1.850  –  2.000 MHz  10 W  any   
+  80 m  3.500  –  3.800 MHz  400 W  any    
+  60 m  5.3515  –  5.3665 MHz  15 W ERP  any  
+  40 m  7.000  –  7.200 MHz  400 W  any   
+  30 m  10.100  –  10.150 MHz  100 W  any  
+  20 m  14.000  –  14.350 MHz  400 W  any  
+  17 m  18.068  –  18.168 MHz  400 W  any 
+  15 m  21.000  –  21.450 MHz  400 W  any  
+  12 m  24.890  –  24.990 MHz  400 W  any  
+  10 m  28.000  –  29.700 MHz	
+1  400 W  any   
+  6 m  50.000  –  52.000 MHz  100 W  any  
+  4 m  70.000  –  70.500 MHz  160 W  any  
+  2 m  144.000  –  146.000 MHz  400 W  any   
+  70 cm  430.000  –  432.000 MHz  50 W  any    
+    432.000  –  440.000 MHz  400 W  any            
+  23 cm  1.240  –  1.300 GHz  200 W  any 
+  13 cm  2.300  –  2.450 GHz  400 W  any  
+  9 cm   	
+ 	
+  6 cm  5.650  –  5.850 GHz  400 W  any  
+  3 cm  10.000  –  10.500 GHz  400 W  any	 	
+  1.2 cm  24.000  –  24.250 GHz  400 W  any 
+  6 mm  47.000  –  47.200 GHz  400 W  any   
+  4 mm  76.000  –  81.500 GHz  400 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  400 W  any  
+  2 mm  134.000  –  141.000 GHz  400 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  400 W  any      
+Notes 
+1  No transmissions in the band 29.300–29.510 MHz to  avoid interference with the amateur-satellite downlink. 
+ 
+Info  
+Government of Malta – https://parlament.mt/media/10 4020/ln-8-of-2020.pdf (current as of 2020-01-10) 
+   
+
+32 
+ 
+Moldova 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   ER/        ER/ 
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P     
+Equivalent   Class B      Class C 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   any  135.700   –  137.800 kHz  1 W EIRP   any 
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any  472.000  –   479.000 kHz  1 W EIRP  any 
+  160 m  1.810  –  2.000 MHz  5 W  any  1.850  –  2.000 MHz  5 W  any 
+  80 m  3.580  –  3.800 MHz  100 W  any  3.580  –  3.800 MHz   25 W  any 
+  60 m      
+  40 m  7.035  –  7.200 MHz  100 W  any  7.035  –  7.200 MHz   25 W  any 
+  30 m  10.140  –  10.150 MHz  100 W  any    
+  20 m  14.070  –  14.350 MHz  100 W  any    
+  17 m  18.100  –  18.168 MHz  100 W  any    
+  15 m  21.080  –  21.120 MHz  100 W  any   
+    21.150  –  21.450 MHz  100 W  any    
+  12 m  24.920  –  24.990 MHz  100 W  any    
+  10 m  28.070  –  28.150 MHz  100 W  any  28.070  –  28.150  MHz  25 W  any 
+    28.225  –  29.700 MHz  100 W  any  28.225  –  29.700 MHz   25 W  any 
+  6 m   
+  4 m   
+  2 m  144.000  –  146.000 MHz  100 W  any  144.000  –  144. 035 MHz  25 W  any 
+              144.100  –  144.400 MHz  25 W  any 
+              144.500  –  146.000 MHz  25 W  any 
+  70 cm  430.000  –  440.000 MHz  5 W  any  430.000  –  432. 000 MHz  5 W  any 
+              432.150  –  432.800 MHz  5 W  any 
+              432.990  –  440.000 MHz  5 W  any 
+  23 cm  1.240  –  1.300 GHz  10 W  any    
+  13 cm  2.300  –  2.450 GHz  5 W  any    
+  9 cm   	
+ 	
+  6 cm  5.650  –  5.850 GHz  5 W  any    
+  3 cm  10.000  –  10.500 GHz  5 W  any 	 	
+  1.2 cm  24.050  –  24.250 GHz  5 W  any    
+  6 mm  47.000  –  47.200 GHz  5 W  any  47.000  –  47.200 G Hz  5 W  any 
+  4 mm  76.000  –  78.000 GHz  5 W  any  77.500  –  78.000 G Hz  5 W  any 
+    78.000  –  81.000 GHz  1 W  any   
+ 2.5 mm    
+  2 mm  134.000  –  141.000 GHz  5 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  5 W  any  248.000  –  250 .000 GHz  5 W  any 
+  
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info 
+Monitorul Oficial al Republicii Moldova – http://ww w.arm.md/Doc/regulament.pdf (current as of 2013-05- 24); Asociația Radioamateurs 
+Moldova (ARM) – http://www.arm.md/Doc/Regulamentul_ radiocomunicatii_serviciul_amator_R.Moldova_RO.pdf (current as of 2013-06-
+20)
+ 	   
+
+33 
+ 
+Monaco 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented	
+1  ECC/REC/(05)06 not implemented 
+Call sign   3A/         
+Extensions          
+Equivalent   Class 1       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes	
+2   
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   any   
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any    
+  160 m  1.810  –  2.000 MHz  100 W  any    
+  80 m  3.500  –  3.800 MHz  100 W  any   
+  60 m  5.3515  –  5.3665 MHz  100 W  any    
+  40 m  7.000  –  7.200 MHz  100 W  any    
+  30 m  10.100  –  10.150 MHz  100 W  any 
+  20 m  14.000  –  14.350 MHz  100 W  any  
+  17 m  18.068  –  18.168 MHz  100 W  any  
+  15 m  21.000  –  21.450 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  100 W  any  
+  10 m  28.000  –  29.700 MHz  100 W  any    
+  6 m  50.000  –  52.000 MHz  100 W  any   
+  4 m  70.000  –  70.500 MHz  100 W  any  
+  2 m  144.000  –  146.000 MHz  100 W  any    
+  70 cm  430.000  –  440.000 MHz  100 W  any   
+  23 cm  1.240  –  1.300 GHz  100 W  any  
+  13 cm  2.300  –  2.450 GHz  100 W  any    
+  9 cm   	
+ 	
+  6 cm  5.650  –  5.850 GHz  100 W  any    
+  3 cm  10.000  –  10.500 GHz  100 W  any 	 	
+  1.2 cm  24.000  –  24.250 GHz  100 W  any    
+  6 mm  47.000  –  47.200 GHz  100 W  any    
+  4 mm  76.000  –  81.500 GHz  100 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  100 W   
+  2 mm  134.000  –  141.000 GHz  100 W  any  
+ 1.2 mm  241.000  –  250.000 GHz  100 W  any     
+Notes 
+1  Prior to any amateur radio activity in Monaco, a r egistration with the PTT is required indicating the location and duration of the stay: 
+Direction des Communications Electroniques, 23, Ave nue Albert II, MC-98000 Monaco, phone: +377 9898880 0, email: 
+dce@gouv.mc 
+2  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info  
+Association des Radioamateurs de Monaco (ARM) – htt p://www.arm.mc/reglementation.html (current as of 2020-12-26) 
+
+34 
+ 
+Montenegro 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   4O/        4O/ 
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P       
+Equivalent   Class A      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP   CW    
+  630 m  472.000  –  479.000 kHz  20 W ERP  CW  
+  160 m  1.810  –  2.000 MHz  300 W  any    
+  80 m  3.500  –  3.800 MHz  1500 W  any  3.500  –  3.800 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  1500 W  any  7.000  –  7.200 MH z  100 W  any 
+  30 m  10.100  –  10.150 MHz  300 W  any    
+  20 m  14.000  –  14.350 MHz  1500 W  any    
+  17 m  18.068  –  18.095 MHz  300 W  any    
+    18.095  –  18.109 MHz  1500 W  any   
+    18.109  –  18.168 MHz  300 W  any    
+  15 m  21.000  –  21.450 MHz  1500 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  300 W  any    
+  10 m  28.000  –  29.700 MHz  1500 W  any  28.000  –  28.15 0 MHz  100 W  any 
+              28.225  –  29.300 MHz  100 W  any 
+              29.520  –  29.700 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W  any  50.000  –  52.000  MHz  25 W  any 
+  4 m  69.900  –  70.500 MHz  100 W  any  69.900  –  70.500  MHz  25 W  any 
+  2 m  144.000  –  144.499 MHz  1500 W  any  144.000  –  144 .499 MHz  25 W  any 
+    144.499  –  144.794 MHz  300 W  any  144.499  –  144.794  MHz  25 W  any   
+    144.794  –  146.000 MHz  50 W  any  144.794  –  146.000  MHz  25 W  any   
+  70 cm  430.000  –  432.500 MHz  1500 W  any  430.000  –  4 32.500 MHz  25 W  any 
+    432.500  –  433.600 MHz  50 W  any  432.500  –  433.600  MHz  25 W  any 
+    433.600  –  434.000 MHz  300 W  any  433.600  –  434.000  MHz  25 W  any 
+    434.000  –  440.000 MHz  50 W  any  434.000  –  440.000  MHz  25 W  any 
+  23 cm  1.240  –  1.260 GHz  300 W  any  
+    1.260  –  1.270 GHz  50 W  any  
+    1.270  – 1.290994 GHz  300 W  any 
+    1.290994  – 1.291494 GHz  50 W  any  
+    1.291494  – 1.296994 GHz  300 W  any  
+    1.296994  –  1.298 GHz  50 W  any 
+    1.298  –  1.300 GHz  300 W  any  
+  13 cm  2.300  –  2.321 GHz  300 W  any  
+    2.321  –  2.322 GHz  50 W  any 
+    2.322  –  2.400 GHz  300 W  any  
+    2.400  –  2.450 GHz  50 W  any  
+  9 cm  3.400  –  3.410 GHz  50 W  any	
+ 	
+  6 cm  5.650  –  5.670 GHz  50 W  any  
+    5.670  –  5.850 GHz  300 W  any  
+  3 cm  10.000  –  10.450 GHz  300 W  any	
+ 	
+    10.450  –  10.500 GHz  50 W  any	 	
+  1.2 cm  24.000  –  24.048 GHz  50 W  any 
+    24.048  –  24.250 GHz  300 W  any  
+  6 mm  47.000  –  47.200 GHz  50 W  any  
+    47.200  –  48.500 GHz  300 W  any 
+  4 mm  75.500  –  77.500 GHz  300 W  any  
+    77.500  –  77.501 GHz  50 W  any  
+    77.501  –  81.500 GHz  300 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  300 W  any  
+  2 mm  134.000  –  134.001 GHz  50 W  any  
+    134.001  –  141.000 GHz  300 W  any 
+ 1.2 mm  241.000  –  248.000 GHz  300 W  any  
+    248.000  –  248.001 GHz  50 W  any  
+    248.001  –  250.000 GHz  300 W  any   
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info 
+Crna Gora Agencija za elektronske komunikacije i po štansku djelatnost – 
+http://www.ekip.me/download/plan%20raspodjele/Plan% 20raspodjele%20radio-
+frekvencija%20namijenjenih%20radioamaterskoj%20sluz bi%2025-2012.pdf (current as of 2012-04-11); 
+https://www.ekip2.me/download/RF/Pravilnik%20o%20ra dioamaterskim%20komunikacijama_8_2020%20od%2014.02. 2020.pdf 
+
+35 
+ 
+(current as of 2020-01-30); http://www.ekip2.me/dow nload/RF/Odluka%20o%20Planu%20namjene%20radio-
+frekvencijskog%20spektra%20-%20Sl%20list%20CG%2089- 20.pdf (current as of 2020-07-30)	 	  
+
+36 
+ 
+Netherlands 
+  
+Netherlands    
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   PA/  Nederland/Netherlands    PD/  Nederland/Netherlan ds 
+Extensions   /M, /P        /M, /P 
+Equivalent   Class F      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  400 W  A1A    
+  630 m  472.000  –  479.000 kHz  100 W 	
+1 
+  160 m  1.800  –  1.880 MHz  150 W  any    
+  80 m  3.500  –  3.800 MHz  400 W  any  
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any 
+  40 m  7.000  –  7.200 MHz  400 W  any  7.050  –  7.100 MHz   25 W  any 
+  30 m  10.100  –  10.140 MHz  400 W 
+1   
+    10.140  –  10.150 MHz  400 W  500 Hz2   
+  20 m  14.000  –  14.350 MHz  400 W  any  14.000  –  14.250  MHz  25 W  any 
+  17 m  18.068  –  18.168 MHz  400 W  any 
+  15 m  21.000  –  21.450 MHz  400 W  any 
+  12 m  24.890  –  24.990 MHz  400 W  any  
+  10 m  28.000  –  29.700 MHz  400 W  any  28.000  –  29.700  MHz  25 W  any 
+  6 m  50.000  –  50.450 MHz  30 W	
+3  any 
+  4 m  70.000  –  70.500 MHz  400 W  any 
+  2 m  144.000  –  146.000 MHz  150 W  any  144.000  –  146. 000 MHz  25 W  any 
+  70 cm  430.000  –  440.000 MHz  150 W  any  430.000  –  44 0.000 MHz  25 W  any 
+  23 cm  1.240  –  1.300 GHz  120 W  any 
+  13 cm  2.320  –  2.450 GHz  120 W  any  
+  9 cm  3.400  –  3.410 GHz  120 W  any 
+  6 cm  5.650  –  5.850 GHz  120 W  any  
+  3 cm  10.000  –  10.500 GHz  120 W  any  
+  1.2 cm  24.000  –  24.250 GHz  120 W  any 
+  6 mm  47.000  –  47.200 GHz  120 W  any  
+  4 mm  75.500  –  81.500 GHz  120 W  any  
+ 2.5 mm  122.250  –  123.000 GHz  120 W  any 
+  2 mm  134.000  –  141.000 GHz  120 W  any  
+ 1.2 mm  241.000  –  250.000 GHz  120 W  any   
+Notes 	
+1  A1A, F1A, G1A, J2A only 2  CW, digital only 3  120 W for A1A, J3E 
+ 
+Info  
+Overheid van Nederland – https://wetten.overheid.nl /BWBR0036375/2019-07-01 (current as of 2019-07-01) 
+
+37 
+ 
+Netherlands – Caribbean Netherlands 
+  
+Bonaire, Sint Eustatius, Saba    
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   PJ4/  Bonaire      PJ4/  Bonaire 
+  PJ5/  Sint Eustatius      PJ5/  Sint Eustatius 
+  PJ6/  Saba      PJ6/  Saba  
+Extensions   /M, /P        /M, /P 
+Equivalent   Class F      Class N 
+national class 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  250 W  A1A    
+  630 m  472.000  –  479.000 kHz  100 W 	
+1 
+  160 m  1.800  –  2.000 MHz  150 W  any   
+  80 m  3.500  –  4.000 MHz  250 W  any  
+  60 m  5.3515  –  5.3665 MHz  25 W EIRP  any  
+  40 m  7.000  –  7.300 MHz  250 W  any  7.050  –  7.150 MHz   25 W  any 
+  30 m  10.100  –  10.140 MHz  250 W 
+1   
+    10.140  –  10.150 MHz  250 W  500 Hz2   
+  20 m  14.000  –  14.350 MHz  250 W  any  14.000  –  14.250  MHz  25 W  any 
+  17 m  18.068  –  18.168 MHz  250 W  any  
+  15 m  21.000  –  21.450 MHz  250 W  any  
+  12 m  24.890  –  24.990 MHz  250 W  any 
+  10 m  28.000  –  29.700 MHz  250 W  any  28.000  –  29.700  MHz  25 W  any 
+  6 m  50.000  –  54.000 MHz  30 W	
+3  any 
+  4 m   
+  2 m  144.000  –  148.000 MHz  150 W  any  145.000  –  145. 500 MHz  25 W  F2B, G2B 
+              146.000  –  148.000 MHz  25 W  F3E, G3E 
+  1.25 m  220.000  –  225.000 MHz  150 W  any	
+ 	220.000  –  225.000 MHz  25 W 	4 
+  70 cm  430.000  –  440.000 MHz  150 W  any  430.000  –  43 3.000 MHz  25 W 4 
+              438.000  –  440.000 MHz  25 W 4 
+  33 cm  902.000  –  928.000 MHz  150 W  any   
+  23 cm  1.240  –  1.300 GHz  120 W  any  
+  13 cm  2.320  –  2.450 GHz  120 W  any  
+  9 cm  3.300  –  3.500 GHz  120 W  any 
+  6 cm  5.650  –  5.925 GHz  120 W  any  
+  3 cm  10.000  –  10.500 GHz  120 W  any  
+  1.2 cm  24.000  –  24.500 GHz  120 W  any 
+  6 mm  47.000  –  47.100 GHz  120 W  any  
+  4 mm    
+ 2.5 mm   
+  2 mm  142.000  –  149.000 GHz  120 W  any  
+ 1.2 mm  241.000  –  250.000 GHz  120 W  any   
+Notes 	
+1  A1A, F1A, G1A, J2A only 2  CW, digital only 3  120 W for A1A, J3E 4  F2B, G2B, F3E, G3E only 
+ 
+Info  
+Overheid van Nederland – https://wetten.overheid.nl /BWBR0028725/2010-10-10 (current as of 2010-10-10)) ; Maxius – 
+https://maxius.nl/besluit-radioamateurs-bes (curren t as of 2021-02-14) 
+
+38 
+ 
+Netherlands – Aruba 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   P4/      P4/ 
+Extensions   /M, /P      /M, /P 
+Equivalent   Class A    Class C 
+national class  
+Band	
+4  Frequency Range  Power  Bandwidth/  Frequency Range  P ower  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m      
+  630 m    
+  160 m  1.800  –  1.850 MHz  100 W  6 kHz	
+1   
+    1.950  –  2.000 MHz  100 W	 	6 kHz	1 	 
+  80 m  3.500  –  4.000 MHz  150 W  6 kHz	2   
+  60 m    
+  40 m  7.000  –  7.300 MHz  150 W  6 kHz
+2   
+  30 m      
+  20 m  14.000  –  14.350 MHz  150 W  6 kHz
+2   
+  17 m      
+  15 m  21.000  –  21.450 MHz  150 W  6 kHz
+2   
+  12 m     
+  10 m  28.000  –  29.700 MHz  150 W  6 kHz
+2   
+  6 m  50.000  –  54.000 MHz  150 W  6/12 kHz3  50.000  –  54.000 MHz  25 W  SSB, FM 
+  4 m   
+  2 m  144.000  –  148.000 MHz  150 W  6/12 kHz
+3  144.000  –  148.000 MHz  25 W  SSB, FM 
+  1.25 m  220.000  –  225.000 MHz  150 W  6/12 kHz3 	220.000  –  225.000 MHz  25 W  SSB, FM 
+  70 cm  420.000  –  440.000 MHz  150 W  6/12 kHz	3  420.000  –  440.000 MHz  25 W  SSB, FM 
+  23 cm  1.215  –  1.300 GHz  150 W  6/12 kHz3  1.215  –  1.300 GHz  25 W  SSB, FM 
+  13 cm  2.300  –  2.450 GHz  150 W  6/12 kHz3  2.300  –  2.450 GHz  25 W  SSB, FM 
+  9 cm  3.300  –  3.400 GHz  150 W  6/12 kHz3  3.300  –  3.400 GHz  25 W  SSB, FM 
+  6 cm  5.650  –  5.925 GHz  150 W  6/12 kHz3  5.650  –  5.925 GHz  25 W  SSB, FM 
+  3 cm  10.000  –  10.500 GHz  150 W  6/12 kHz3  10.000  –  10.500 GHz  25 W  SSB, FM 
+  1.2 cm 
+  6 mm   
+  4 mm    
+ 2.5 mm    
+  2 mm   
+ 1.2 mm      
+Notes 	
+1  A1, A3 2  A1, A2, A3, F1, F2, F3 3  Maximum bandwidth 6 kHz for AM, 12 kHz for FM, PM 4 	Further allocations may be possible in future	 	
+ 
+Info  
+Overheid van Aruba –  
+https://www.overheid.aw/document.php?m=25&fileid=15 317&f=429465f297c20ee8e6f2be51d3a19615&attachment=0 &c=21583 
+(current as of 2013-11-11) 
+
+39 
+ 
+Netherlands – Curaçao 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   PJ2/      PJ2/ 
+Extensions   /M, /P      /M, /P 
+Equivalent   Class F      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  CW    
+  630 m  472.000  –  479.000 kHz  1 W ERP  CW  
+  160 m  1.800  –  2.000 MHz  150 W 	
+1   
+  80 m  3.500  –  4.000 MHz  1000 W 2   
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP 3 
+  40 m  7.000  –  7.300 MHz  1000 W 2  7.000  –  7.100 MHz  25 W 	8 
+  30 m  10.100  –  10.150 MHz  250 W  A1A, F1B    
+  20 m  14.000  –  14.350 MHz  1000 W 	
+2  14.000  –  14.250 MHz  25 W 	8 
+  17 m  18.068  –  18.168 MHz  250 W 	2   
+  15 m  21.000  –  21.450 MHz  1000 W 2   
+  12 m  24.890  –  24.990 MHz  250 W 2   
+  10 m  28.000  –  29.700 MHz  1000 W 2  28.000  –  29.700 MHz  25 W 	8 
+  6 m  50.000  –  54.000 MHz  150 W 	4   
+  4 m    
+  2 m  144.000  –  148.000 MHz  150 W 
+4  144.000  –  148.000 MHz  25 W 	9 
+  1.25 m  220.000  –  225.000 MHz  150 W 	4 	220.000  –  225.000 MHz  25 W 	10 
+  70 cm  430.000  –  440.000 MHz  150 W 	5  430.000  –  440.000 MHz  25 W 	10 
+  33 cm  902.000  –  928.000 MHz  150 W 	6   
+  23 cm  1.240  –  1.300 GHz  150 W 7   
+  13 cm   
+  9 cm        
+  6 cm  5.650  –  5.725 GHz  150 W 
+6   
+  3 cm  10.000  –  10.500 GHz  150 W 6   
+  1.2 cm  24.000  –  24.250 GHz  150 W 6   
+  6 mm  47.000  –  47.200 GHz  150 W 6   
+  4 mm  77.500  –  81.000 GHz  150 W 6   
+ 2.5 mm  122.250  –  123.000 GHz  150 W 6   
+  2 mm  134.000  –  141.000 GHz  150 W 6   
+ 1.2 mm  241.000  –  250.000 GHz  150 W 7   
+ 
+Notes 	
+1  A1A, F1B, A3E, F3E, G3E, A3C, A3F, F3C, F3F, H3E,  J3C, J3E, R3E 2  A1A, F1B, A3E, F3E, G3E, A3C, A3F, F3C, F3F, H3E, J2B, J3C, J3E, R3E 3  A1A, J3E, F3E 4  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F, H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2A, G2C, G3C 
+5  A1A, A2A, A2B, A3E, A3C, F1B, F2A, F2B, H3E, J3E,  R3E, F3E, G3E, J2B, G2A, C3F 6  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F, H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2A, G2C, G3C, C3F 
+7  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F,  H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2C, G3C, C3F 
+8 	F2B, G2B 	9 	F3E, G3E 	10  F2B, G2B, F3E, G3E 
+  
+Info  
+Overheid van Nederland – https://btnp.org/wp-conten t/uploads/2019/04/Frequentietabel__0_-3000_GHz__JvR _2016-01-
+21_v3__Engels___27_januari_2017__uitgangspunt_voor_ pdf_Nieuw_V2_12okt2017_2.pdf (current as of 2017-01-27); 
+https://btnp.org/wp-content/uploads/2019/06/2016020 4_btp001_dd_form_07_radio_amateurs_bl_nl.pdf (curre nt as of 2019-06-09) 
+
+40 
+ 
+Netherlands – Sint Maarten 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   PJ7/      PJ7/ 
+Extensions   /M, /P      /M, /P 
+Equivalent   Class A      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m    
+  630 m    
+  160 m  1.800  –  2.000 MHz  250 W 	
+1   
+  80 m  3.500  –  4.000 MHz  250 W 2   
+  60 m   
+  40 m  7.000  –  7.300 MHz  250 W 
+2   
+  30 m  10.100  –  10.150 MHz  250 W 3 
+  20 m  14.000  –  14.350 MHz  250 W 2   
+  17 m  18.068  –  18.168 MHz  250 W 2 
+  15 m  21.000  –  21.450 MHz  250 W 2 
+  12 m  24.890  –  24.990 MHz  250 W 2 
+  10 m  28.000  –  29.700 MHz  250 W 2   
+  6 m  50.000  –  54.000 MHz  250 W 4   
+  4 m   
+  2 m  144.000  –  148.000 MHz  250 W 
+4  145.000  –  145.500 MHz  25 W 	8 
+              146.000  –  148.000 MHz  25 W 9 
+  1.25 m  220.000  –  225.000 MHz  250 W 	4 	220.000  –  225.000 MHz  25 W 	10 
+  70 cm  430.000  –  440.000 MHz  250 W 	5  430.000  –  433.000 MHz  25 W 	10 
+              438.000  –  440.000 MHz  25 W 10 	
+  33 cm  902.000  –  928.000 MHz  250 W 	7 
+  23 cm  1.240  –  1.300 GHz  250 W 6   
+  13 cm  2.320  –  2.450 GHz  250 W 7 
+  9 cm  3.300  –  3.500 GHz  250 W 7 
+  6 cm  5.650  –  5.925 GHz  250 W 7   
+  3 cm  10.000  –  10.500 GHz  250 W 7   
+  1.2 cm  24.000  –  24.500 GHz  250 W 7   
+  6 mm  47.000  –  47.100 GHz  250 W 7   
+  4 mm  75.500  –  81.000 GHz  250 W 7   
+ 2.5 mm     
+  2 mm  142.000  –  149.000 GHz  250 W 
+7   
+ 1.2 mm  241.000  –  250.000 GHz  250 W 6   
+ 
+Notes 	
+1  A1A, F1B, A3E, F3E, G3E, A3C, A3F, F3C, F3F, H3E,  J3C, J3E, R3E 2  A1A, F1B, A3E, F3E, G3E, A3C, A3F, F3C, F3F, H3E, J2B, J3C, J3E, R3E 3  A1A, F1B 4  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F, H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2A, G2C, G3C 
+5  A1A, A2A, A2B, A3E, A3C, F1B, F2A, F2B, H3E, J3E,  R3E, F3E, G3E, J2B, G2A, C3F 6  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F, H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2C, G3C, C3F 
+7  A1A, A2A, A2B, A3E, A3C, A3F, F1B, F2A, F2B, F3F,  H3E, J3C, J3E, R3E, F3E, G3E, A1C, A2C, J2A, J2B, J2C, J3C, F2C, F3C, 
+G1C, G1A, G2A, G2C, G3C, C3F 
+8 	F2B, G2B 	9 	F3E, G3E 	10  F2B, G2B, F3E, G3E 
+  
+Info  
+Bureau Telecommunicatie en Post –  
+https://www.sxmregulator.sx/dash/files/Telecommunic ations/Laws/10t98467037577___TGFuZHNiZXNsdWl0IHJhZG lvLWFtYXRldXJzIC
+hBQiAyMDEzLCBHVCBuby4gMzc0KQ==b_64.pdf (current as  of 2018-08-13); Overheid van Nederland – 
+http://decentrale.regelgeving.overheid.nl/cvdr/xhtm loutput/historie/Sint Maarten/143162/143162_1.html  (current as of 2020-03-04) 
+
+41 
+ 
+New Zealand 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   ZL/ 
+  Optional digit designating islands: 
+  ZL7/  Chatham Island  
+  ZL8/  Kermadec Islands	
+1 
+  ZL9/  Subantarctic Islands1 (Antipodes Islands, 
+    Auckland Islands, Bounty Islands, 
+    Campbell Island, Snares Islands	
+2) 
+Extensions          
+Equivalent   General       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  130.000  –  190.000 kHz  5 W EIRP   CW  
+  630 m  472.000  –  479.000 kHz  25 W EIRP  CW  
+  160 m  1.800  –  1.950 MHz  1000 W  any  
+  80 m  3.500  –  3.900 MHz  1000 W  any   
+  60 m    
+  40 m  7.000  –  7.300 MHz  1000 W  any    
+  30 m  10.100  –  10.150 MHz  1000 W  any 
+  20 m  14.000  –  14.350 MHz  1000 W  any  
+  17 m  18.068  –  18.168 MHz  1000 W  any  
+  15 m  21.000  –  21.450 MHz  1000 W  any   
+  12 m  24.890  –  24.990 MHz  1000 W  any  
+  10 m  28.000  –  29.700 MHz  1000 W  any    
+  6 m  50.000  –  54.000 MHz  1000 W  any   
+  4 m    
+  2 m  144.000  –  148.000 MHz  1000 W  any    
+  70 cm  430.000  –  440.000 MHz  1000 W  any 
+  33 cm  915.000  –  928.000 MHz  25 W EIRP  any  
+  23 cm  1.240  –  1.300 GHz  1000 W  any  
+  13 cm  2.396  –  2.450 GHz  1000 W  any 
+  9 cm  3.300  –  3.410 GHz  1000 W  any	
+ 	
+  6 cm  5.650  –  5.850 GHz  1000 W  any 
+  3 cm  10.000  –  10.500 GHz  1000 W  any	 	
+  1.2 cm  24.000  –  24.250 GHz  1000 W  any  
+  6 mm  47.000  –  47.200 GHz  1000 W  any  
+  4 mm  76.000  –  81.000 GHz  1000 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  1000 W  any  
+  2 mm  134.000  –  141.000 GHz  1000 W  any  
+ 1.2 mm  241.000  –  250.000 GHz  1000 W  any 
+  1 mm  275.000  – 1000.000 GHz  1000 W  any    
+Notes 
+1  Landing permission by the New Zealand Department o f Conservation required 2 	The Snares Islands do not count for the DXCC entity New Zealand Subantarctic Islands.(ZL9) 
+  
+Info  
+Radio Spectrum Management (RSM) – https://www.rsm.g ovt.nz/assets/Uploads/pdfs/gazette/c9cc2398c0/amateur-radio-operators-gurl-
+2017.pdf (current as of 2017-05-18)	
+ 	   
+
+42 
+ 
+North Macedonia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   Z38/         
+Extensions            
+Equivalent   Class A       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes	
+1   
+ 2200 m  135.700  –  137.800 kHz  1 W   any 
+  630 m            
+  160 m  1.810  –  2.000 MHz  1000 W  any  
+  80 m  3.500  –  3.800 MHz  1500 W  any   
+  60 m    
+  40 m  7.000  –  7.200 MHz  1500 W  any    
+  30 m  10.100  –  10.150 MHz  300 W  any   
+  20 m  14.000  –  14.350 MHz  1500 W  any    
+  17 m  18.068  –  18.168 MHz  1500 W  any    
+  15 m  21.000  –  21.450 MHz  1500 W  any   
+  12 m  24.890  –  24.990 MHz  1500 W  any    
+  10 m  28.000  –  29.700 MHz  1500 W  any    
+  6 m  50.000  –  52.000 MHz  1000 W  any   
+  4 m 	
+ 	  2 m  144.000  –  145.000 MHz  1000 W  any    
+    145.000  –  146.000 MHz  50 W  any   
+  70 cm  432.000  –  433.000 MHz  1000 W  any    
+    433.000  –  433.600 MHz  50 W  any    
+    433.600  –  435.000 MHz  1000 W  any   
+    435.000  –  438.000 MHz   50 W  any    
+  23 cm  1.240  –  1.256 GHz  100 W  any    
+    1.256  –1.2909875 GHz  75 W  any   
+    1.2909875  –1.2914875 GHz  50 W  any    
+    1.2914875  –  1.300 GHz  75 W  any    
+  13 cm  2.300  –  2.450 GHz  75 W  any   
+  9 cm         	
+ 	
+  6 cm  5.650  –  5.850 GHz  30 W  any   
+  3 cm  10.000  –  10.500 GHz  30 W  any 	 	
+  1.2 cm  24.000  –  24.250 GHz  50 W  any    
+  6 mm  47.000  –  47.200 GHz  50 W  any    
+  4 mm  75.500  –  81.000 GHz  50 W  any   
+ 2.5 mm  122.250  –  123.000 GHz  50 W  any    
+  2 mm  134.000  –  141.000 GHz  50 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  50 W  any     
+Notes 
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+  
+Info 
+Agency for Electronic Communications (AEK) – https: //aek.mk/wp-
+content/uploads/2020/01/20191223_pravilnik_radiofre kvencii_radioamaterska_sluzba.pdf (current as of 2019-12-23) 
+   
+
+43 
+ 
+Norway 
+  
+  CEPT  CEPT Novice 
+Implementation	
+1  T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but CEPT  
+    Novice Licence accepted without guest licence 
+Call sign   LA/  Norge/Norway      LA/  Norge/Norway 
+  JW/  Svalbard      JW/  Svalbard  
+Extensions          
+Equivalent   Radioamatørlisens       
+national class 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+2    (PEP)  Modes	2 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  1 kHz  135.70 0  –  137.800 kHz  1 W EIRP  1 kHz 
+  630 m  472.000  –  479.000 kHz  1 W EIRP  1 kHz  472.000   –  479.000 kHz  1 W EIRP  1 kHz 
+  160 m  1.810  –  1.850 MHz  1000 W  6 kHz  1.810  –  1.850  MHz  1000 W  6 kHz 
+    1.850  –  2.000 MHz  10 W  6 kHz  1.850  –  2.000 MHz  10  W  6 kHz 
+  80 m  3.500  –  3.800 MHz  1000 W  6 kHz  3.500  –  3.800  MHz  1000 W  6 kHz 
+  60 m  5.260  –  5.410 MHz  100 W	
+3  6 kHz  5.260  –  5.410 MHz  100 W	3  6 kHz 
+  40 m  7.000  –  7.200 MHz  1000 W  6 kHz  7.000  –  7.200  MHz  1000 W  6 kHz 
+  30 m  10.100  –  10.150 MHz  1000 W  1 kHz  10.100  –  10. 150 MHz  1000 W  1 kHz 
+  20 m  14.000  –  14.350 MHz  1000 W  6 kHz  14.000  –  14. 350 MHz  1000 W  6 kHz 
+  17 m  18.068  –  18.168 MHz  1000 W  6 kHz  18.068  –  18. 168 MHz  1000 W  6 kHz 
+  15 m  21.000  –  21.450 MHz  1000 W  6 kHz  21.000  –  21. 450 MHz  1000 W  6 kHz 
+  12 m  24.740  –  24.990 MHz  1000 W  6 kHz  24.740  –  24. 990 MHz  1000 W  6 kHz 
+  10 m  28.000  –  29.700 MHz  1000 W  18 kHz  28.000  –  29 .700 MHz  1000 W  18 kHz 
+  6 m  50.000  –  52.000 MHz	
+4  1000 W  18 kHz  50.000  –  52.000 MHz	4  1000 W  18 kHz 
+  4 m  69.900  –  70.500 MHz  100 W	5  16 kHz  69.900  –  70.500 MHz  100 W	5  16 kHz 
+  2 m  144.000  –  146.000 MHz  300 W	5  18 kHz  144.000  –  146.000 MHz  300 W	5  18 kHz 
+  70 cm  432.000  –  438.000 MHz  300 W	5  30 kHz  432.000  –  438.000 MHz  300 W	5  30 kHz 
+  23 cm  1.240  –  1.300 GHz  100 W	5  20 MHz  1.240  –  1.300 GHz  100 W	5  20 MHz 
+  13 cm  2.300  –  2.450 GHz  100 W  20 MHz  2.300  –  2.450  GHz  100 W  20 MHz 
+  9 cm  3.400  –  3.410 GHz  100 W  7 MHz  3.400  –  3.410 G Hz  100 W  7 MHz 
+  6 cm  5.650  –  5.850 GHz  100 W  20 MHz  5.650  –  5.850  GHz  100 W  20 MHz 
+  3 cm  10.250  –  10.500 GHz  100 W  50 MHz  10.250  –  10. 500 GHz  100 W  50 MHz 
+  1.2 cm  24.000  –  24.250 GHz  100 W  50 MHz  24.000  –  2 4.250 GHz  100 W  50 MHz 
+  6 mm  47.000  –  47.200 GHz  100 W  50 MHz  47.000  –  47. 200 GHz  100 W  50 MHz 
+  4 mm  76.000  –  81.000 GHz  100 W  50 MHz  76.000  –  81. 000 GHz  100 W  50 MHz 
+ 2.5 mm  122.250  –  123.000 GHz  100 W  50 MHz  122.250  –  123.000 GHz  100 W  50 MHz 
+  2 mm  134.000  –  141.000 GHz  100 W  50 MHz  134.000  –  141.000 GHz  100 W  50 MHz 
+ 1.2 mm  241.000  –  250.000 GHz  100 W  50 MHz  241.000  –  250.000 GHz  100 W  50 MHz 
+  
+Notes 	
+1  Guest licence and landing permission required for  Bjørnøya/Bear Island (JW), Jan Mayen (JX) and Antar ctica (3Y) 2  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 3  100 W PEP or 1 W EIRP, whatever limit is reached f irst 4  Only in Norway (LA) 5  1000 W for EME and Meteor Scatter operation 
+ 
+Info  
+Nasjonal kommunikasjonsmyndighet – https://lovdata. no/dokument/LTI/forskrift/2018-07-12-1220 (current as of 2018-08-08)	
+ 	  
+
+44 
+ 
+Peru 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   OA1/  Lambayeque, Píura, Tumbes 
+  OA2/  Cajamarca, La Libertad 
+  OA3/  Ancash, Huánaco  
+  OA4/  Callao, Junín, Lima, Pasco  
+  OA5/  Apurímac, Ayacucho, Huancavelica, Ica 
+  OA6/  Arequipa, Moquegua, Tacna  
+  OA7/  Cuzco, Madre de Dios, Puno  
+  OA8/  Loreto, Ucayali 
+  OA9/  Amazonas, San Martín          
+Extensions   /M, /P       
+Equivalent   Class A   
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m    
+  630 m   
+  160 m  1.800  –  1.850 MHz  1000 W  any    
+  80 m  3.500  –  3.750 MHz  1000 W  any    
+  60 m   
+  40 m  7.000  –  7.300 MHz  1000 W  any    
+  30 m  10.100  –  10.150 MHz  1000 W  any    
+  20 m  14.000  –  14.350 MHz  1000 W  any   
+  17 m  18.068  –  18.168 MHz  1000 W  any    
+  15 m  21.000  –  21.450 MHz  1000 W  any    
+  12 m  24.890  –  24.990 MHz  1000 W  any   
+  10 m  28.000  –  29.700 MHz  1000 W  any    
+  6 m  50.000  –  54.000 MHz  1000 W  any    
+  4 m   
+  2 m  144.000  –  148.000 MHz  1000 W  any    
+  1.25 m  220.000  –  225.000 MHz  1000 W  any  
+  70 cm  430.000  –  440.000 MHz  1000 W  any   
+  33 cm  915.000  –  928.000 MHz  1000 W  any  
+  23 cm  1.240  –  1.300 GHz  1000 W  any  
+  13 cm  2.400  –  2.450 GHz  1000 W  any   
+  9 cm  3.300  –  3.500 GHz  1000 W  any  
+  6 cm  5.650  –  5.925 GHz  1000 W  any    
+  3 cm  10.300  –  10.500 GHz  1000 W  any   
+  1.2 cm  24.000  –  24.250 GHz  1000 W  any  
+  6 mm  47.000  –  47.200 GHz  1000 W  any    
+  4 mm     
+ 2.5 mm      
+  2 mm      
+ 1.2 mm       
+Info  
+Ministerio de Transportes y Comunicaciones (MTC) –  https://m.actualidadempresarial.pe/norma/decreto-supremo-024-2019-
+mtc/cc0ecfae-27b6-46f3-8d6f-4e70423424d3 (current a s of 2019-07-16)	
+ 	  
+
+45 
+ 
+Poland 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   SP/        SO/ 
+Extensions          
+Equivalent   Class 1      Class 3 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  CW    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any    
+  160 m  1.810  –  2.000 MHz  500 W  any  1.810  –  2.000 MH z  100 W  any 
+  80 m  3.500  –  3.800 MHz  500 W  any  3.500  –  3.800 MHz   100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  500 W  any  7.000  –  7.200 MHz   100 W  any 
+  30 m  10.100  –  10.150 MHz  500 W  any    
+  20 m  14.000  –  14.350 MHz  500 W  any  14.000  –  14.350  MHz  100 W  any 
+  17 m  18.068  –  18.168 MHz  500 W  any   
+  15 m  21.000  –  21.450 MHz  500 W  any  21.000  –  21.450  MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  500 W  any    
+  10 m  28.000  –  29.700 MHz  500 W  any  28.000  –  29.700  MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W EIRP	
+1  any   
+  4 m  70.000  –  70.300 MHz  20 W EIRP  any   
+  2 m  144.000  –  146.000 MHz  500 W  any  144.000  –  146. 000 MHz  100 W  any 
+  70 cm  430.000  –  440.000 MHz  500 W  any  430.000  –  44 0.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  500 W  any   
+  13 cm  2.300  –  2.450 GHz  500 W  any    
+  9 cm  3.400  –  3.410 GHz  20 W EIRP  any   
+  6 cm  5.650  –  5.850 GHz  500 W  any    
+  3 cm  10.000  –  10.500 GHz  500 W  any  10.000  –  10.500  GHz  100 W  any 
+  1.2 cm  24.000  –  24.250 GHz  500 W  any    
+  6 mm  47.000  –  47.200 GHz  500 W  any    
+  4 mm  76.000  –  83.000 GHz  500 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  500 W  any   
+  2 mm  134.000  –  141.000 GHz  500 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  500 W  any     
+Notes 	
+1  500 W for FM 
+  
+Info  
+Urz ąd Komunikacji Elektronicznej (UKE) – https://bip.uk e.gov.pl/jak-uzyskac-rezerwacje--pozwolenie--zezwol enie-tresc/pozwolenia-
+amatorskie,6.html (current as of 2018-02-23);  
+https://bip.uke.gov.pl/download/gfx/bip/pl/defaulta ktualnosci/125/6/2/zakresy_amatorskie.pdf (current  as of 2021-02-14) 
+   
+
+46 
+ 
+Portugal 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   CT7/  Portugal      CS7/  Portugal 
+  CT8/  Açores/Azores      CS8/  Açores/Azores 
+  CT9/  Madeira      CS9/  Madeira  
+Extensions          
+Equivalent   Class 1/A      Class 2 
+national class 
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  CW    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any   
+  160 m  1.810  –  1.830 MHz  200 W  any    
+    1.830  –  1.850 MHz  1500 W  any    
+    1.850  –  2.000 MHz	
+2  1500 W  any   
+  80 m  3.500  –  3.800 MHz  1500 W  any  3.700  –  3.800 MH z  200 W  any 
+  60 m     
+  40 m  7.000  –  7.200 MHz  1500 W  any  7.100  –  7.200 MH z  200 W  any 
+  30 m  10.100  –  10.150 MHz  750 W  any    
+  20 m  14.000  –  14.350 MHz  1500 W  any  14.125  –  14.35 0 MHz  200 W  any 
+  17 m  18.068  –  18.168 MHz  1500 W  any    
+  15 m  21.000  –  21.450 MHz  1500 W  any  21.151  –  21.45 0 MHz  200 W  any 
+  12 m  24.890  –  24.990 MHz  1500 W  any   
+  10 m  28.000  –  29.700 MHz  1500 W  any  28.000  –  29.70 0 MHz  200 W  any 
+  6 m  50.000  –  50.500 MHz  300 W  any  50.000  –  50.500  MHz  150 W  any 
+    50.500  –  51.000 MHz  25 W ERP  any   
+    51.000  –  52.000 MHz  300 W  any  51.000  –  52.000 MHz   150 W  any   
+  4 m  70.157  –  70.2125 MHz  100 W ERP  any    
+    70.2375  –  70.2875 MHz  100 W ERP  any    
+  2 m  144.000  –  146.000 MHz  300 W EIRP  any  144.000  –   146.000 MHz  150 W  any 
+  70 cm  430.000  –  440.000 MHz  300 W EIRP  any  430.000   –  435.000 MHz  150 W  any 
+              438.000  –  440.000 MHz  150 W  any 
+  23 cm  1.240  –  1.270 GHz  50 W EIRP  any   
+    1.270  –  1.300 GHz  300 W EIRP  any  1.270  –  1.300 GH z  100 W EIRP  any 
+  13 cm     
+  9 cm     
+  6 cm      
+  3 cm  10.000  –  10.370 GHz  300 W EIRP  any    
+    10.450  –  10.500 GHz  300 W EIRP  any   
+  1.2 cm  24.000  –  24.250 GHz  50 W  any  24.000  –  24.05 0 GHz  10 W  any 
+  6 mm  47.000  –  47.200 GHz  50 W  any  47.000  –  47.200  GHz  10 W  any 
+  4 mm  75.500  –  81.000 GHz  50 W  any  77.500  –  78.000  GHz  10 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  50 W  any    
+  2 mm  134.000  –  141.000 GHz  50 W  any  134.000  –  136. 000 GHz  10 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  50 W  any  248.000  –  25 0.000 GHz  10 W  any 
+ 
+Notes 	
+1  Modes according to the IARU-Region 1 band plan (pl ease refer to the list at the end of this document) 2  Contest operation only 
+ 
+Info  
+Autoridade Nacional de Comunicações (ANACOM) – http ://www.anacom.pt/render.jsp?contentId=956876 (current as of 2009-03-02); 
+http://www.anacom.pt/render.jsp?contentId=981755 (c urrent as of 2009-09-28); 
+http://www.anacom.pt/streaming/Adenda_2013_QNAF.pdf ?contentId=1172857&field=ATTACHED_FILE (current as of 2013-09-06); 
+http://www.anacom.pt/render.jsp?contentId=940079 (c urrent as of 2014-01-10)	
+ 	  
+
+47 
+ 
+Romania 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   YO/        YO/ 
+Extensions  /AM, /M, /MM, /P    /AM, /M, /MM, /P 
+Equivalent   Class 2    Class 3 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any  135.700  –   137.800 kHz  1 W ERP  any 
+  630 m                      
+  160 m  1.810  –  2.000 MHz  200 W  any  1.810  –  2.000 MH z  100 W  any 
+  80 m  3.500  –  3.800 MHz  200 W  any  3.500  –  3.800 MHz   100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any  5.3515  –  5. 3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  200 W  any  7.000  –  7.200 MHz   100 W  any 
+  30 m  10.100  –  10.150 MHz  200 W  any  10.100  –  10.150  MHz  100 W  any 
+  20 m  14.000  –  14.350 MHz  200 W  any  14.000  –  14.350  MHz  100 W  any 
+  17 m  18.068  –  18.168 MHz  200 W  any  18.068  –  18.168  MHz  100 W  any 
+  15 m  21.000  –  21.450 MHz  200 W  any  21.000  –  21.450  MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  200 W  any  24.890  –  24.990  MHz  100 W  any 
+  10 m  28.000  –  29.700 MHz  200 W  any  28.000  –  29.700  MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  200 W  any  50.000  –  52.000  MHz  100 W  any 
+  4 m     
+  2 m  144.000  –  146.000 MHz  200 W  any  144.000  –  146. 000 MHz  100 W  any 
+  70 cm  430.000  –  440.000 MHz  100 W  any  430.000  –  44 0.000 MHz  50 W  any 
+  23 cm  1.240  –  1.300 GHz  100 W  any  1.240  –  1.300 GH z  50 W  any 
+  13 cm  2.300  –  2.450 GHz  100 W  any  2.300  –  2.450 GH z  50 W  any 
+  9 cm  3.400  –  3.500 GHz  100 W  any  3.400  –  3.500 GHz   50 W  any 
+  6 cm  5.660  –  5.670 GHz  100 W  any  5.660  –  5.670 GHz   50 W  any 
+    5.725  –  5.850 GHz  100 W  any  5.725  –  5.850 GHz  50  W  any 
+  3 cm  10.000  –  10.500 GHz  100 W  any  10.000  –  10.500  GHz  50 W  any 
+  1.2 cm  24.000  –  24.250 GHz  100 W  any  24.000  –  24.2 50 GHz  50 W  any 
+  6 mm  47.000  –  47.200 GHz  100 W  any  47.000  –  47.200  GHz  50 W  any 
+  4 mm  75.500  –  84.000 GHz  100 W  any  75.500  –  84.000  GHz  50 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  100 W  any  122.250  –  1 23.000 GHz  50 W  any 
+  2 mm  134.000  –  141.000 GHz  100 W  any  134.000  –  141 .000 GHz  50 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  100 W  any  241.000  –  2 50.000 GHz  50 W  any 
+ 
+Info  
+Autoritatea Nationala pentru Administrare si Reglem entare in Comunicatii (ANCOM) – 
+https://www.ancom.ro/uploads/links_files/DECIZIA_AN COM_245_2017_PRIVIND_REGLEMENTAREA_SERVICIULUI_DE_A MATOR_
+002.pdf; 
+https://www.ancom.org.ro/uploads/links_files/DECIZI A_ANCOM_245_2017_PRIVIND_REGLEMENTAREA_SERVICIULUI_ DE_AMAT
+OR_en.pdf (current as of 2017-08-10); https://www.a ncom.ro/uploads/links_files/HOTARAREA_GUVERNULUI_37 6_2020.pdf (current 
+as of 2020-06-17)	
+ 	   
+
+48 
+ 
+Russia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   RA/        RC/ 
+Extensions   /M, /P      /M, /P 
+Equivalent   Category 2    Category 3 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W  any  135.700  –  137 .800 kHz  1 W  any 
+  630 m                      
+  160 m  1.810  –  2.000 MHz  10 W  any  1.810  –  2.000 MHz   10 W  any 
+  80 m  3.500  –  3.800 MHz  100 W  any  3.510  –  3.775 MHz   10 W  any 
+  60 m                   
+  40 m  7.000  –  7.200 MHz  100 W  any  7.000  –  7.175 MHz   10 W  any 
+  30 m  10.100  –  10.150 MHz  100 W  any    
+  20 m  14.000  –  14.350 MHz  100 W  any  
+  17 m  18.068  –  18.168 MHz  100 W  any    
+  15 m  21.000  –  21.450 MHz  100 W  any  21.000  –  21.450  MHz  10 W  any 
+  12 m  24.890  –  24.990 MHz  100 W  any    
+  10 m  28.000  –  29.700 MHz  100 W  any  28.000  –  29.700  MHz  10 W  any 
+  6 m    
+  4 m    
+  2 m  144.000  –  146.000 MHz  50 W  any  144.000  –  146.0 00 MHz  10 W  any 
+  70 cm  430.000  –  433.000 MHz  5 W  any  430.000  –  433. 000 MHz  5 W  any 
+    433.000  –  440.000 MHz  10 W  any  433.000  –  440.000  MHz  10 W  any 
+  23 cm  1.260  –  1.300 GHz  10 W  any  1.260  –  1.300 GHz   10 W  any 
+  13 cm  2.320  – 2.32015 GHz	
+2  10 W  any  2.320  – 2.32015 GHz	2  10 W  any 
+    2.400  –  2.450 GHz  10 W  any  2.400  –  2.450 GHz  10 W   any 
+  9 cm    
+  6 cm  5.650  –  5.670 GHz  10 W  any  5.650  –  5.670 GHz  10 W  any 
+    5.725  –  5.850 GHz  10 W  any  5.725  –  5.850 GHz  10 W   any 
+  3 cm  10.000  –  10.500 GHz  10 W  any  10.000  –  10.500  GHz  10 W  any 
+  1.2 cm  24.000  –  24.250 GHz  10 W  any  24.000  –  24.25 0 GHz  10 W  any 
+  6 mm  47.000  –  47.200 GHz  10 W  any  47.000  –  47.200  GHz  10 W  any 
+  4 mm  76.000  –  78.000 GHz  10 W  any  76.000  –  78.000  GHz  10 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  10 W  any  122.250  –  12 3.000 GHz  10 W  any 
+  2 mm  134.000  –  141.000 GHz  10 W  any  134.000  –  141. 000 GHz  10 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  10 W  any  241.000  –  25 0.000 GHz  10 W  any 
+ 
+Notes 	
+1  Bandwidth and modes according to IARU Region 1 ban d plan (please refer to the list at the end of this document) 2  EME operation only 
+ 
+Info 
+Ministerstvo cifrovogo razvitija, svjazi i massovyk h kommunikacij Rossijskoj Federacii – https://digit al.gov.ru/uploaded/files/prilozhenie-k-
+resheniyu-gkrch--15-35-02.pdf (current as of 2015-1 0-16)	
+ 	  
+
+49 
+ 
+Serbia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   YU/ 
+Extensions  /AM, /M, /P       
+Equivalent   Class 1       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes	
+1   
+ 2200 m   
+  630 m    
+  160 m  1.810  –  2.000 MHz  300 W  any  
+  80 m  3.500  –  3.800 MHz  1500 W  any 
+  60 m    
+  40 m  7.000  –  7.200 MHz  1500 W  any  
+  30 m  10.100  –  10.150 MHz  300 W  any 
+  20 m  14.000  –  14.350 MHz  1500 W  any  
+  17 m  18.068  –  18.168 MHz  300 W  any  
+  15 m  21.000  –  21.450 MHz  1500 W  any 
+  12 m  24.890  –  24.990 MHz  300 W  any  
+  10 m  28.000  –  29.700 MHz  1500 W  any  
+  6 m  50.000  –  51.900 MHz  100 W  any 
+  4 m  69.900  –  70.500 MHz      
+  2 m  144.000  –  144.500 MHz  1500 W  any    
+    144.500  –  144.800 MHz  300 W  any   
+    144.800  –  144.995 MHz  50 W  any    
+    144.995  –  145.800 MHz  30 W  any    
+    145.800  –  146.000 MHz  75 W  any   
+  70 cm  432.000  –  432.500 MHz  1500 W  any    
+    432.500  –  433.000 MHz  300 W  any    
+    433.000  –  433.600 MHz  30 W  any   
+    433.600  –  434.000 MHz  300 W  any    
+    434.000  –  435.000 MHz  50 W  any    
+    435.000  –  438.000 MHz  75 W  any   
+  23 cm  1.240  –  1.260 GHz  300 W  any    
+    1.260  –  1.270 GHz  75 W  any    
+    1.270  – 1.290994 GHz  300 W  any   
+    1.290994  – 1.291484 GHz  30 W  any    
+    1.291484  – 1.297494 GHz  300 W  any    
+    1.297494  –  1.298 GHz  30 W  any   
+    1.298  –  1.300 GHz  300 W  any    
+  13 cm  2.300  –  2.321 GHz  300 W  any  
+    2.321  –  2.322 GHz  30 W  any 
+    2.322  –  2.400 GHz  300 W  any  
+    2.400  –  2.450 GHz  75 W  any  
+  9 cm   
+  6 cm  5.650  –  5.670 GHz  75 W  any  
+    5.670  –  5.850 GHz  300 W  any  
+  3 cm  10.000  –  10.450 GHz  300 W  any  
+    10.450  –  10.500 GHz  50 W  any  
+  1.2 cm  24.000  –  24.048 GHz  50 W  any 
+    24.048  –  24.250 GHz  75 W  any  
+  6 mm  47.000  –  47.200 GHz  75 W  any  
+  4 mm  76.000  –  81.500 GHz  75 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  75 W  any  
+  2 mm  134.000  –  141.000 GHz  75 W  any  
+ 1.2 mm  241.000  –  250.000 GHz  75 W  any   
+Notes 	
+1  Bandwidth and modes according to the IARU Region 1  band plan (please refer to the list at the end of this document) 
+ 
+Info  
+Republic Agency for Electronic Communications (RATE L) – 
+https://www.ratel.rs/uploads/documents/pdf_document s/editor_files/File/Regulativa/Pravilnici/Pravilnik%20o%20radioamaterima,%20kor
+igovan.pdf (current as of 2018-07-18); https://www. ratel.rs/uploads/documents/empire_plugin/План намене  радио -фреквенцијских  
+опсега .pdf (current as of 2020-06-25) 
+
+50 
+ 
+Slovakia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   OM/        OM9/   
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P 
+Equivalent   Class E      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  200 Hz    
+  630 m  472.000  –  479.000 kHz  1 W EIRP	
+2  200 Hz 
+  160 m  1.810  –  1.850 MHz  750 W  any  1.810  –  1.850 MH z  100 W  any 
+    1.850  –  2.000 MHz  10 W  any  1.850  –  2.000 MHz  10 W   any 
+  80 m  3.500  –  3.800 MHz  750 W  any  3.520  –  3.780 MHz   100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  750 W  any   
+  30 m  10.100  –  10.150 MHz  750 W  any    
+  20 m  14.000  –  14.350 MHz  750 W  any    
+  17 m  18.068  –  18.168 MHz  750 W  any 
+  15 m  21.000  –  21.450 MHz  750 W  any  21.050  –  21.200  MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  750 W  any 
+  10 m  28.000  –  29.700 MHz  750 W  any  28.050  –  29.700  MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  750 W  any  
+  4 m  69.900  –  70.500 MHz  750 W  any  
+  2 m  144.000  –  146.000 MHz  750 W  any  144.000  –  146. 000 MHz  100 W  any 
+  70 cm  430.000  –  440.000 MHz  750 W  any  430.000  –  44 0.000 MHz  100 W  any 
+  23 cm  1.240  –  1.300 GHz  750 W  any  1.240  –  1.300 GH z  100 W  any 
+  13 cm  2.300  –  2.450 GHz  750 W  any  2.300  –  2.450 GH z  100 W  any 
+  9 cm  3.400  –  3.410 GHz  750 W  any  3.400  –  3.410 GHz   100 W  any 
+  6 cm  5.650  –  5.850 GHz  750 W  any  5.650  –  5.850 GHz   100 W  any 
+  3 cm  10.000  –  10.450 GHz  750 W  any  10.000  –  10.450  GHz  100 W  any 
+  1.2 cm  24.000  –  24.250 GHz  750 W  any  24.000  –  24.2 50 GHz  100 W  any 
+  6 mm  47.000  –  47.200 GHz  750 W  any  47.000  –  47.200  GHz  100 W  any 
+  4 mm  75.500  –  81.000 GHz  750 W  any  75.500  –  81.000  GHz  100 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  750 W  any  122.250  –  1 23.000 GHz  100 W  any 
+  2 mm  134.000  –  141.000 GHz  750 W  any  134.000  –  141 .000 GHz  100 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  750 W  any  241.000  –  2 50.000 GHz  100 W  any 
+  
+Notes 	
+1  Bandwidth and modes according to the IARU Region 1  band plan (please refer to the list at the end of this document) 2  5 W EIRP in geographical areas with a distance of  more than 800 km from the border 
+  
+Info  
+Telekomunika čný úrad – https://www.teleoff.gov.sk/data/files/632 2.pdf (current as of 2015-12-04) 
+
+51 
+ 
+Slovenia 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   S5/        S5/   
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P 
+Equivalent   Class A      Class N 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  500 Hz    
+  630 m  472.000  –  479.000 kHz  5 W EIRP  any  
+  160 m  1.810  –  2.000 MHz  1500 W  any    
+  80 m  3.500  –  3.800 MHz  1500 W  any  3.500  –  3.800 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any    
+  40 m  7.000  –  7.200 MHz  1500 W  any  7.000  –  7.200 MH z  100 W  any 
+  30 m  10.100  –  10.150 MHz  300 W  any    
+  20 m  14.000  –  14.350 MHz  1500 W  any    
+  17 m  18.068  –  18.168 MHz  1500 W  any  
+  15 m  21.000  –  21.450 MHz  1500 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  1500 W  any  
+  10 m  28.000  –  29.700 MHz  1500 W  any  28.000  –  29.70 0 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W  any  50.000  –  52.000  MHz  25 W  any 
+  4 m  70.000  –  70.450 MHz  100 W  any  70.000  –  70.450  MHz  25 W  any 
+  2 m  144.000  –  146.000 MHz  1500 W  any  144.000  –  146 .000 MHz  25 W  any 
+  70 cm  430.000  –  432.000 MHz  50 W  any  430.000  –  440 .000 MHz  25 W  any 
+    432.000  –  438.000 MHz  1500 W  any   
+    438.000  –  440.000 MHz  50 W  any    
+  23 cm  1.240  –  1.300 GHz  300 W  any   
+  13 cm  2.300  –  2.450 GHz  300 W  any    
+  9 cm  3.400  –  3.410 GHz  100 W  any    
+  6 cm  5.650  –  5.830 GHz  100 W  any   
+    5.830  –  5.850 GHz	
+1  50 W  any   
+  3 cm  10.000  –  10.500 GHz  100 W  any   
+  1.2 cm  24.000  –  24.250 GHz  50 W  any   
+  6 mm  47.000  –  48.500 GHz  50 W  any    
+  4 mm  75.500  –  81.500 GHz  50 W  any    
+    81.500  –  84.000 GHz
+1  50 W  any   
+ 2.5 mm  122.250  –  123.000 GHz  50 W  any    
+  2 mm  134.000  –  141.000 GHz  50 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  50 W  any     
+Notes 	
+1  Satellite operation only 
+  
+Info 
+Agencija za pošto in elektronske komunikacije (APEK ) – http://www.uradni-list.si/1/content?id=114276#!/Splosni-akt-o-pogojih-za-
+uporabo-radijskih-frekvenc-namenjenih-radioamatersk i-in-radioamaterski-satelitski-storitvi (current as of 2021-02-14) 
+   
+
+52 
+ 
+South Africa 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but guest  
+    licence available	
+1 
+Call sign   ZS/        ZU/         
+  Optional digit designating the province:  Optional  digit designating the province: 
+  ZS1/  Western Cape      ZU1/  Western Cape   
+  ZS2/  Eastern Cape      ZU2/  Eastern Cape   
+  ZS3/  Northern Cape      ZU3/  Northern Cape    
+  ZS4/  Free State      ZU4/  Free State  
+  ZS5/  KwaZulu-Natal      ZU5/  KwaZulu-Natal   
+  ZS6/  Gauteng, Limpopo, Mpumalanga, North West  ZU6/   Gauteng, Limpopo, Mpumalanga, North West 
+Extensions          
+Equivalent   Class A      Class B       
+national class  
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  any	
+2 
+  630 m  472.000  –  479.000 kHz   5 W EIRP  any2 
+  160 m  1.810  –  2.000 MHz  1000 W  any2 
+  80 m  3.500  –  3.800 MHz  1000 W  any2  3.500  –  3.800 MHz  100 W  any	2 
+  60 m  5.350  –  5.450 MHz  15 W EIRP  any	2 
+  40 m  7.000  –  7.200 MHz  1000 W  any2  7.000  –  7.200 MHz  100 W  any	2 
+  30 m  10.100  –  10.150 MHz  400 W  any	2 
+  20 m  14.000  –  14.350 MHz  1000 W  any2 
+  17 m  18.068  –  18.168 MHz  1000 W  any2 
+  15 m  21.000  –  21.450 MHz  1000 W  any2   
+  12 m  24.890  –  24.990 MHz  1000 W  any2 
+  10 m  28.000  –  29.700 MHz  1000 W  any2  28.050  –  28.150 MHz  100 W  any	2 
+              28.300  –  28.500 MHz  100 W  any2 
+  6 m  50.000  –  53.000 MHz  1000 W  any	2  50.000  –  54.000 MHz  100 W  any	2 
+    53.000  –  54.000 MHz  400 W  any	2   
+  4 m  70.000  –  70.300 MHz  400 W  any2   
+  2 m  144.000  –  146.000 MHz  1000 W  any2  144.000  –  146.000 MHz  100 W  any	2 
+  70 cm  430.000  –  440.000 MHz  1000 W  any	2  430.000  –  440.000 MHz  100 W  any	2 
+  23 cm  1.240  –  1.300 GHz  1000 W  any	3 
+  13 cm  2.300  –  2.450 GHz  400 W  any3 
+  9 cm    
+  6 cm  5.650  –  5.850 GHz  400 W  any
+3 
+  3 cm  10.000  –  10.500 GHz  400 W  any  
+  1.2 cm  24.000  –  24.250 GHz  400 W  any  
+  6 mm  47.000  –  47.200 GHz  400 W  any  
+  4 mm  75.500  –  81.000 GHz  400 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  400 W  any  
+  2 mm  134.000  –  141.000 GHz  400 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  400 W  any   
+Notes 	
+1  Guest licence: The Independent Communications Auth ority of South Africa (ICASA), Private Bag X10002, Sandton 2146, South 
+Africa; E-Mail: botha@icasa.org.za 
+2  Any mode except pulse or fast scan TV 3  Any mode except pulse 
+  
+Info  
+South African Radio League (SARL) –  
+http://www.sarl.org.za/Web3/Members/DoDocDownload.a spx?X=20150826225225XIPBDepvPP.PDF (current as of 2 015-04-05); 
+Independent Communications Authority of South Afric a (ICASA) – https://www.icasa.org.za/uploads/files/Radio-Frequency-Spectrum-
+Regulations-2015.pdf (current as of 2017-04-06); ht tps://www.icasa.org.za/uploads/files/National-Radio-Frequency-Plan-2018-
+41650.pdf (current as of 2018-05-25)     
+
+53 
+ 
+Spain 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   EA/         
+  Optional digit designating the district: 
+  EA1/  Asturias, Ávila, Burgos, Cantabria, La Coruña , 
+    La Rioja, León, Lugo, Orense, Palencia, 
+    Pontevedra, Salamanca, Segovia, Soria, 
+    Valladolid, Zamora  
+  EA2/  Álava, Guipúzcoa, Huesca, Navarra, Teruel,  
+    Vizcaya, Zaragoza 
+  EA3/  Barcelona, Girona, Lleida, Tarragona  
+  EA4/  Badajoz, Cáceres, Ciudad Real, Cuenca,  
+    Guadalajara, Madrid, Toledo 
+  EA5/  Albacete, Alicante, Castellón, Murcia, Valenc ia 
+  EA6/  Baleares 
+  EA7/  Almería, Cádiz, Córdoba, Granada, Huelva, 
+    Jaén, Málaga, Sevilla  
+  EA8/  Las Palmas, Santa Cruz de Tenerife  
+  EA9/  Ceuta, Melilla  
+Extensions   /M, /P       
+Equivalent   CEPT       
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes	
+1   
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  200 Hz 
+  630 m  472.000  –  479.000 kHz  1 W EIRP	
+2 	any 
+  160 m  1.810  –  1.830 MHz  500 W  any 
+    1.830  –  1.850 MHz  1000 W  any  
+    1.850  –  2.000 MHz	
+3  1000 W  any 
+  80 m  3.500  –  3.800 MHz  1000 W  any    
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any  
+  40 m  7.000  –  7.200 MHz  1000 W  any    
+  30 m  10.100  –  10.150 MHz  500 W  any 
+  20 m  14.000  –  14.350 MHz  1000 W  any  
+  17 m  18.068  –  18.168 MHz  1000 W  any  
+  15 m  21.000  –  21.450 MHz  1000 W  any   
+  12 m  24.890  –  24.990 MHz  1000 W  any  
+  10 m  28.000  –  29.700 MHz  1000 W  any    
+  6 m  50.000  –  52.000 MHz  600 W  any   
+  4 m  70.150  –  70.250 MHz  600 W  any    
+  2 m  144.000  –  146.000 MHz  600 W	
+4  any   
+  70 cm  430.000  –  440.000 MHz  300 W4  any   
+  23 cm  1.240  –  1.300 GHz  500 W EIRP  any 
+  13 cm  2.316  –  2.332 GHz  500 W EIRP  any  
+  9 cm   
+  6 cm  5.700  –  5.720 GHz  500 W EIRP  any  
+    5.760  –  5.762 GHz  500 W EIRP  any  
+  3 cm  10.000  –  10.500 GHz  500 W EIRP  any  
+  1.2 cm  24.000  –  24.050 GHz 1000 W EIRP  any  
+  6 mm  47.000  –  47.200 GHz 1000 W EIRP  any 
+  4 mm  77.500  –  78.000 GHz 1000 W EIRP  any  
+ 2.5 mm    
+  2 mm  134.000  –  136.000 GHz 1000 W EIRP  any   
+ 1.2 mm  248.000  –  250.000 GHz 1000 W EIRP  any      
+Notes 	
+1  Bandwidth and modes according to the IARU Region 1  band plan (please refer to the list at the end of this document) 2  5 W EIRP in geographical areas with a distance of  more than 800 km from the African continent 3  Only contest operation in international contests 4  1000 W for EME and Meteor Scatter operation 
+ 
+Info  
+Ministerio de Industria, Energía y Turismo – http:/ /www.boe.es/boe/dias/2013/07/12/pdfs/BOE-A-2013-762 4.pdf (current as of 2013-07-
+12); https://www.boe.es/boe/dias/2015/07/09/pdfs/BO E-A-2015-7704.pdf (current as of 2015-07-09); 
+https://www.boe.es/boe/dias/2015/11/13/pdfs/BOE-A-2 015-12281.pdf (current as of 2015-11-13); 
+https://www.boe.es/boe/dias/2015/11/20/pdfs/BOE-A-2 015-12559.pdf (current as of 2015-11-20); Unión Radioaficionados Españoles – 
+https://www.ure.es/bandas-atribuidas (current as of  2021-02-14) 
+   
+
+54 
+ 
+Sweden 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   SM/ or SA/           
+  Optional digit designating the region: 
+  SM1/  Gotland  
+  SM2/  Norrbotten, Västerbotten  
+  SM3/  Gävleborg, Jämtland, Västernorrland 
+  SM4/  Dalarna, Örebro, Värmland  
+  SM5/  Östergötland, Södermanland, Uppsala,  
+    Västmanland 
+  SM6/  Halland, Västra Götaland  
+  SM7/  Blekinge, Jönköping, Kalmar, Kronoberg,  
+    Skåne 
+  SMØ/  Stockholm  
+Extensions   /M, /P     
+Equivalent   Class 1       
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any    
+  630 m  472.000  –  479.000 kHz  1 W EIRP  any   
+  160 m  1.810  –  1.850 MHz  200 W  any    
+    1.850  –  1.900 MHz  10 W  any    
+    1.900  –  1.950 MHz  100 W  any   
+    1.950  –  2.000 MHz  10 W  any    
+  80 m  3.500  –  3.800 MHz  200 W  any    
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  200 W  any      
+  30 m  10.100  –  10.150 MHz  150 W  any    
+  20 m  14.000  –  14.350 MHz  200 W  any   
+  17 m  18.068  –  18.168 MHz  200 W  any    
+  15 m  21.000  –  21.450 MHz  200 W  any    
+  12 m  24.890  –  24.990 MHz  200 W  any   
+  10 m  28.000  –  29.700 MHz  200 W  any    
+  6 m  50.000  –  52.000 MHz  200 W  any    
+  4 m   
+  2 m  144.000  –  146.000 MHz  200 W  any    
+  70 cm  432.000  –  438.000 MHz  200 W  any    
+  23 cm  1.240  –  1.300 GHz  200 W  any   
+  13 cm  2.400  –  2.450 GHz  100 mW  any    
+  9 cm      
+  6 cm  5.650  –  5.850 GHz  200 W  any   
+  3 cm  10.000  –  10.500 GHz  200 W  any    
+  1.2 cm  24.000  –  24.250 GHz  200 W  any    
+  6 mm  47.000  –  47.200 GHz  200 W  any   
+  4 mm  75.500  –  81.000 GHz  200 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  200 W  any    
+  2 mm  134.000  –  141.000 GHz  200 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  200 W  any     
+Info  
+Post- och telestyrelsen (PTS) – https://pts.se/glob alassets/startpage/dokument/legala-dokument/foreskr ifter/radio/beslutade_ptsfs-2018-
+3-undantagsforeskrifter.pdf (current as of 2018-09- 21); https://www.pts.se/globalassets/startpage/doku ment/icke-legala-
+dokument/faktablad/radio/faktablad-amatorradiotills tand-pts-f-2018_7.pdf (current as of 2018-11-19)	
+ 	  
+
+55 
+ 
+Switzerland 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented  
+Call sign   HB9/        HB3/   
+Extensions   /AM, /M, /MM, /P      /AM, /M, /MM, /P     
+Equivalent   CEPT concession    Class 3 concession 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes 
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any    
+  630 m  472.000  –  479.000 kHz  5 W EIRP  any    
+  160 m  1.810  –  2.000 MHz  1000 W  any  1.810  –  2.000 M Hz  100 W  any 
+  80 m  3.500  –  3.800 MHz  1000 W  any  3.500  –  3.800 MH z  100 W  any 
+  60 m  5.3515  –  5.3665 MHz  15 W EIRP  any   
+  40 m  7.000  –  7.200 MHz  1000 W  any    
+  30 m  10.100  –  10.150 MHz  1000 W  any 
+  20 m  14.000  –  14.350 MHz  1000 W  any  
+  17 m  18.068  –  18.168 MHz  1000 W  any    
+  15 m  21.000  –  21.450 MHz  1000 W  any  21.000  –  21.45 0 MHz  100 W  any 
+  12 m  24.890  –  24.990 MHz  1000 W  any    
+  10 m  28.000  –  29.700 MHz  1000 W  any  28.000  –  29.70 0 MHz  100 W  any 
+  6 m  50.000  –  52.000 MHz  100 W  any    
+  4 m    
+  2 m  144.000  –  146.000 MHz  1000 W  any  144.000  –  146 .000 MHz  50 W  any 
+  70 cm  430.000  –  440.000 MHz  1000 W  any  430.000  –  4 40.000 MHz  50 W  any 
+  23 cm  1.260  –  1.300 GHz  1000 W  any   
+  13 cm  2.308  –  2.312 GHz  100 W  any    
+  9 cm   
+  6 cm  5.725  –  5.850 GHz  100 W  any    
+  3 cm  10.000  –  10.500 GHz  100 W  any    
+  1.2 cm  24.000  –  24.250 GHz  10 W  any   
+  6 mm  47.000  –  47.200 GHz  10 W  any    
+  4 mm  76.000  –  81.500 GHz  10 W  any    
+ 2.5 mm  122.250  –  123.000 GHz  10 W  any   
+  2 mm  134.000  –  141.000 GHz  10 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  10 W  any     
+Notes 	
+1  Modes according to the IARU Region 1 band plan (pl ease refer to the list at the end of this document) 
+ 
+Info  
+Bundesamt für Kommunikation (BAKOM) –  
+https://www.bakom.admin.ch/dam/bakom/de/dokumente/b akom/frequenzen_und_antennen/Frequenznutzung%20mit% 20oder%20ohne
+%20Konzessionen/Amateurfunk/vorschriften_fueramateu rfunk.pdf.download.pdf/vorschriften_fueramateurfunk.pdf (current as of 2019-
+01-22)	
+ 	 
+
+56 
+ 
+Turkey 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented	
+1  ECC/REC/(05)06 not implemented 
+Call sign   TA1/  Çanakkale Avrupa, Edirne, Istanbul Avrupa, 
+    Kırklareli, Tekirda ğ 
+  TA2/  Ankara, Bartın, Bilecik, Bolu, Düzce, Eski şehir, 
+    Istanbul Asya, Karabük, Kırıkkale, Kocaeli,  
+    Sakarya, Yalova, Zonguldak 
+  TA3/  Balıkesir, Bursa, Çanakkale Asya,  İzmir,  
+    Manisa 
+  TA4/  Afyonkarahisar, Antalya, Aydın, Burdur,  
+    Denizli, Isparta, Kütahya, Mu ğla, U şak 
+  TA5/  Adana, Aksaray, Hatay, Karaman, Konya, 
+    Mersin, Nev şehir, Ni ğde, Osmaniye 
+  TA6/  Amasya, Çankırı, Çorum, Kastamonu,  
+    Kır şehir, Samsun, Sinop, Tokat, Yozgat 
+  TA7/  Bayburt, Erzincan, Giresun, Gümü şhane, 
+    Kayseri, Ordu, Sivas, Trabzon, Tunceli 
+  TA8/  Adıyaman, Bingöl, Diyarbakır, Elâzı ğ, 
+    Gaziantep, Kahramanmara ş, Kilis, Malatya, 
+    Mardin,  Şanlıurfa,  Şırnak 
+  TA9/  A ğri, Ardahan, Artvin, Batman, Bitlis, Erzurum, 
+    Hakkâri, I ğdır, Kars, Mu ş, Rize, Siirt, Van 
+  TAØ/  Islands  
+Extensions          
+Equivalent   CEPT with CW: Class A       
+national class  CEPT without CW: Class C	
+2 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  5 W  CW  
+  630 m  472.000  –  479.000 kHz  5 W ERP  CW 
+  160 m  1.810  –  1.832 MHz  30 W  CW    
+    1.832  –  1.835 MHz  30 W  CW, SSB    
+    1.835  –  1.850 MHz  30 W  CW   
+  80 m  3.500  –  3.800 MHz  75 W  any    
+  60 m  5.3515  –  5.3665 MHz  15 W ERP  any  
+  40 m  7.000  –  7.200 MHz  75 W  any 
+  30 m  10.100  –  10.150 MHz  100 W  CW, digital  
+  20 m  14.000  –  14.350 MHz  400 W  any  
+  17 m  18.068  –  18.168 MHz  400 W  any 
+  15 m  21.000  –  21.450 MHz  400 W  any    
+  12 m  24.890  –  24.990 MHz  400 W  any  
+  10 m  28.000  –  29.700 MHz  400 W  any   
+  6 m  50.000  –  52.000 MHz  75 W  any  
+  4 m    
+  2 m  144.000  –  146.000 MHz  400 W/5 W	
+2  any   
+  70 cm  430.200  –  430.700 MHz  400 W  any    
+    431.550  –  431.825 MHz  400 W  any    
+    432.000  –  432.975 MHz  400 W/5 W
+2  any     
+    433.400  –  433.575 MHz  400 W  any   
+    435.000  –  437.975 MHz  400 W  any   
+    439.150  –  439.425 MHz  400 W  any    
+  23 cm  1.240  –  1.300 GHz  400 W  any    
+  13 cm     
+  9 cm      
+  6 cm  5.650  –  5.670 GHz  400 W  any    
+    5.820  –  5.850 GHz  400 W  any   
+  3 cm  10.450  –  10.452 GHz  400 W  any    
+  1.2 cm  24.000  –  24.050 GHz  400 W  any    
+  6 mm  47.000  –  47.200 GHz  400 W  any   
+  4 mm  75.500  –  76.000 GHz  400 W  any    
+ 2.5 mm      
+  2 mm  134.000  –  142.000 GHz  400 W  any   
+ 1.2 mm        
+Notes 	
+1  A copy of the official letter from the Undersecret ariat of Customs (http://www.tcswat.org/images/Cust oms.gif) and from the 
+Telecommunications Authority (http://www.tcswat.org /images/TK.gif) has to be printed out and presented at the customs. 
+2  CEPT without CW: only 144.000–146.000 MHz and 432. 000–432.975 MHz with 5 W PEP in any mode. 
+   
+Info
+
+57 
+ 
+Bilgi Teknolojileri ve  İleti şim Kurumu (BTK) – https://www.btk.gov.tr/uploads/bo arddecisions/telsiz-arayuz-dokumanlari/247-web.pdf 
+(current as of 2018-07-23); Türkiye Radyo Amatörler i Cemiyeti (TRAC) – 
+http://trac.org.tr/assets/front/lib/belgeler/ozelte lsizsistemleriyonetmeligi.pdf (current as of 2019-0 2-25); http://trac.org.tr/foreign-operators 
+(current as of 2021-02-14) 
+
+58 
+ 
+Ukraine 
+  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 implemented 
+Call sign   UT/        UT/ 
+Extensions  /AM, /M, /MM, /P      /AM, /M, /MM, /P  
+Equivalent   Category 1    Category 3 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes	
+1    (PEP)  Modes	1 
+ 2200 m  135.700  –  137.800 kHz  1 W EIRP  CW, digital   
+  630 m                      
+  160 m  1.810  –  1.850 MHz  100 W  any  1.838  –  1.842 MH z  5 W  digital 
+    1.850  –  2.000 MHz  10 W  any  1.850  –  2.000 MHz  5 W  CW, SSB 
+  80 m  3.500  –  3.800 MHz  200 W  any  3.500  –  3.650 MHz   40 W  any 
+  60 m                    
+  40 m  7.000  –  7.200 MHz  200 W  any  7.000  –  7.100 MHz   40 W  CW 
+  30 m  10.100  –  10.150 MHz  200 W  any    
+  20 m  14.000  –  14.350 MHz  200 W  any  
+  17 m  18.068  –  18.168 MHz  200 W  any   
+  15 m  21.000  –  21.450 MHz  200 W  any  21.000  –  21.250  MHz  40 W  any 
+  12 m  24.890  –  24.990 MHz  200 W  any   
+  10 m  28.000  –  29.700 MHz  200 W  any  28.000  –  29.300  MHz  40 W  any 
+              29.520  –  29.700 MHz  40 W  any  
+  6 m    
+  4 m   
+  2 m  144.000  –  144.399 MHz  5 W  any  144.035  –  144.39 9 MHz  5 W  any 
+    144.500  –  144.990 MHz  5 W  any  144.500  –  144.990 M Hz  5 W  any 
+    145.194  –  146.000 MHz  5 W  any  145.194  –  146.000 M Hz  5 W  any 
+  70 cm  430.000  –  432.399 MHz  5 W  any  430.000  –  432. 000 MHz  5 W  any 
+              432.025  –  432.399 MHz  5 W  any 
+    432.500  –  432.994 MHz  5 W  any  432.500  –  432.994 M Hz  5 W  any 
+    433.394  –  440.000 MHz  5 W  any  433.394  –  440.000 M Hz  5 W  any 
+  23 cm             
+  13 cm             
+                
+  9 cm    
+  6 cm  5.650  –  5.670 GHz  5 W  any  5.650  –  5.670 GHz  5  W  any 
+    5.830  –  5.850 GHz  5 W  any    
+  3 cm  10.100  –  10.150 GHz  5 W  any  10.100  –  10.500 G Hz  5 W  any 
+  1.2 cm  24.000  –  24.050 GHz  5 W  any  24.000  –  24.250  GHz  5 W  any 
+  6 mm  47.000  –  47.200 GHz  5 W  any  47.000  –  47.200 G Hz  5 W  any 
+  4 mm  76.000  –  81.000 GHz  5 W  any  76.000  –  81.000 G Hz  5 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  5 W  any  122.250  –  123 .000 GHz  5 W  any 
+  2 mm  134.000  –  141.000 GHz  5 W  any  134.000  –  141.0 00 GHz  5 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  5 W  any  241.000  –  250 .000 GHz  5 W  any 
+  
+Notes 	
+1  Bandwidth and modes according to IARU Region 1 ban d plan (please refer to the list at the end of this document) 
+  
+Info  
+National Commission for the State Regulation of Com munications and Informatization – http://zakon3.rada.gov.ua/laws/show/z0205-11 
+(current as of 2018-02-13)    
+
+59 
+ 
+United Kingdom of Great Britain and Northern Irelan d 
+  
+  CEPT CEPT Novice 
+Implementation	
+1  T/R 61-01 implemented  ECC/REC/(05)06 not implement ed 
+Call sign   M/  England     
+  MD/  Isle of Man 
+  MI/  Northern Ireland  
+  MJ/  Jersey  
+  MM/  Scotland 
+  MU/  Guernsey  
+  MW/  Wales      
+Extensions   /M, /MM, /P (optional)       
+Equivalent   Full Licence       
+national class 
+Band  Frequency Range  Power  Bandwidth/    
+    (PEP)  Modes    
+ 2200 m  135.700  –  137.800 kHz  1 W ERP  any    
+  630 m  472.000  –  479.000 kHz  5 W ERP  any    
+  160 m  1.810  –  1.850 MHz  400 W  any    
+    1.850  –  2.000 MHz  32 W  any   
+  80 m  3.500  –  3.800 MHz  400 W  any    
+  60 m	
+2  5.2585  –  5.264 MHz  100 W	3  6 kHz 
+    5.276  –  5.284 MHz  100 W3  6 kHz 
+    5.2885  –  5.292 MHz  100 W3  6 kHz 
+    5.298  –  5.307 MHz  100 W3  6 kHz 
+    5.313  –  5.323 MHz  100 W3  6 kHz 
+    5.333  –  5.338 MHz  100 W3  6 kHz 
+    5.354  –  5.358 MHz  100 W3  6 kHz 
+    5.362  –  5.3745 MHz  100 W3  6 kHz 
+    5.378  –  5.382 MHz  100 W3  6 kHz 
+    5.395  –  5.4015 MHz  100 W3  6 kHz 
+    5.4035  –  5.4065 MHz  100 W3  6 kHz 
+  40 m  7.000  –  7.200 MHz  400 W  any 
+  30 m  10.100  –  10.150 MHz  400 W  any    
+  20 m  14.000  –  14.350 MHz  400 W  any   
+  17 m  18.068  –  18.168 MHz  400 W  any    
+  15 m  21.000  –  21.450 MHz  400 W  any    
+  12 m  24.890  –  24.990 MHz  400 W  any   
+  10 m  28.000  –  29.700 MHz  400 W  any    
+  6 m  50.000  –  51.000 MHz  400 W  any    
+    51.000  –  52.000 MHz  100 W  any   
+  4 m  70.000  –  70.500 MHz  160 W  any    
+  2 m  144.000  –  146.000 MHz  400 W  any    
+  70 cm  430.000  – 432.000 MHz	
+4  40 W ERP  any   
+    432.000  –  440.000 MHz  400 W  any    
+  23 cm  1.240  –  1.325 GHz  400 W  any    
+  13 cm	
+5  2.310  –  2.350 GHz  400 W  any   
+    2.390  –  2.450 GHz  400 W  any    
+  9 cm  3.400  –  3.410 GHz  400 W  any    
+  6 cm  5.650  –  5.680 GHz  400 W  any    
+    5.755  –  5.765 GHz  400 W  any    
+    5.820  –  5.850 GHz  400 W  any   
+  3 cm  10.000  –  10.125 GHz  400 W  any    
+    10.225  –  10.500 GHz  400 W  any    
+  1.2 cm  24.000  –  24.050 GHz  400 W  any   
+    24.150  –  24.250 GHz  400 W  any    
+  6 mm  47.000  –  47.200 GHz  400 W  any    
+  4 mm  75.500  –  81.000 GHz  400 W  any   
+ 2.5 mm  122.250  –  123.000 GHz  400 W  any    
+  2 mm  134.000  –  141.000 GHz  400 W  any    
+ 1.2 mm  241.000  –  250.000 GHz  400 W  any     
+Notes 	
+1  T/R 61-01 and ECC/REC/(05)06 are not implemented i n the British Overseas Territories 2  No mobile or portable operation 3  Maximum power 200 W EIRP 4 431.000–432.000 MHz not available within 100 km rad ius of Charing Cross, London (51° 30’ 30’’ N 0° 7’ 24’’ W) 5  Parts of this band are to be removed from the amat eur radio licence	  
+  
+Info  
+Office of Communications (Ofcom) – https://www.ofco m.org.uk/__data/assets/pdf_file/0027/62991/amateur-terms.pdf (current as of 
+2018-07-25); https://www.ofcom.org.uk/__data/assets /pdf_file/0026/82637/amateur_radio_licence_guidance _for_licensees.pdf (current 
+as of 2018-10-15) 
+
+60 
+ 
+United States of America – ITU Region 2 
+  
+United States (conterminous states including Distri ct of Columbia, Alaska, Hawaii), Puerto Rico, U.S. Virgin Islands, Navassa 
+Island, Johnston Island, Midway Island  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but CEPT  
+    Novice accepted under Extra Class conditions 
+Call sign   KH3/  Johnston Island      KH3/  Johnston Island       
+  KH4/  Midway Island      KH4/  Midway Island        
+  KH6/  Hawaii      KH6/  Hawaii       
+  KH7/  Kure Island      KH7/  Kure Island       
+  KL7/  Alaska      KL7/  Alaska       
+  KP1/  Navassa Island      KP1/  Navassa Island        
+  KP2/  U.S. Virgin Islands      KP2/  U.S. Virgin Island s       
+  KP4/  Commonwealth of Puerto Rico  KP4/  Commonwealth  of Puerto Rico   
+  KP5/  Desecheo Island      KP5/  Desecheo Island     
+  W1/  Connecticut, Maine, Massachusetts, New  W1/  Con necticut, Maine, Massachusetts, New   
+    Hampshire, Rhode Island, Vermont    Hampshire, Rhod e Island, Vermont   
+  W2/  New Jersey, New York    W2/  New Jersey, New York      
+  W3/  Delaware, District of Columbia, Maryland,  W3/  Delaware, District of Columbia, Maryland,   
+    Pennsylvania        Pennsylvania        
+  W4/  Alabama, Florida, Georgia, Kentucky,   W4/  Alab ama, Florida, Georgia, Kentucky,  
+    North Carolina, South Carolina, Tennessee,    North  Carolina, South Carolina, Tennessee,   
+    Virginia        Virginia     
+  W5/  Arkansas, Louisiana, Mississippi, New  W5/  Arka nsas, Louisiana, Mississippi, New   
+    Mexico, Oklahoma, Texas      Mexico, Oklahoma, Texas    
+  W6/  California      W6/  California       
+  W7/  Arizona, Idaho, Montana, Nevada, Oregon,  W7/  A rizona, Idaho, Montana, Nevada, Oregon,   
+    Utah, Washington, Wyoming      Utah, Washington, Wyo ming   
+  W8/  Michigan, Ohio, West Virginia   W8/  Michigan, O hio, West Virginia   
+  W9/  Illinois, Indiana, Wisconsin    W9/  Illinois, In diana, Wisconsin   
+  WØ/  Colorado, Iowa, Kansas, Minnesota, Missouri,  W Ø/  Colorado, Iowa, Kansas, Minnesota, Missouri,   
+    Nebraska, North Dakota, South Dakota    Nebraska, N orth Dakota, South Dakota 
+Extensions   /M      /M 
+Equivalent   Extra Class      Extra Class 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes  
+ 2200 m    
+  630 m   
+  160 m  1.800  –  2.000 MHz  1500 W  any  1.800  –  2.000 M Hz  1500 W  any 
+  80 m  3.500  –  3.600 MHz  1500 W  any	
+1 	3.500  –  3.600 MHz  1500 W  any	1 
+  75 m  3.600  –  4.000 MHz  1500 W  any	2 	3.600  –  4.000 MHz  1500 W  any	2 
+  60 m      5.332 MHz  100 W ERP 	3      5.332 MHz  100 W ERP 	3 
+        5.348 MHz  100 W ERP 	3      5.348 MHz  100 W ERP 	3 
+        5.3585 MHz  100 W ERP 	3      5.3585 MHz  100 W ERP 	3 
+        5.373 MHz  100 W ERP 	3      5.373 MHz  100 W ERP 	3 
+        5.405 MHz  100 W ERP 	3      5.405 MHz  100 W ERP 	3 
+  40 m  7.000  –  7.125 MHz  1500 W  any	1 4  7.000  –  7.125 MHz  1500 W  any	1 4 
+    7.125  –  7.300 MHz  1500 W  any	2  7.125  –  7.300 MHz  1500 W  any	2 
+  30 m  10.100  –  10.150 MHz  200 W  any	1  10.100  –  10.150 MHz  200 W  any	1 
+  20 m  14.000  –  14.150 MHz  1500 W  any	1  14.000  –  14.150 MHz  1500 W  any	2 
+    14.150  –  14.350 MHz  1500 W  any	2  14.150  –  14.350 MHz  1500 W  any	2 
+  17 m  18.068  –  18.110 MHz  1500 W  any	1  18.068  –  18.110 MHz  1500 W  any	1 
+    18.110  –  18.168 MHz  1500 W  any	2  18.110  –  18.168 MHz  1500 W  any	2 
+  15 m  21.000  –  21.200 MHz  1500 W  any	1  21.000  –  21.200 MHz  1500 W  any	1 
+    21.200  –  21.450 MHz  1500 W  any	2  21.200  –  21.450 MHz  1500 W  any	2 
+  12 m  24.890  –  24.930 MHz  1500 W  any	1  24.890  –  24.930 MHz  1500 W  any	1 
+    24.930  –  24.990 MHz  1500 W  any	2  24.930  –  24.990 MHz  1500 W  any	2 
+  10 m  28.000  –  28.300 MHz  1500 W  any	1  28.000  –  28.300 MHz  1500 W  any	1 
+    28.300  –  29.700 MHz  1500 W  any	2  28.300  –  29.700 MHz  1500 W  any	2 
+  6 m  50.000  –  50.100 MHz  1500 W  CW  50.000  –  50.100  MHz  1500 W  CW 
+    50.100  –  54.000 MHz  1500 W  any  50.100  –  54.000 MH z  1500 W  any 
+  4 m                      
+  2 m  144.000  –  144.100 MHz  1500 W  CW  144.000  –  144. 100 MHz  1500 W  CW
+ 	
+    144.100  –  148.000 MHz  1500 W  any  144.100  –  148.00 0 MHz  1500 W  any	 	
+  1.25 m  222.000  –  225.000 MHz  1500 W  any  222.000  – 225.000 MHz  1500 W  any 
+  70 cm  420.000  – 450.000 MHz	5  1500 W	6  any  420.000  – 450.000 MHz	5  1500 W	6  any 
+  33 cm  902.000  – 928.000 MHz	7  1500 W	8  any  902.000  – 928.000 MHz	7  1500 W	8  any 
+  23 cm  1.240  –  1.300 GHz  1500 W  any  1.240  –  1.300 G Hz  1500 W  any 
+  13 cm  2.300  –  2.310 GHz  1500 W  any  2.300  –  2.310 G Hz  1500 W  any 
+    2.390  –  2.450 GHz  1500 W  any  2.390  –  2.450 GHz  15 00 W  any 
+  9 cm  3.300  –  3.500 GHz  1500 W  any  3.300  –  3.500 GH z  1500 W  any 
+
+61 
+ 
+  6 cm  5.650  –  5.925 GHz  1500 W  any  5.650  –  5.925 GH z  1500 W  any 
+  3 cm  10.000  –  10.500 GHz  1500 W  any  10.000  –  10.50 0 GHz  1500 W  any 
+  1.2 cm  24.000  –  24.250 GHz  1500 W  any  24.000  –  24. 250 GHz  1500 W  any 
+  6 mm  47.000  –  47.200 GHz  1500 W  any  47.000  –  47.20 0 GHz  1500 W  any 
+  4 mm  76.000  –  81.000 GHz  1500 W  any  76.000  –  81.00 0 GHz  1500 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  1500 W  any  122.250  –  123.000 GHz  1500 W  any 
+  2 mm  134.000  –  141.000 GHz  1500 W  any  134.000  –  14 1.000 GHz  1500 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  1500 W  any  241.000  –  250.000 GHz  1500 W  any 
+        >275.000 GHz  1500 W  any      >275.000 GHz  1500 W  a ny 
+  
+Notes 
+1  CW, RTTY, data 2  CW, phone, image 3  A1A, J2B, J2D, J3E only; CW and data emissions mus t be centered 1.5 kHz above the channel frequencies indicated 4  7.075–7.100 MHz: phone, image only west of 130° W  and south of 20° N 5  420.000–430.000 MHz: regional restrictions 6  50 W in restricted areas 7  Regional restrictions in Colorado, New Mexico, Texas, Wyoming 8  50 W within 241 km of the boundaries of the White Sands Missile Range, Texas/New Mexico 
+ 
+Info 
+American Radio Relay League (ARRL) – http://www.arr l.org/files/file/Regulatory/Band Chart/Band Chart - 11X17 Color.pdf (current as of 
+2017-09-28); U. S. Government Publishing Office (GP O) – https://www.ecfr.gov/cgi-bin/text-
+idx?SID=8af8b5e1e8905a037414fdcfbff48c93&mc=true&no de=pt47.5.97&rgn=div5#se47.5.97_1301 (current as of 2021-02-14) 
+   
+
+62 
+ 
+United States of America – ITU Region 3 
+  
+American Samoa, Baker Island, Howland Island, North ern Mariana Islands, Guam Island, Palmyra Island, Jarvis Island, 
+Kingman Reef, Wake Island  
+  CEPT  CEPT Novice 
+Implementation   T/R 61-01 implemented  ECC/REC/(05)06 not implement ed, but CEPT  
+    Novice accepted under Extra Class conditions 
+Call sign   KH1/  Baker Island, Howland Island    KH1/  Baker Isla nd, Howland Island   
+  KH2/  Guam Island      KH2/  Guam Island      
+  KH5/  Jarvis Island, Palmyra Island    KH5/  Jarvis Is land, Palmyra Island   
+  KH5K/  Kingman Reef      KH5K/  Kingman Reef        
+  KH8/  American Samoa      KH8/  American Samoa     
+  KH9/  Wake Island (Islets Peale, Wake, Wilkes)  KH9/   Wake Island (Islets Peale, Wake, Wilkes) 
+  KHØ/  Commonwealth of Northern Mariana Islands  KHØ/   Commonwealth of Northern Mariana Islands 
+Extensions   /M      /M 
+Equivalent   Extra Class      Extra Class 
+national class  
+Band  Frequency Range  Power  Bandwidth/  Frequency Ran ge  Power  Bandwidth/ 
+    (PEP)  Modes    (PEP)  Modes  
+ 2200 m    
+  630 m   
+  160 m  1.800  –  2.000 MHz  1500 W  any	
+2  1.800  –  2.000 MHz  1500 W  any	2 
+  80 m  3.500  –  3.750 MHz  1500 W  any	1 	3.500  –  3.750 MHz  1500 W  any	1 
+  75 m  3.750  –  3.900 MHz  1500 W  any	2 	3.750  –  3.900 MHz  1500 W  any	2 
+  60 m   
+  40 m  7.000  –  7.125 MHz  1500 W  any	
+1  7.000  –  7.125 MHz  1500 W  any	1 
+    7.125  –  7.200 MHz  1500 W  any	2  7.125  –  7.200 MHz  1500 W  any	2 
+  30 m  10.100  –  10.150 MHz  200 W  any	1  10.100  –  10.150 MHz  200 W  any	1 
+  20 m  14.000  –  14.150 MHz  1500 W  any	1  14.000  –  14.150 MHz  1500 W  any	1 
+    14.150  –  14.350 MHz  1500 W  any	2  14.150  –  14.350 MHz  1500 W  any	2 
+  17 m  18.068  –  18.110 MHz  1500 W  any	1  18.068  –  18.110 MHz  1500 W  any	1 
+    18.110  –  18.168 MHz  1500 W  any	2  18.110  –  18.168 MHz  1500 W  any	2 
+  15 m  21.000  –  21.200 MHz  1500 W  any	1  21.000  –  21.200 MHz  1500 W  any	1 
+    21.200  –  21.450 MHz  1500 W  any	2  21.200  –  21.450 MHz  1500 W  any	2 
+  12 m  24.890  –  24.930 MHz  1500 W  any	1  24.890  –  24.930 MHz  1500 W  any	1 
+    24.930  –  24.990 MHz  1500 W  any	2  24.930  –  24.990 MHz  1500 W  any	2 
+  10 m  28.000  –  28.300 MHz  1500 W  any	1  28.000  –  28.300 MHz  1500 W  any	1 
+    28.300  –  29.700 MHz  1500 W  any	2  28.300  –  29.700 MHz  1500 W  any	2 
+  6 m  50.000  –  50.100 MHz  1500 W  CW  50.000  –  50.100  MHz  1500 W  CW   
+    50.100  –  54.000 MHz  1500 W  any  50.100  –  54.000 MH z  1500 W  any 
+  4 m                      
+  2 m  144.000  –  144.100 MHz  1500 W  CW  144.000  –  144. 100 MHz  1500 W  CW
+ 	
+    144.100  –  148.000 MHz  1500 W  any  144.100  –  148.00 0 MHz  1500 W  any	 	
+  1.25 m   
+  70 cm  430.000  –  440.000 MHz  1500 W  any  430.000  –  440.000 MHz  1500 W  any 
+  33 cm    
+  23 cm  1.240  –  1.300 GHz  1500 W  any  1.240  –  1.300 G Hz  1500 W  any 
+  13 cm  2.300  –  2.310 GHz  1500 W  any  2.300  –  2.310 G Hz  1500 W  any 
+    2.390  –  2.450 GHz  1500 W  any  2.390  –  2.450 GHz  15 00 W  any 
+  9 cm  3.300  –  3.500 GHz  1500 W  any  3.300  –  3.500 GH z  1500 W  any 
+  6 cm  5.650  –  5.850 GHz  1500 W  any  5.650  –  5.850 GH z  1500 W  any 
+  3 cm  10.000  –  10.500 GHz  1500 W  any  10.000  –  10.50 0 GHz  1500 W  any 
+  1.2 cm  24.000  –  24.250 GHz  1500 W  any  24.000  –  24. 250 GHz  1500 W  any 
+  6 mm  47.000  –  47.200 GHz  1500 W  any  47.000  –  47.20 0 GHz  1500 W  any 
+  4 mm  76.000  –  81.000 GHz  1500 W  any  76.000  –  81.00 0 GHz  1500 W  any 
+ 2.5 mm  122.250  –  123.000 GHz  1500 W  any  122.250  –  123.000 GHz  1500 W  any 
+  2 mm  134.000  –  141.000 GHz  1500 W  any  134.000  –  14 1.000 GHz  1500 W  any 
+ 1.2 mm  241.000  –  250.000 GHz  1500 W  any  241.000  –  250.000 GHz  1500 W  any 
+        >275.000 GHz  1500 W  any      >275.000 GHz  1500 W  a ny 
+ 
+Notes 
+1  CW, RTTY, data 2  CW, phone, image 3  A1A, J2B, J2D, J3E only; CW and data emissions mus t be centered 1.5 kHz above the channel frequencies indicated 
+ 
+Info  
+American Radio Relay League (ARRL) – http://www.arr l.org/files/file/Regulatory/Band Chart/Band Chart - 11X17 Color.pdf (current as of 
+2017-09-22); U. S. Government Publishing Office (GP O) – https://www.ecfr.gov/cgi-bin/text-
+idx?SID=8af8b5e1e8905a037414fdcfbff48c93&mc=true&no de=pt47.5.97&rgn=div5#se47.5.97_1301 (current as of 2021-02-14)	
+ 	  
+
+63 
+ 
+General information 
+The “CEPT Licence” falls under the CEPT recommendat ion T/R 61-01 (https://docdb.cept.org/download/2ae38a89-e58a/TR6101.pdf, 
+current as of 2021-02-14), the “CEPT Novice Licence ” falls under the CEPT recommendation ECC/REC/(05)0 6 
+(https://docdb.cept.org/download/0c9ce02d-96b4/Rec0 506.pdf, current as of 2019-01-29). 
+To operate under CEPT regulations, you need to have  your own licence document with you. It is also advisable to carry a copy of the 
+licensing regulations in your own country and a cop y of the licensing regulations in the foreign country with you as well as a printout of 
+the applicable CEPT recommendation.  
+This list has been compiled according to official d ocuments. No responsibility is taken for the correc tness of this information. 
+ 
+
+64 
+ 
+IARU Region 1 Band Plan 
+  
+Band  Frequency Range  Bandwidth  Modes    
+ 2200 m  135.700  –  137.800 kHz  0.2 kHz  CW  
+  630 m  472.000  –  475.000 kHz  0.2 kHz  CW  
+    475.000  –  479.000 kHz  0.5 kHz	
+1 	narrow band 
+  160 m  1.810  –  1.838 MHz  0.2 kHz  CW  
+    1.838  –  1.840 MHz  0.5 kHz  narrow band  
+    1.840  –  2.000 MHz  2.7 kHz  any  
+  80 m  3.500  –  3.570 MHz  0.2 kHz  CW 
+    3.570  –  3.580 MHz  0.2 kHz  narrow band  
+    3.580  –  3.600 MHz  0.5 kHz  narrow band  
+    3.600  –  3.800 MHz  2.7 kHz  any 
+  60 m  5.3515  –  5.354 MHz  0.2 kHz  CW, narrow band  
+    5.354  –  5.366 MHz  2.7 kHz  any  
+    5.366  –  5.3665 MHz  0.02 kHz  narrow band 
+  40 m  7.000  –  7.040 MHz  0.2 kHz  CW  
+    7.040  –  7.050 MHz  0.5 kHz  narrow band  
+    7.050  –  7.200 MHz  2.7 kHz  any 
+  30 m  10.100  –  10.130 MHz  0.2 kHz  CW  
+    10.130  –  10.150 MHz  0.5 kHz  narrow band  
+  20 m  14.000  –  14.070 MHz  0.2 kHz	
+ 	CW 
+    14.070  –  14.099 MHz  0.5 kHz  narrow band  
+    14.099  –  14.101 MHz 	
+ 	beacons 
+    14.101  –  14.350 MHz  2.7 kHz  any  
+  17 m  18.068  –  18.095 MHz  0.2 kHz	
+ 	CW   
+    18.095  –  18.109 MHz  0.5 kHz  narrow band   
+    18.109  –  18.111 MHz  0.2 kHz	
+ 	beacons 
+    18.111  –  18.168 MHz  2.7 kHz  any  
+  15 m  21.000  –  21.070 MHz  0.2 kHz  CW  
+    21.070  –  21.110 MHz  0.5 kHz  narrow band 
+    21.110  –  21.120 MHz  2.7 kHz  any  
+    21.120  –  21.149 MHz  0.5 kHz  narrow band  
+    21.149  –  21.151 MHz    beacons 
+    21.151  –  21.450 MHz  2.7 kHz  any  
+  12 m  24.890  –  24.915 MHz  0.2 kHz	
+ 	CW   
+    24.915  –  24.929 MHz  0.5 kHz  narrow band    
+    24.929  –  24.931 MHz 	
+ 	beacons 
+    24.931  –  24.990 MHz  2.7 kHz  any 
+  10 m  28.000  –  28.070 MHz  0.2 kHz  CW 
+    28.070  –  28.190 MHz  0.5 kHz  narrow band  
+    28.190  –  28.225 MHz    beacons  
+    28.225  –  29.000 MHz  2.7 kHz  any 
+    29.000  –  29.300 MHz  6 kHz  any  
+    29.300  –  29.510 MHz  6 kHz  satellite oiperation  
+    29.510  –  29.520 MHz    guard channel 
+    29.520  –  29.700 MHz  6 kHz  any  
+  6 m  50.000  –  50.100 MHz  0.5 kHz  beacons, CW  
+    50.100  –  50.300 MHz  2.7 kHz  CW, SSB 
+    50.300  –  50.400 MHz  2.7 kHz  narrow band, digital  
+    50.400  –  50.500 MHz  1 kHz  digital, CW  
+    50.500  –  52.000 MHz  12 kHz  any  
+    52.000  –  54.000 MHz  0.5 kHz  any  
+  4 m  70.000  –  70.100 MHz  1 kHz  digital, CW 
+    70.100  –  70.250 MHz  1 kHz  SSB, CW, digital  
+    70.250  –  70.294 MHz  12 kHz  AM, FM  
+    70.294  –  70.500 MHz  12 kHz  FM 
+  2 m  144.000  –  144.025 MHz  2.7 kHz  any  
+    144.025  –  144.100 MHz  0.5 kHz  CW  
+    144.100  –  144.150 MHz  0.5 kHz  digital, CW 
+    144.150  –  144.400 MHz  2.7 kHz  SSB, CW, digital  
+    144.400  –  144.490 MHz  0.5 kHz  digital, CW  
+    144.491  –  144.493 MHz  0.5 kHz  digital beacons 
+    144.500  –  144.794 MHz  20 kHz  any  
+    144.794  – 144.9625 MHz  12 kHz  digital  
+    144.975  –  145.194 MHz  12 kHz  FM, digital voice (r epeater input) 
+    145.194  –  145.206 MHz  12 kHz  FM, digital voice (s pace communication) 
+    145.206  – 145.5625 MHz  12 kHz  FM, digital voice 
+    145.575  – 145.7935 MHz  12 kHz  FM, digital voice ( repeater output) 
+    145.794  –  145.806 MHz  12 kHz  FM, digital voice (s pace communication)  
+    145.806  –  146.000 MHz  12 kHz  any (satellite opera tion)  
+  70 cm  430.000  –  432.000 MHz  20 kHz  any 
+    432.000  –  432.100 MHz  0.5 kHz  digital, CW  
+    432.100  –  432.400 MHz  2.7 kHz  digital, CW, SSB  
+    432.400  –  432.490 MHz  0.5 kHz  beacons 
+
+65 
+ 
+Band  Frequency Range  Bandwidth  Modes    
+    432.500  –  433.000 MHz  12 kHz  any  
+    433.000  –  433.400 MHz  12 kHz  FM, digital voice, r epeater input 
+    433.400  –  433.600 MHz  12 kHz  FM, digital voice  
+    433.600  –  434.000 MHz  20 kHz  any  
+    434.000  –  434.594 MHz  12 kHz  any, ATV 
+    434.594  –  434.981 MHz  12 kHz  any, digital voice,  repeater output 
+    435.000  –  438.000 MHz  12 kHz  any (satellite opera tion) 
+    438.000  –  440.000 MHz  20 kHz  any 
+  23 cm  1.240  –  1.2405 GHz  2.7 kHz  any (reserved)    
+    1.2405  –  1.24075 GHz  0.5 kHz  digital, CW (beacons  reserved) 
+    1.24075  –  1.241 GHz  20 kHz  FM, digital voice (res erved) 
+    1.241  –  1.24325 GHz  20 kHz  any (repeater output) 
+    1.24325  –  1.260 GHz    ATV, DATV (repeater output)  
+    1.260  –  1.270 GHz    satellite operation  
+    1.270  –  1.272 GHz  20 kHz  any (repeater input)   
+    1.272  – 1.290994 GHz    ATV. DATV  
+    1.290994  – 1.291481 GHz  20 kHz  FM, digital voice  (repeater input)   
+    1.291494  –  1.296 GHz    any (repeater input)  
+    1.296  –  1.29615 GHz  0.5 kHz  digital, CW  
+    1.29615  –  1.2968 GHz  2,7 kHz  digital, CW, SSB 
+    1.2968  – 1.296994 GHz  0.5 kHz  beacons  
+    1.296994  – 1.297481 GHz  20 kHz  FM, digital voice  (repeater output) 
+    1.297494  – 1.297981 GHz  20 kHz  FM, digital voice  
+    1.298  –  1.299 GHz  20 kHz  any  
+    1.299  –  1.29975 GHz  150 kHz  any  
+    1.29975  –  1.300 GHz  20 kHz  any 
+  13 cm  2.300  –  2.320 GHz  20 kHz  any  
+    2.320  –  2.3208 GHz    any    
+    2.3208  –  2.321 GHz    beacons 
+    2.321  –  2.322 GHz  20 kHz  FM, digital voice  
+    2.322  –  2.400 GHz    any  
+    2.400  –  2.450 GHz    satellite operation 
+  9 cm  3.400  –  3.4008 GHz  0.5 kHz  digital, CW  
+    3.4008  – 3.400995 GHz    beacons  
+    3.401  –  3.402 GHz  2.7 kHz  any 
+    3.402  –  3.410 GHz    any (satellite operation downl ink) 
+    3.410  –  3.475 GHz    any 
+  6 cm  5.650  –  5.670 GHz  2.7 kHz  any (satellite oper ation uplink) 
+    5.670  –  5.700 GHz    digital  
+    5.720  –  5.760 GHz    any  
+    5.760  –  5.7608 GHz  2.7 kHz  any 
+    5.7608  –  5.76099 GHz    beacons  
+    5.761  –  5.762 GHz  2.7 kHz  any  
+    5.762  –  5.790 GHz    any 
+    5.790  –  5.850 GHz    any (satellite operation downl ink)   
+  3 cm  10.000  –  10.150 GHz    digital 
+    10.150  –  10.250 GHz    any 
+    10.250  –  10.350 GHz    digital  
+    10.350  –  10.368 GHz    any  
+    10.368  –  10.3688 GHz  2.7 kHz  any    
+    10.3688  – 10.36899 GHz    beacons  
+    10.369  –  10.370 GHz  2.7 kHz  any 
+    10.370  –  10.500 GHz    any  
+  1.2 cm  24.000  –  24.048 GHz    any    
+    24.048  –  24.0488 GHz  2.7 kHz  any (satellite opera tion) 
+    24.0488  –24.048995 GHz    beacons  
+    24.049  –  24.050 GHz  2.7 kHz  any (satellite operat ion) 
+    24.050  –  24.250 GHz    any    
+  6 mm  47.000  –  47.088 GHz    any    
+    47.088  –  47.090 GHz  2.7 kHz  any    
+    47.090  –  47.200 GHz    any   
+  4 mm  75.500  –  76.000 GHz  2.7 kHz  any (satellite op eration) 
+    76.000  –  77.500 GHz    any   
+    77.500  –  77.501 GHz  2.7 kHz  any (satellite operat ion) 
+    77.501  –  81.500 GHz    any    
+ 2.5 mm  122.250  –  122.251 GHz  2.7 kHz  any    
+      122.251  –  123.000 GHz    any   
+  2 mm  134.000  –  134.928 GHz    any (satellite operati on) 
+    134.928  –  134.930 GHz  2.7 kHz  any   
+    134.930  –  141.000 GHz    any   
+ 1.2 mm  241.000  –  248.000 GHz    any    
+    248.000  –  248.001 GHz    any (satellite operation)  
+    248.001  –  250.000 GHz    any    
+
+66 
+ 
+Notes 1  Bandwidth not specified, 0.5 kHz suggested   
+Info  
+IARU Region 1 – https://www.iaru-r1.org/wp-content/ uploads/2019/08/hf_r1_bandplan.pdf; https://www.iar u-r1.org/wp-
+content/uploads/2020/12/VHF-Bandplan.pdf; https://w ww.iaru-r1.org/wp-content/uploads/2020/12/UHF-Bandp lan.pdf; https://www.iaru-
+r1.org/wp-content/uploads/2020/12/SHF-Bandplan.pdf;  http://www.iaru-r1.org/wp-content/uploads/2020/12/%C2%B5W-Bandplan.pdf 
+(current as of 2021-02-15) 
