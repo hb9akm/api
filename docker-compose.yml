@@ -1,0 +1,51 @@
+version: '2'
+services:
+  web:
+    image: "hb9akm/api"
+    hostname: "api.lvh.me"
+    volumes:
+      - ./src/:/var/www/html
+    environment:
+      - VIRTUAL_HOST=api.lvh.me
+      - HTTPS_METHOD=noredirect
+    restart: always
+    expose:
+      - 80
+    networks:
+      - front-end
+      - back-end
+  db:
+    image: "mariadb:10.1"
+    command: --sql-mode="NO_ENGINE_SUBSTITUTION,NO_AUTO_VALUE_ON_ZERO" --character-set-server=utf8 --collation-server=utf8_general_ci
+    volumes:
+      - db-data:/var/lib/mysql
+      - ./tmp/db:/tmp/import
+    networks:
+      - back-end
+    environment:
+      - MYSQL_ROOT_PASSWORD=123456
+      - MYSQL_DATABASE=dev
+    restart: always
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    hostname: "phpma.api.lvh.me"
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=db
+      - PMA_USER=root
+      - PMA_PASSWORD=123456
+      - VIRTUAL_HOST=phpma.api.lvh.me
+    networks:
+      - front-end
+      - back-end
+    depends_on:
+      - db
+    restart: always
+networks:
+  front-end:
+    external:
+      name: nginx-proxy
+  back-end:
+volumes:
+  db-data:
+
