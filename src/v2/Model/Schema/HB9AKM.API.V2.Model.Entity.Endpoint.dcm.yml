@@ -1,0 +1,24 @@
+HB9AKM\API\V2\Model\Entity\Endpoint:
+  type: entity
+  table: entity
+  repositoryClass: "HB9AKM\\API\\V2\\Model\\Repository\\EndpointRepository"
+  gedmo:
+    translation:
+      locale: locale
+      entity: HB9AKM\API\V2\Model\Entity\Translation
+  id:
+    id:
+      type: integer
+      generator:
+        strategy: AUTO
+  fields:
+    name:
+      type: string
+    label:
+      type: string
+      gedmo:
+        - translatable
+    description:
+      type: string
+      gedmo:
+        - translatable
